@@ -96,6 +96,23 @@
             border-radius: 5px;
             margin-top: 10px;
         }
+        #actualites-officielles {
+    margin: 20px 0;
+}
+
+.actualite {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+}
+
+.actualite h3 {
+    margin: 0;
+}
+
+.actualite p {
+    margin: 5px 0;
+}
+
     </style>
 </head>
 <body>
@@ -110,8 +127,45 @@
             <li><a href="#nucleaire">Engagement militaire</a></li>
         </ul>
     </nav>
+    
 
     <main>
+
+        <section id="actualites-officielles">
+            <h2>Actualités officielles</h2>
+            <div id="flux-actualites"></div>
+            <script>
+    async function fetchRSS() {
+        const response = await fetch('chemin/vers/votre_fichier.txt'); // Remplacez par le chemin de votre fichier RSS
+        const text = await response.text();
+        const parser = new DOMParser();
+        const xmlDoc = parser.parseFromString(text, "text/xml");
+        const items = xmlDoc.getElementsByTagName('item');
+        let html = '';
+
+        for (let i = 0; i < items.length; i++) {
+            const title = items[i].getElementsByTagName('title')[0].textContent;
+            const description = items[i].getElementsByTagName('description')[0].textContent;
+            const link = items[i].getElementsByTagName('link')[0].textContent;
+            const pubDate = new Date(items[i].getElementsByTagName('pubDate')[0].textContent);
+
+            html += `
+                <div class="actualite">
+                    <h3><a href="${link.startsWith('//') ? 'http:' + link : link}" target="_blank">${title}</a></h3>
+                    <p>${description}</p>
+                    <p><small>Publié le ${pubDate.toLocaleDateString()}</small></p>
+                </div>
+            `;
+        }
+
+        document.getElementById('flux-actualites').innerHTML = html;
+    }
+
+    fetchRSS();
+</script>
+
+        </section>
+
         <section id="gouvernement">
             <h2>Le Gouvernement</h2>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Luc_Frieden_-_2024_%28cropped%29.jpg/200px-Luc_Frieden_-_2024_%28cropped%29.jpg" alt="Luc Frieden, Premier ministre du Luxembourg" class="small-image">
