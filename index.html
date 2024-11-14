@@ -136,7 +136,7 @@
             <div id="flux-actualites"></div>
             <script>
     async function fetchRSS() {
-        const response = await fetch('toutes_actualités.rss'); // Remplacez par le chemin de votre fichier RSS
+        const response = await fetch('toutes_actualites.rss'); // Remplacez par le chemin de votre fichier RSS
         const text = await response.text();
         const parser = new DOMParser();
         const xmlDoc = parser.parseFromString(text, "text/xml");
