@@ -4,166 +4,43 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gouvernement du Grand-Duché de Luxembourg</title>
-    <style>
-        body { 
-            font-family: 'Open Sans', Arial, sans-serif; 
-            line-height: 1.6; 
-            margin: 0; 
-            padding: 0; 
-            background-color: #f4f4f4; 
-            color: #333;
-        }
-        header { 
-            background-color: #1d1d1b; 
-            color: white; 
-            text-align: center; 
-            padding: 1rem; 
-        }
-        .logo { 
-            max-width: 300px; 
-            height: auto; 
-            display: block;
-            margin: 0 auto;
-        }
-        nav { 
-            background-color: #e30613; 
-            padding: 0.5rem; 
-        }
-        nav ul { 
-            list-style-type: none; 
-            padding: 0; 
-            text-align: center; 
-            margin: 0;
-        }
-        nav ul li { 
-            display: inline-block; 
-            margin-right: 20px; 
-        }
-        nav ul li a { 
-            color: white; 
-            text-decoration: none; 
-            font-weight: bold;
-        }
-        main { 
-            max-width: 1200px; 
-            margin: 0 auto; 
-            padding: 20px; 
-            background-color: white; 
-            box-shadow: 0 0 10px rgba(0,0,0,0.1); 
-        }
-        .article-image, .small-image { 
-            max-width: 100%; 
-            height: auto; 
-            margin-bottom: 15px; 
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-        }
-        .small-image { 
-            max-width: 200px; 
-        }
-        .image-caption { 
-            font-style: italic; 
-            text-align: center; 
-            margin-bottom: 20px; 
-        }
-        h2 { 
-            color: #e30613; 
-            border-bottom: 2px solid #e30613; 
-            padding-bottom: 10px; 
-        }
-        h3 { 
-            color: #1d1d1b; 
-        }
-        .highlight-box { 
-            background-color: #f2f2f2; 
-            border-left: 5px solid #e30613; 
-            padding: 15px; 
-            margin: 20px 0; 
-        }
-        footer { 
-            background-color: #1d1d1b; 
-            color: white; 
-            text-align: center; 
-            padding: 1rem; 
-        }
-        .btn {
-            display: inline-block;
-            background-color: #e30613;
-            color: white;
-            padding: 10px 20px;
-            text-decoration: none;
-            border-radius: 5px;
-            margin-top: 10px;
-        }
-        #actualites-officielles {
-    margin: 20px 0;
-}
-
-.actualite {
-    border-bottom: 1px solid #ccc;
-    padding: 10px 0;
-}
-
-.actualite h3 {
-    margin: 0;
-}
-
-.actualite p {
-    margin: 5px 0;
-}
-
-    </style>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
 </head>
 <body>
     <header>
         <img src="https://gouvernement.lu/dam-assets/images/gouv_logo.png" alt="Logo du Gouvernement du Grand-Duché de Luxembourg" class="logo">
     </header>
 
-    <nav>
-        <ul>
-            <li><a href="#actualites">Actualités</a></li>
-            <li><a href="#gouvernement">Gouvernement</a></li>
-            <li><a href="#nucleaire">Engagement militaire</a></li>
-        </ul>
+    <nav class="navbar navbar-expand-lg">
+        <div class="container">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a class="nav-link" href="#actualites">Actualités</a></li>
+                <li class="nav-item"><a class="nav-link" href="#gouvernement">Gouvernement</a></li>
+                <li class="nav-item"><a class="nav-link" href="#nucleaire">Engagement militaire</a></li>
+            </ul>
+        </div>
     </nav>
-    
 
-    <main>
-
-        <section id="actualites-officielles">
+    <main class="container">
+        <section id="actualites" class="mb-5">
             <h2>Actualités officielles</h2>
-            <div id="flux-actualites"></div>
-            <script>
-    async function fetchRSS() {
-        const response = await fetch('toutes_actualites.rss'); // Remplacez par le chemin de votre fichier RSS
-        const text = await response.text();
-        const parser = new DOMParser();
-        const xmlDoc = parser.parseFromString(text, "text/xml");
-        const items = xmlDoc.getElementsByTagName('item');
-        let html = '';
-
-        for (let i = 0; i < items.length; i++) {
-            const title = items[i].getElementsByTagName('title')[0].textContent;
-            const description = items[i].getElementsByTagName('description')[0].textContent;
-            const link = items[i].getElementsByTagName('link')[0].textContent;
-            const pubDate = new Date(items[i].getElementsByTagName('pubDate')[0].textContent);
-
-            html += `
-                <div class="actualite">
-                    <h3><a href="${link.startsWith('//') ? 'http:' + link : link}" target="_blank">${title}</a></h3>
-                    <p>${description}</p>
-                    <p><small>Publié le ${pubDate.toLocaleDateString()}</small></p>
+            <div id="carouselActualites" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner" id="flux-actualites">
+                    <!-- Le contenu du carrousel sera inséré ici par JavaScript -->
                 </div>
-            `;
-        }
-
-        document.getElementById('flux-actualites').innerHTML = html;
-    }
-
-    fetchRSS();
-</script>
-
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselActualites" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Précédent</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselActualites" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Suivant</span>
+                </button>
+            </div>
+            <div class="text-center mt-3">
+                <a href="actus.html" class="btn btn-primary">Voir toutes les actualités</a>
+            </div>
         </section>
 
         <section id="gouvernement">
@@ -171,39 +48,60 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Luc_Frieden_-_2024_%28cropped%29.jpg/200px-Luc_Frieden_-_2024_%28cropped%29.jpg" alt="Luc Frieden, Premier ministre du Luxembourg" class="small-image">
             <p class="image-caption">Luc Frieden, Premier ministre du Luxembourg</p>
             <p>Le gouvernement du Grand-Duché de Luxembourg est dirigé par le Premier ministre Luc Frieden. Il est composé de ministres et de secrétaires d'État qui assurent la gestion des différents départements ministériels.</p>
-            <a href="#" class="btn">Découvrir le gouvernement</a>
+            <a href="#" class="btn btn-primary">Découvrir le gouvernement</a>
         </section>
 
         <article id="nucleaire">
             <h2>Le Luxembourg s'engage pour l'arme nucléaire</h2>
-            
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Trident_II_missile_image.jpg/640px-Trident_II_missile_image.jpg" alt="Missile nucléaire" class="article-image">
             <p class="image-caption">L'engagement militaire du Luxembourg et son programme nucléaire</p>
-
             <p>Le Grand-Duché de Luxembourg, conscient du contexte politique tendu, a décidé de se doter de l'arme nucléaire dans le but de garantir sa souveraineté vis-à-vis des autres puissances européennes.</p>
-
-            <h3>Programme Nucléaire</h3>
-            <p>Le Luxembourg a fixé des objectifs ambitieux en matière de défense territoriale. D'ici 2030, le pays vise à doubler son stock d'ogives nucléaires. Pour atteindre cet objectif, le gouvernement a mis en place plusieurs initiatives :</p>
-            <ul>
-                <li>Développement massif de l'industrie minière pour l'exploitation des mines d'uranium</li>
-                <li>Investissement massif dans la recherche militaire (18% du PIB)</li>
-                <li>Mise en place d'un service militaire obligatoire dès 21 ans</li>
-            </ul>
-
             <div class="highlight-box">
                 <h4>Le saviez-vous ?</h4>
                 <p>Le Luxembourg a désormais assez de bombes nucléaires pour raser 280 fois la surface de la Belgique.</p>
             </div>
-
-            <h3>Sécurité et dissuasion</h3>
-            <p>L'adoption d'un arsenal nucléaire est au cœur de la nouvelle stratégie de défense du Luxembourg. Le gouvernement investit massivement dans les technologies de pointe pour assurer la sécurité du pays et maintenir une force de dissuasion crédible.</p>
-
-            <a href="#" class="btn">En savoir plus</a>
+            <a href="#" class="btn btn-primary">En savoir plus</a>
         </article>
     </main>
 
     <footer>
-        <p>&copy; 2024 Gouvernement du Grand-Duché de Luxembourg | <a href="#" style="color: white;">Mentions légales</a> | <a href="#" style="color: white;">Protection des données</a></p>
+        <p>&copy; 2024 Gouvernement du Grand-Duché de Luxembourg | <a href="#">Mentions légales</a> | <a href="#">Protection des données</a></p>
     </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        async function fetchRSS() {
+            const response = await fetch('toutes_actualites.rss');
+            const text = await response.text();
+            const parser = new DOMParser();
+            const xmlDoc = parser.parseFromString(text, "text/xml");
+            const items = xmlDoc.getElementsByTagName('item');
+            let html = '';
+
+            for (let i = 0; i < Math.min(items.length, 10); i++) {
+                const title = items[i].getElementsByTagName('title')[0].textContent;
+                const description = items[i].getElementsByTagName('description')[0].textContent;
+                const link = items[i].getElementsByTagName('link')[0].textContent;
+                const pubDate = new Date(items[i].getElementsByTagName('pubDate')[0].textContent);
+
+                html += `
+                    <div class="carousel-item ${i === 0 ? 'active' : ''}">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">${title}</h5>
+                                <p class="card-text">${description}</p>
+                                <p class="card-text"><small class="text-muted">Publié le ${pubDate.toLocaleDateString()}</small></p>
+                                <a href="${link.startsWith('//') ? 'http:' + link : link}" class="btn btn-primary" target="_blank">Lire la suite</a>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }
+
+            document.getElementById('flux-actualites').innerHTML = html;
+        }
+
+        fetchRSS();
+    </script>
 </body>
 </html>
