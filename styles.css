@@ -161,3 +161,69 @@ footer a:hover {
 .spacing {
     margin-bottom: 2rem; /* Ajustez la valeur selon vos besoins */
 }
+@media (max-width: 767px) {
+    .carousel-item {
+      height: auto;
+    }
+    
+    .carousel-item .card {
+      margin-bottom: 1rem;
+    }
+  }
+  
+  #nucleaire {
+    margin-bottom: 3rem;
+  }
+  
+  #nucleaire article {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    border-radius: 10px;
+  }
+  
+  #nucleaire h2 {
+    color: #003DA5;
+    border-bottom: none;
+    margin-bottom: 1rem;
+  }
+  
+  #nucleaire img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+  }
+  
+  #nucleaire p {
+    margin-bottom: 1rem;
+    line-height: 1.8;
+  }
+  
+  #defense {
+    margin-top: 3rem;
+  }
+  
+  #defense article {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    border-radius: 10px;
+  }
+  
+  #defense h2 {
+    color: #003DA5;
+    border-bottom: none;
+    margin-bottom: 1rem;
+  }
+  
+  #defense img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+  }
+  
+  #defense p {
+    margin-bottom: 1rem;
+    line-height: 1.8;
+  }
+  
