@@ -226,4 +226,22 @@ footer a:hover {
     margin-bottom: 1rem;
     line-height: 1.8;
   }
-  
+  .carousel-item {
+  height: auto;
+  min-height: 450px;
+}
+
+.carousel-item .card {
+  height: 100%;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-text {
+  flex-grow: 1;
+  overflow: hidden;
+}
+
