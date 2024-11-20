@@ -25,29 +25,133 @@
     <main class="container">
         <section id="actualites" class="mb-5">
             <h2>Actualités officielles</h2>
-            <div id="carouselActualites" class="carousel slide" data-bs-ride="carousel">
-                <div class="carousel-inner" id="flux-actualites">
-                    <!-- Le contenu du carrousel sera inséré ici par JavaScript -->
+            <div id="carouselActualites" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
+                    <div class="carousel-inner" id="flux-actualites">
+                        <!-- Le contenu du carrousel sera inséré ici par JavaScript -->
+                    </div>
+                    <div class="carousel-indicators">
+                        <!-- Les indicateurs seront ajoutés ici par JavaScript -->
+                    </div>
                 </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#carouselActualites" data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Précédent</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carouselActualites" data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Suivant</span>
-                </button>
-            </div>
+                
             <div class="text-center mt-3">
                 <a href="actus.html" class="btn btn-primary">Voir toutes les actualités</a>
             </div>
         </section>
 
-        <section id="gouvernement">
-            <h2>Le Gouvernement</h2>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Luc_Frieden_-_2024_%28cropped%29.jpg/200px-Luc_Frieden_-_2024_%28cropped%29.jpg" alt="Luc Frieden, Premier ministre du Luxembourg" class="small-image">
-            <p class="image-caption">Luc Frieden, Premier ministre du Luxembourg</p>
-            <p>Le gouvernement du Grand-Duché de Luxembourg est dirigé par le Premier ministre Luc Frieden. Il est composé de ministres et de secrétaires d'État qui assurent la gestion des différents départements ministériels.</p>
+            <section id="gouvernement">
+                <h2>Le Gouvernement</h2>
+                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-5 g-4">
+                    <div class="col">
+                        <div class="government-member text-center">
+                            <img src="https://gouvernement.lu/dam-assets/images/ministres/gouvernement-2023-2028/2023-frieden-portrait-officiel.jpg" alt="Luc Frieden" class="img-fluid rounded-circle mb-2">
+                            <h3>Luc FRIEDEN</h3>
+                            <p>Premier ministre</p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="government-member text-center">
+                            <img src="https://gouvernement.lu/dam-assets/images/ministres/gouvernement-2023-2028/2023-bettel-portrait-officiel.jpg" alt="Xavier Bettel" class="img-fluid rounded-circle mb-2">
+                            <h3>Xavier BETTEL</h3>
+                            <p>Vice-Premier ministre</p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="government-member text-center">
+                            <img src="https://gouvernement.lu/dam-assets/images/ministres/gouvernement-2023-2028/2023-hansen-portrait-officiel.jpg" alt="Martine Hansen" class="img-fluid rounded-circle mb-2">
+                            <h3>Martine HANSEN</h3>
+                            <p>Ministre de l'Agriculture</p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="government-member text-center">
+                            <img src="https://gouvernement.lu/dam-assets/images/ministres/gouvernement-2023-2028/2023-meisch-portrait-officiel.jpg" alt="Claude Meisch" class="img-fluid rounded-circle mb-2">
+                            <h3>Claude MEISCH</h3>
+                            <p>Ministre de l'Éducation nationale</p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="government-member text-center">
+                            <img src="https://gouvernement.lu/dam-assets/images/ministres/gouvernement-2023-2028/2023-delles-portrait-officiel.jpg" alt="Lex Delles" class="img-fluid rounded-circle mb-2">
+                            <h3>Lex DELLES</h3>
+                            <p>Ministre de l'Économie</p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="government-member text-center">
+                            <img src="https://gouvernement.lu/dam-assets/images/ministres/gouvernement-2023-2028/2023-backes-portrait-officiel.jpg" alt="Yuriko Backes" class="img-fluid rounded-circle mb-2">
+                            <h3>Yuriko BACKES</h3>
+                            <p>Ministre de la Défense</p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="government-member text-center">
+                            <img src="https://gouvernement.lu/dam-assets/images/ministres/gouvernement-2023-2028/2023-hahn-portrait-officiel.jpg" alt="Max Hahn" class="img-fluid rounded-circle mb-2">
+                            <h3>Max HAHN</h3>
+                            <p>Ministre de la Famille</p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="government-member text-center">
+                            <img src="https://gouvernement.lu/dam-assets/images/ministres/gouvernement-2023-2028/2023-roth-portrait-officiel.jpg" alt="Gilles Roth" class="img-fluid rounded-circle mb-2">
+                            <h3>Gilles ROTH</h3>
+                            <p>Ministre des Finances</p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="government-member text-center">
+                            <img src="https://gouvernement.lu/dam-assets/images/ministres/gouvernement-2023-2028/2023-deprez-portrait-officiel.jpg" alt="Martine Deprez" class="img-fluid rounded-circle mb-2">
+                            <h3>Martine DEPREZ</h3>
+                            <p>Ministre de la Santé</p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="government-member text-center">
+                            <img src="https://gouvernement.lu/dam-assets/images/ministres/gouvernement-2023-2028/2023-gloden-portrait-officiel.jpg" alt="Léon Gloden" class="img-fluid rounded-circle mb-2">
+                            <h3>Léon GLODEN</h3>
+                            <p>Ministre des Affaires intérieures</p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="government-member text-center">
+                            <img src="https://gouvernement.lu/dam-assets/images/ministres/gouvernement-2023-2028/2023-obertin-portrait-officiel.jpg" alt="Stéphanie Obertin" class="img-fluid rounded-circle mb-2">
+                            <h3>Stéphanie OBERTIN</h3>
+                            <p>Ministre de la Digitalisation</p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="government-member text-center">
+                            <img src="https://gouvernement.lu/dam-assets/images/ministres/gouvernement-2023-2028/2023-mischo-portrait-officiel.jpg" alt="Georges Mischo" class="img-fluid rounded-circle mb-2">
+                            <h3>Georges MISCHO</h3>
+                            <p>Ministre des Sports</p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="government-member text-center">
+                            <img src="https://gouvernement.lu/dam-assets/images/ministres/gouvernement-2023-2028/2023-wilmes-portrait-officiel.jpg" alt="Serge Wilmes" class="img-fluid rounded-circle mb-2">
+                            <h3>WILMES Serge</h3>
+                            <p>Ministre de l'Environnement</p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="government-member text-center">
+                            <img src="https://gouvernement.lu/dam-assets/images/ministres/gouvernement-2023-2028/2023-margue-portrait-officiel.jpg" alt="Elisabeth Margue" class="img-fluid rounded-circle mb-2">
+                            <h3>MARGUE Elisabeth</h3>
+                            <p>Ministre de la Justice</p>
+                        </div>
+                    </div>
+                    
+                    <div class="col">
+                        <div class="government-member text-center">
+                            <img src="https://gouvernement.lu/dam-assets/images/ministres/gouvernement-2023-2028/2023-thill-portrait-officiel.jpg" alt="Eric Thill" class="img-fluid rounded-circle mb-2">
+                            <h3>THILL Eric</h3>
+                            <p>Ministre de la Culture</p>
+                        </div>
+                    </div>
+                    
+                </div>
+            </section>
+            
             <a href="#" class="btn btn-primary">Découvrir le gouvernement</a>
         </section>
 
@@ -71,37 +175,57 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script>
         async function fetchRSS() {
-            const response = await fetch('toutes_actualites.rss');
-            const text = await response.text();
-            const parser = new DOMParser();
-            const xmlDoc = parser.parseFromString(text, "text/xml");
-            const items = xmlDoc.getElementsByTagName('item');
-            let html = '';
+    const response = await fetch('toutes_actualites.rss');
+    const text = await response.text();
+    const parser = new DOMParser();
+    const xmlDoc = parser.parseFromString(text, "text/xml");
+    const items = xmlDoc.getElementsByTagName('item');
+    let html = '';
+    let indicatorsHtml = '';
 
-            for (let i = 0; i < Math.min(items.length, 10); i++) {
-                const title = items[i].getElementsByTagName('title')[0].textContent;
-                const description = items[i].getElementsByTagName('description')[0].textContent;
-                const link = items[i].getElementsByTagName('link')[0].textContent;
-                const pubDate = new Date(items[i].getElementsByTagName('pubDate')[0].textContent);
+    for (let i = 0; i < Math.min(items.length, 10); i += 2) {
+        const item1 = items[i];
+        const item2 = i + 1 < items.length ? items[i + 1] : null;
 
-                html += `
-                    <div class="carousel-item ${i === 0 ? 'active' : ''}">
-                        <div class="card">
-                            <div class="card-body">
-                                <h5 class="card-title">${title}</h5>
-                                <p class="card-text">${description}</p>
-                                <p class="card-text"><small class="text-muted">Publié le ${pubDate.toLocaleDateString()}</small></p>
-                                <a href="${link.startsWith('//') ? 'http:' + link : link}" class="btn btn-primary" target="_blank">Lire la suite</a>
-                            </div>
-                        </div>
+        html += `
+            <div class="carousel-item ${i === 0 ? 'active' : ''}">
+                <div class="row">
+                    <div class="col-md-6">
+                        ${createNewsCard(item1)}
                     </div>
-                `;
-            }
+                    <div class="col-md-6">
+                        ${item2 ? createNewsCard(item2) : ''}
+                    </div>
+                </div>
+            </div>`;
+        
+        indicatorsHtml += `
+            <button type="button" data-bs-target="#carouselActualites" data-bs-slide-to="${i/2}" ${i === 0 ? 'class="active"' : ''} aria-label="Slide ${i/2 + 1}"></button>`;
+    }
 
-            document.getElementById('flux-actualites').innerHTML = html;
-        }
+    document.getElementById('flux-actualites').innerHTML = html;
+    document.querySelector('.carousel-indicators').innerHTML = indicatorsHtml;
+}
 
-        fetchRSS();
+function createNewsCard(item) {
+    const title = item.getElementsByTagName('title')[0].textContent;
+    const description = item.getElementsByTagName('description')[0].textContent;
+    const link = item.getElementsByTagName('link')[0].textContent;
+    const pubDate = new Date(item.getElementsByTagName('pubDate')[0].textContent);
+
+    return `
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title">${title}</h5>
+                <p class="card-text">${description}</p>
+                <p class="card-text"><small class="text-muted">Publié le ${pubDate.toLocaleDateString()}</small></p>
+                <a href="${link.startsWith('//') ? 'http:' + link : link}" class="btn btn-primary" target="_blank">Lire la suite</a>
+            </div>
+        </div>`;
+}
+
+fetchRSS();
+
     </script>
 </body>
 </html>
