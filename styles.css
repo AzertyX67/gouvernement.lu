@@ -1,105 +1,163 @@
-body { 
-    font-family: 'Open Sans', Arial, sans-serif; 
-    line-height: 1.6; 
+body {
+    font-family: 'Open Sans', Arial, sans-serif;
+    line-height: 1.6;
     color: #333;
-    background-color: #f4f4f4; 
+    background-color: #f4f4f4;
 }
 
-header { 
-    background-color: #1d1d1b; 
-    color: white; 
-    text-align: center; 
-    padding: 1rem; 
+header {
+    background-color: #1d1d1b;
+    color: white;
+    text-align: center;
+    padding: 1.5rem;
 }
 
-.logo { 
-    max-width: 300px; 
+.logo {
+    max-width: 300px;
 }
 
-nav { 
-    background-color: #003DA5; /* Updated to match the official color */
+nav {
+    background-color: #003DA5;
+    padding: 0.5rem 0;
 }
 
-nav .nav-link { 
-    color: white; 
+nav .nav-link {
+    color: white;
     font-weight: bold;
+    padding: 0.5rem 1rem;
+    margin: 0 0.25rem;
+    transition: background-color 0.3s ease;
 }
 
-main { 
-    background-color: white; 
-    box-shadow: 0 0 10px rgba(0,0,0,0.1); 
-    padding: 20px;
+nav .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.1);
 }
 
-.article-image, .small-image { 
-    max-width: 100%; 
-    height: auto; 
+main {
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    padding: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 8px;
 }
 
-.small-image { 
-    max-width: 200px; 
+.article-image, .small-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+    border-radius: 4px;
 }
 
-.image-caption { 
-    font-style: italic; 
+.small-image {
+    max-width: 200px;
 }
 
-h2 { 
-    color: #e30613; /* Main heading color */
+.image-caption {
+    font-style: italic;
+    margin-top: 0.5rem;
+    color: #666;
 }
 
-.highlight-box { 
-    background-color: #f2f2f2; 
-    border-left: 5px solid #e30613; 
+h2 {
+    color: #e30613;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #e30613;
 }
 
-footer { 
-    background-color: #1d1d1b; 
-    color: white; 
-    text-align: center; 
+.highlight-box {
+    background-color: #f2f2f2;
+    border-left: 5px solid #e30613;
+    padding: 1.5rem;
+    margin: 2rem 0;
+    border-radius: 0 4px 4px 0;
+}
+
+footer {
+    background-color: #1d1d1b;
+    color: white;
+    text-align: center;
+    padding: 1.5rem 0;
+    margin-top: 2rem;
 }
 
 footer a {
     color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+footer a:hover {
+    color: #e30613;
 }
 
 .carousel-item {
-   height: 400px;
+    height: 450px;
 }
 
 .carousel-item .card {
-   height: 100%;
+    height: 100%;
+    margin: 0 0.5rem;
 }
 
-/* Custom styles for carousel indicators */
 .carousel-indicators button {
-   background-color: #e30613;
+    background-color: #e30613;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin: 0 5px;
 }
+
 .government-member {
     background-color: #f8f9fa;
-    padding: 15px;
+    padding: 1.5rem;
     border-radius: 10px;
-    transition: transform 0.3s ease;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    margin-bottom: 1.5rem;
 }
 
 .government-member:hover {
     transform: translateY(-5px);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.1);
 }
 
 .government-member img {
-    width: 120px;
-    height: 120px;
+    width: 140px;
+    height: 140px;
     object-fit: cover;
+    border: 3px solid #003DA5;
+    margin-bottom: 1rem;
 }
 
 .government-member h3 {
-    font-size: 1rem;
-    margin-top: 10px;
-    margin-bottom: 5px;
+    font-size: 1.1rem;
+    margin-top: 0.75rem;
+    margin-bottom: 0.5rem;
+    color: #003DA5;
 }
 
 .government-member p {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     margin-bottom: 0;
+    color: #666;
+}
+
+#actualites, #gouvernement, #nucleaire {
+    margin-bottom: 3rem;
+}
+
+.btn-primary {
+    background-color: #003DA5;
+    border-color: #003DA5;
+    padding: 0.5rem 1.5rem;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #002d7a;
+    border-color: #002d7a;
+}
+.spacing {
+    margin-bottom: 2rem; /* Ajustez la valeur selon vos besoins */
 }
