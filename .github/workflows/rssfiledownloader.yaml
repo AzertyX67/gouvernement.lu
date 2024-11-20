@@ -1,9 +1,9 @@
 name: Update RSS Feed
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'  # Exécution toutes les heures
-
+    - cron: '*/15 * * * *'
 jobs:
   update-rss:
     runs-on: ubuntu-latest
