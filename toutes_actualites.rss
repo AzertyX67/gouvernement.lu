@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 20 Nov 2024 14:33:48 +0100 </pubDate>
-                <lastBuildDate>Wed, 20 Nov 2024 14:40:43 +0100</lastBuildDate>
+                <pubDate>Thu, 21 Nov 2024 00:00:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 21 Nov 2024 08:14:46 +0100</lastBuildDate>
+            
+            <item>
+                <title>Annulation des cours de l'Ecole internationale de Differdange (EIDE) le jeudi 21 novembre 2024 </title>
+                <description>Suite à un incendie qui s'est déclaré dans la soirée du 20 novembre 2024 dans un local poubelles de la cour de l'Ecole internationale de Differdange (EIDE), tous les cours de l'école primaire et secondaire de l'EIDE sur le site de Differdange sont annulés</description>
+                <pubDate>Thu, 21 Nov 2024 08:14:46 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/21-annulation-cours-ecole-internationale.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/21-annulation-cours-ecole-internationale.html</guid>
+            </item>
+        
             
             <item>
                 <title>Prolongation de l'aide temporaire impact environnemental </title>
@@ -487,15 +496,6 @@
                 <pubDate>Sun, 10 Nov 2024 10:54:55 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/09-oto-planet-geneve.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/09-oto-planet-geneve.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>DBRS Morningstar confirme le &quot;AAA&quot; du Luxembourg avec perspectives stables</title>
-                <description>Le 8 novembre 2024, l'agence de notation DBRS Morningstar a confirmé la notation "AAA" du Grand-Duché de Luxembourg avec perspectives "stables".</description>
-                <pubDate>Sat, 9 Nov 2024 10:48:14 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/08-aaa-dbrs.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/08-aaa-dbrs.html</guid>
             </item>
         
     </channel>
