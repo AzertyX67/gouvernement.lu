@@ -33,8 +33,26 @@
         </skipDays>
         
             
-                <pubDate>Thu, 21 Nov 2024 16:34:00 +0100 </pubDate>
-                <lastBuildDate>Thu, 21 Nov 2024 16:35:51 +0100</lastBuildDate>
+                <pubDate>Fri, 22 Nov 2024 08:24:00 +0100 </pubDate>
+                <lastBuildDate>Fri, 22 Nov 2024 08:25:42 +0100</lastBuildDate>
+            
+            <item>
+                <title>&quot;Je suis un Premier ministre capitaine très actif&quot;</title>
+                <description>Interview avec Luc Frieden dans Paperjam</description>
+                <pubDate>Fri, 22 Nov 2024 08:25:42 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2024/11-novembre/22-frieden-paperjam.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2024/11-novembre/22-frieden-paperjam.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>Veille légale du mois d'octobre</title>
+                <description>Décision (UE) 2024/2586 du Conseil du 23 septembre 2024 sur la position à prendre au nom de l’Union européenne lors de la 16e Assemblée générale de l’Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF) Mise en application de nouvelles normes...</description>
+                <pubDate>Fri, 22 Nov 2024 08:20:10 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_acf%2Bfr%2Bactualites%2B2024%2B11-novembre%2Bveille-legale-du-mois-d-octobre.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_acf%2Bfr%2Bactualites%2B2024%2B11-novembre%2Bveille-legale-du-mois-d-octobre.html</guid>
+            </item>
+        
             
             <item>
                 <title>Yuriko Backes au Conseil de l'Europe à Strasbourg dans le cadre de la présidence luxembourgeoise du Comité des ministres </title>
@@ -477,24 +495,6 @@
                 <pubDate>Mon, 11 Nov 2024 17:32:15 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/11-delles-marie-astrid.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/11-delles-marie-astrid.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>L'Armée luxembourgeoise célèbre la fête patronale Saint-Martin au centre militaire </title>
-                <description>En date du 11 novembre 2024, l'Armée a célébré sa fête patronale Saint-Martin au centre militaire à Diekirch, en présence de la ministre de la Défense, Yuriko Backes.</description>
-                <pubDate>Mon, 11 Nov 2024 14:48:27 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/11-backes-saint-martin.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/11-backes-saint-martin.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Stéphanie Obertin visite la faculté de médecine de l'Université de Fribourg et le Fraunhofer ISE</title>
-                <description>Les 7 et 8 novembre 2024, S.A.R. le Grand-Duc, accompagné de la ministre de la Recherche et de l'Enseignement supérieur, Stéphanie Obertin, s'est rendu en visite officielle à Fribourg, en Allemagne.</description>
-                <pubDate>Mon, 11 Nov 2024 12:48:31 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/11-obertin-fribourg.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/11-obertin-fribourg.html</guid>
             </item>
         
     </channel>
