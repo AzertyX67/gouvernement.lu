@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Sat, 23 Nov 2024 18:17:23 +0100 </pubDate>
-                <lastBuildDate>Sat, 23 Nov 2024 18:20:40 +0100</lastBuildDate>
+                <pubDate>Sat, 23 Nov 2024 18:25:00 +0100 </pubDate>
+                <lastBuildDate>Sat, 23 Nov 2024 18:36:17 +0100</lastBuildDate>
+            
+            <item>
+                <title>Visite au Luxembourg du général Robert Brieger, président du comité militaire de l'Union européenne</title>
+                <description>Faisant suite à une invitation du général Steve Thull, chef d'état-major de l'Armée luxembourgeoise, le général Robert Brieger, "Chairman of the European Union Military Committee" (CEUMC) s'est rendu à Diekirch pour une visite ce 22 novembre et a été ...</description>
+                <pubDate>Sat, 23 Nov 2024 18:36:17 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/23-visite-brieger.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/23-visite-brieger.html</guid>
+            </item>
+        
             
             <item>
                 <title>Fitch Ratings confirme la notation &quot;AAA&quot; avec perspectives stables du Luxembourg </title>
@@ -486,16 +495,6 @@
                 <pubDate>Wed, 13 Nov 2024 14:19:39 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/13-grippe-aviaire-europe.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/13-grippe-aviaire-europe.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Consultation nationale sur le développement des énergies renouvelables au Luxembourg &quot;Einfach - Séier - Erneierbar&quot; </title>
-                <description>Dans le cadre de la consultation nationale sur le développement des énergies renouvelables, une réunion s'est tenue le 13 novembre 2024 au château de Senningen.
-</description>
-                <pubDate>Wed, 13 Nov 2024 13:54:37 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/13-frieden-consultation-energies-renouvelables.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/13-frieden-consultation-energies-renouvelables.html</guid>
             </item>
         
     </channel>
