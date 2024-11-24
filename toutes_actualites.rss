@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Sat, 23 Nov 2024 18:25:00 +0100 </pubDate>
-                <lastBuildDate>Sat, 23 Nov 2024 18:36:17 +0100</lastBuildDate>
+                <pubDate>Sun, 24 Nov 2024 18:53:50 +0100 </pubDate>
+                <lastBuildDate>Sun, 24 Nov 2024 19:04:15 +0100</lastBuildDate>
+            
+            <item>
+                <title>Accord sur le nouvel objectif de financement climatique à la COP29 à Bakou </title>
+                <description>La 29e conférence des Nations unies sur les changements climatiques (COP29) s'est déroulée en Azerbaïdjan à Bakou, du 11 au 24 novembre 2024.</description>
+                <pubDate>Sun, 24 Nov 2024 19:04:15 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/24-wilmes-cop29.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/24-wilmes-cop29.html</guid>
+            </item>
+        
             
             <item>
                 <title>Visite au Luxembourg du général Robert Brieger, président du comité militaire de l'Union européenne</title>
@@ -486,15 +495,6 @@
                 <pubDate>Wed, 13 Nov 2024 17:14:35 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mpc%2Bfr%2Bactualites%2B2024%2B11-novembre%2Bjel.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mpc%2Bfr%2Bactualites%2B2024%2B11-novembre%2Bjel.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Réapparition de la grippe aviaire en Europe: L'ALVA rappelle les mesures de prévention </title>
-                <description>Suite à la détection de foyers d'influenza aviaire hautement pathogène en Allemagne, en Autriche et en France, l'ALVA rappelle que les mesures de biosécurité listées ci-dessous sont aujourd'hui plus que jamais d’application.</description>
-                <pubDate>Wed, 13 Nov 2024 14:19:39 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/13-grippe-aviaire-europe.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/13-grippe-aviaire-europe.html</guid>
             </item>
         
     </channel>
