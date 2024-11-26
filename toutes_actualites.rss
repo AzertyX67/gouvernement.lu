@@ -33,8 +33,18 @@
         </skipDays>
         
             
-                <pubDate>Mon, 25 Nov 2024 17:04:18 +0100 </pubDate>
-                <lastBuildDate>Mon, 25 Nov 2024 17:12:51 +0100</lastBuildDate>
+                <pubDate>Tue, 26 Nov 2024 00:00:00 +0100 </pubDate>
+                <lastBuildDate>Tue, 26 Nov 2024 10:58:50 +0100</lastBuildDate>
+            
+            <item>
+                <title>Réaménagement de l'échangeur Pontpierre: vitesse limitée à 70 km/h en direction d'Esch-sur-Alzette à partir du samedi 30 novembre 2024 </title>
+                <description>Les travaux de cette nouvelle phase dureront jusqu'à mi 2026.
+</description>
+                <pubDate>Tue, 26 Nov 2024 10:58:50 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/26-reamenagement-pontpierre.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/26-reamenagement-pontpierre.html</guid>
+            </item>
+        
             
             <item>
                 <title>Assermentation d'un membre du cadre policier et de huit membres du cadre civil de la Police grand-ducale </title>
@@ -485,15 +495,6 @@
                 <pubDate>Fri, 15 Nov 2024 10:32:36 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/14-loi-comptage-divisionnaire.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/14-loi-comptage-divisionnaire.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Réhabilitation de l'OA1004 sur l'autoroute A6: vitesse maximale réduite à 70 km/h entre l'échangeur Mamer-Capellen et l'aire de Capellen jusqu'en été 2026 </title>
-                <description>En raison de travaux de réhabilitation et d'élargissement du pont autoroutier OA1004, qui démarreront le vendredi 15 novembre 2024 et dureront jusqu'en été 2026, la vitesse maximale autorisée sera réduite à 70 km/h en direction de la Belgique. </description>
-                <pubDate>Thu, 14 Nov 2024 16:05:23 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/14-rehabilitation-a6.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/14-rehabilitation-a6.html</guid>
             </item>
         
     </channel>
