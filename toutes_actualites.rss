@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 28 Nov 2024 11:17:33 +0100 </pubDate>
-                <lastBuildDate>Thu, 28 Nov 2024 11:42:39 +0100</lastBuildDate>
+                <pubDate>Thu, 28 Nov 2024 11:53:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 28 Nov 2024 11:53:26 +0100</lastBuildDate>
+            
+            <item>
+                <title>Infections respiratoires: rétrospective de la semaine du 18 au 24 novembre 2024</title>
+                <description>La Direction de la santé publie sa rétrospective hebdomadaire concernant l'évolution des principales infections respiratoires aigües, incluant la COVID-19, la grippe, le virus respiratoire syncytial (RSV) et la coqueluche.</description>
+                <pubDate>Thu, 28 Nov 2024 11:53:26 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/28-retrospective.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/28-retrospective.html</guid>
+            </item>
+        
             
             <item>
                 <title>Luxembourg Space Week − une semaine dédiée au spatial du 2 au 5 décembre 2024 </title>
@@ -485,15 +494,6 @@
                 <pubDate>Tue, 19 Nov 2024 17:13:21 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/19-meisch-gloden-politique-urbaine.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/19-meisch-gloden-politique-urbaine.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Chantier sur la croix de Cessange</title>
-                <description>L'Administration des ponts et chaussées procédera au remplacement des systèmes de retenu dans la croix de Cessange à partir du vendredi 22.11.2024 vers 19 h 30 jusqu'au dimanche 24.11.2024 vers 23 heures.</description>
-                <pubDate>Tue, 19 Nov 2024 10:35:38 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/19-chantier-cessange.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/19-chantier-cessange.html</guid>
             </item>
         
     </channel>
