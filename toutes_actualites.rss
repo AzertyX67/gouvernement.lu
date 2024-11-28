@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 27 Nov 2024 16:07:27 +0100 </pubDate>
-                <lastBuildDate>Wed, 27 Nov 2024 16:10:40 +0100</lastBuildDate>
+                <pubDate>Thu, 28 Nov 2024 11:17:33 +0100 </pubDate>
+                <lastBuildDate>Thu, 28 Nov 2024 11:31:51 +0100</lastBuildDate>
+            
+            <item>
+                <title>Luxembourg Space Week − une semaine dédiée au spatial du 2 au 5 décembre 2024 </title>
+                <description>La Luxembourg Space Agency (LSA) annonce la Luxembourg Space Week, organisée du 2 au 5 décembre 2024 au cœur du quartier d'affaires, dans les locaux du European Convention Centre Luxembourg.</description>
+                <pubDate>Thu, 28 Nov 2024 11:31:51 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/28-luxembourg-space-week.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/28-luxembourg-space-week.html</guid>
+            </item>
+        
             
             <item>
                 <title>Eric Thill présente le budget 2025: priorité au soutien du secteur culturel conventionné</title>
@@ -485,15 +494,6 @@
                 <pubDate>Tue, 19 Nov 2024 10:35:38 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/19-chantier-cessange.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/19-chantier-cessange.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>L’AEC de l’assurance dépendance communique à l’occasion de la Journée mondiale de l’enfance - 20.11.2024</title>
-                <description>A l’occasion de la « Journée mondiale de l’enfance » qui a lieu le 20.11.2024, l’Administration d’évaluation et de contrôle de l’assurance dépendance (AEC) juge intéressant de vous communiquer certains chiffres en relation avec ses bénéficiaires jeunes, âgés entre 0...</description>
-                <pubDate>Wed, 20 Nov 2024 08:26:13 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_aec%2Bfr%2Bactualites%2Btoutesactualites%2B2024%2Bnovembre-2024%2Bjournee-mondiale-enfance-2024.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_aec%2Bfr%2Bactualites%2Btoutesactualites%2B2024%2Bnovembre-2024%2Bjournee-mondiale-enfance-2024.html</guid>
             </item>
         
     </channel>
