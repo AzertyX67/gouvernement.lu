@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 28 Nov 2024 14:28:01 +0100 </pubDate>
-                <lastBuildDate>Thu, 28 Nov 2024 14:34:08 +0100</lastBuildDate>
+                <pubDate>Thu, 28 Nov 2024 15:50:42 +0100 </pubDate>
+                <lastBuildDate>Thu, 28 Nov 2024 16:17:24 +0100</lastBuildDate>
+            
+            <item>
+                <title>Lancement d'un site web en l'honneur du patrimoine minier du Luxembourg </title>
+                <description>Le ministère du Travail et l'Inspection du travail et des mines (ITM) ont confié au Luxembourg Centre for Contemporary and Digital History (C²DH) la réalisation d'une recherche sur l'histoire de l'ITM, avec la publication d'un livre prévue pour 2026.</description>
+                <pubDate>Thu, 28 Nov 2024 16:17:24 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/28-site-web-patrimoine-minier.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/28-site-web-patrimoine-minier.html</guid>
+            </item>
+        
             
             <item>
                 <title>Communiqué commun du ministère de la Mobilité et des Travaux publics et du LCGB</title>
@@ -483,15 +492,6 @@
                 <pubDate>Tue, 19 Nov 2024 15:39:22 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/articles/2024/11-novembre/19-gep-hcpn.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/articles/2024/11-novembre/19-gep-hcpn.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Un Mini-Jobday inédit: l'ADEM et la Cour des comptes européenne unissent leurs forces pour l'inclusion professionnelle </title>
-                <description>Pour la première fois, l'Agence pour le développement de l'emploi (ADEM) a organisé un Mini-Jobday en partenariat avec une institution européenne, en l'occurrence la Cour des comptes européenne.</description>
-                <pubDate>Tue, 19 Nov 2024 15:20:10 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/19-mini-jobday-adem.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/19-mini-jobday-adem.html</guid>
             </item>
         
     </channel>
