@@ -33,8 +33,18 @@
         </skipDays>
         
             
-                <pubDate>Fri, 29 Nov 2024 13:42:02 +0100 </pubDate>
-                <lastBuildDate>Fri, 29 Nov 2024 13:49:05 +0100</lastBuildDate>
+                <pubDate>Fri, 29 Nov 2024 16:00:00 +0100 </pubDate>
+                <lastBuildDate>Fri, 29 Nov 2024 15:29:28 +0100</lastBuildDate>
+            
+            <item>
+                <title>Résumé des travaux du 29 novembre 2024</title>
+                <description>Le Conseil de gouvernement s'est réuni vendredi 29 novembre 2024 sous la présidence du Premier ministre Luc Frieden.
+</description>
+                <pubDate>Fri, 29 Nov 2024 15:29:28 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/29-conseil-gouvernement.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/29-conseil-gouvernement.html</guid>
+            </item>
+        
             
             <item>
                 <title>Modifications du programme d'accès au cannabis médicinal </title>
@@ -51,6 +61,16 @@
                 <pubDate>Fri, 29 Nov 2024 11:42:43 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/29-bettel-delles-shanghai.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/29-bettel-delles-shanghai.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>Journée mondiale 2024 de lutte contre le sida: &quot;Prenons le bon chemin: ma santé, mon droit!&quot; </title>
+                <description>À l'occasion de la Journée mondiale de lutte contre le sida, le ministère de la Santé et de la Sécurité sociale relaie le message de l'Organisation mondiale de la santé (OMS): "Prenons le bon chemin: ma santé, mon droit!"
+</description>
+                <pubDate>Fri, 29 Nov 2024 16:04:30 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/29-journee-mondiale-lutte-sida.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/29-journee-mondiale-lutte-sida.html</guid>
             </item>
         
             
@@ -473,25 +493,6 @@
                 <pubDate>Wed, 20 Nov 2024 11:22:18 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/20-chomage-octobre.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/20-chomage-octobre.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>&quot;Landwirtschaft erliewen&quot;: Le projet pédagogique offre aux élèves une expérience d'école à la ferme aux grâce à un système de réservation en ligne </title>
-                <description>Martine Hansen, ministre de l'Agriculture, de l'Alimentation et de la Viticulture et Claude Meisch, ministre de l'Éducation nationale, de l'Enfance et de la Jeunesse, ont présenté aujourd'hui le projet "Landwirtschaft erliewen".
-</description>
-                <pubDate>Wed, 20 Nov 2024 16:09:57 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/20-hansen-meisch-projet-landwirtschaft-erliewen.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/20-hansen-meisch-projet-landwirtschaft-erliewen.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Visite de travail au Luxembourg du commissaire européen en charge du budget et de l'administration, Johannes Hahn </title>
-                <description>Le 19 novembre 2024, le commissaire européen en charge du budget et de l'administration, Johannes Hahn, a effectué une visite de travail au Luxembourg.</description>
-                <pubDate>Wed, 20 Nov 2024 10:53:46 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/20-bettel-hahn.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/20-bettel-hahn.html</guid>
             </item>
         
     </channel>
