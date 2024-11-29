@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 29 Nov 2024 16:00:00 +0100 </pubDate>
-                <lastBuildDate>Fri, 29 Nov 2024 15:29:28 +0100</lastBuildDate>
+                <pubDate>Fri, 29 Nov 2024 16:32:00 +0100 </pubDate>
+                <lastBuildDate>Fri, 29 Nov 2024 16:33:57 +0100</lastBuildDate>
+            
+            <item>
+                <title>Prolongation du régime de la protection temporaire accordée aux personnes ayant fui la guerre en Ukraine et format des documents de séjour délivré</title>
+                <description>Le ministère des Affaires intérieures tient à informer que le régime de la protection temporaire, dont le terme était prévu le 4 mars 2025, est prolongé d'un an jusqu'au 4 mars 2026. </description>
+                <pubDate>Fri, 29 Nov 2024 16:33:57 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/29-protection-ukraine.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/29-protection-ukraine.html</guid>
+            </item>
+        
             
             <item>
                 <title>Résumé des travaux du 29 novembre 2024</title>
@@ -484,15 +493,6 @@
                 <pubDate>Wed, 20 Nov 2024 14:40:43 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/20-prolongation-aide-impact-environnemental.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/20-prolongation-aide-impact-environnemental.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Évolution du chômage en octobre 2024 </title>
-                <description>Le nombre de demandeurs d'emploi résidents disponibles inscrits à l'ADEM s'élève à 18.293 au 31 octobre 2024, en hausse de 1.366 personnes (soit 8,1%) par rapport au mois d'octobre 2023. .</description>
-                <pubDate>Wed, 20 Nov 2024 11:22:18 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/20-chomage-octobre.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/20-chomage-octobre.html</guid>
             </item>
         
     </channel>
