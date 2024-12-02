@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 29 Nov 2024 16:32:00 +0100 </pubDate>
-                <lastBuildDate>Fri, 29 Nov 2024 16:33:57 +0100</lastBuildDate>
+                <pubDate>Mon, 2 Dec 2024 00:00:00 +0100 </pubDate>
+                <lastBuildDate>Mon, 2 Dec 2024 07:36:03 +0100</lastBuildDate>
+            
+            <item>
+                <title>Test du système d'alerte et d'information à la population ''LU-Alert''</title>
+                <description>Le gouvernement poursuivra le 2 décembre 2024 la mise en œuvre de sa stratégie de test du système d'alerte et d'information à la population "LU-Alert" en procédant au test mensuel du réseau des sirènes ainsi qu'à un test local et un test national des SMS.</description>
+                <pubDate>Mon, 2 Dec 2024 07:36:03 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/02-test-lualert.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/02-test-lualert.html</guid>
+            </item>
+        
             
             <item>
                 <title>Prolongation du régime de la protection temporaire accordée aux personnes ayant fui la guerre en Ukraine et format des documents de séjour délivré</title>
@@ -484,15 +493,6 @@
                 <pubDate>Thu, 21 Nov 2024 11:38:10 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/21-delles-sarre-cooperation.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/21-delles-sarre-cooperation.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Annulation des cours de l'Ecole internationale de Differdange (EIDE) le jeudi 21 novembre 2024 </title>
-                <description>Suite à un incendie qui s'est déclaré dans la soirée du 20 novembre 2024 dans un local poubelles de la cour de l'Ecole internationale de Differdange (EIDE), tous les cours de l'école primaire et secondaire de l'EIDE sur le site de Differdange sont annulés</description>
-                <pubDate>Thu, 21 Nov 2024 08:14:46 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/21-annulation-cours-ecole-internationale.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/21-annulation-cours-ecole-internationale.html</guid>
             </item>
         
     </channel>
