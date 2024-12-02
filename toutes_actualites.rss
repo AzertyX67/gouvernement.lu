@@ -33,8 +33,26 @@
         </skipDays>
         
             
-                <pubDate>Mon, 2 Dec 2024 00:00:00 +0100 </pubDate>
-                <lastBuildDate>Mon, 2 Dec 2024 07:36:03 +0100</lastBuildDate>
+                <pubDate>Mon, 2 Dec 2024 15:26:42 +0100 </pubDate>
+                <lastBuildDate>Mon, 2 Dec 2024 15:31:43 +0100</lastBuildDate>
+            
+            <item>
+                <title>Inauguration du nouveau Service d'assistance aux hommes victimes de violence domestique (SAVVD infoMann)</title>
+                <description>Le 1er décembre 2024, infoMann (ActTogether ASBL) a lancé son nouveau Service d'assistance aux hommes victimes de violence domestique (SAVVD).</description>
+                <pubDate>Mon, 2 Dec 2024 15:31:43 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/02-backes-savvd.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/02-backes-savvd.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>Découverte d'un trésor et d'un édifice fortifié romains à Parc Hosingen</title>
+                <description>À la suite de prospections au lieu-dit Um Rank à Holzthum (Parc Hosingen), des fouilles d'archéologie ont été effectuées de 2020 à 2024 sous l'égide de l'Institut national de recherches archéologiques (INRA). </description>
+                <pubDate>Mon, 2 Dec 2024 15:20:21 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/02-inra-parc-hosingen.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/02-inra-parc-hosingen.html</guid>
+            </item>
+        
             
             <item>
                 <title>Test du système d'alerte et d'information à la population ''LU-Alert''</title>
@@ -474,24 +492,6 @@
                 <pubDate>Thu, 21 Nov 2024 16:35:51 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/21-backes-conseil-strasbourg.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/21-backes-conseil-strasbourg.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Visite de travail de Daniel Risch, Premier ministre et ministre des Finances de la principauté de Liechtenstein</title>
-                <description>En date du 21 novembre 2024, le Premier ministre et ministre des Finances de la principauté de Liechtenstein, Daniel Risch, effectue une visite de travail à Luxembourg. </description>
-                <pubDate>Thu, 21 Nov 2024 16:42:35 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/20-visite-travail-risch-liechtenstein.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/20-visite-travail-risch-liechtenstein.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Infections respiratoires: rétrospective de la semaine du 11 au 17 novembre 2024 </title>
-                <description>La Direction de la santé publie sa rétrospective hebdomadaire concernant l'évolution des principales infections respiratoires aigües, incluant la COVID-19, la grippe, le virus respiratoire syncytial (RSV) et la coqueluche.</description>
-                <pubDate>Thu, 21 Nov 2024 12:03:53 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/21-retrospective.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/21-retrospective.html</guid>
             </item>
         
     </channel>
