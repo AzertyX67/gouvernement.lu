@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 2 Dec 2024 15:26:42 +0100 </pubDate>
-                <lastBuildDate>Mon, 2 Dec 2024 15:31:43 +0100</lastBuildDate>
+                <pubDate>Mon, 2 Dec 2024 15:41:00 +0100 </pubDate>
+                <lastBuildDate>Mon, 2 Dec 2024 15:47:55 +0100</lastBuildDate>
+            
+            <item>
+                <title>Luc Frieden begrüßt gute Zusammenarbeit auf Arbeitsbesuch in Saarbrücken</title>
+                <description>Auf Einladung der saarländischen Ministerpräsidentin Anke Rehlinger, war Premierminister Luc Frieden am Montag, den 2. Dezember, auf Arbeitsbesuch in Saarbrücken.</description>
+                <pubDate>Mon, 2 Dec 2024 15:47:55 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2024%2B12-decembre%2B02-frieden-saarbruecken.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2024%2B12-decembre%2B02-frieden-saarbruecken.html</guid>
+            </item>
+        
             
             <item>
                 <title>Inauguration du nouveau Service d'assistance aux hommes victimes de violence domestique (SAVVD infoMann)</title>
@@ -483,15 +492,6 @@
                 <pubDate>Fri, 22 Nov 2024 08:20:10 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_acf%2Bfr%2Bactualites%2B2024%2B11-novembre%2Bveille-legale-du-mois-d-octobre.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_acf%2Bfr%2Bactualites%2B2024%2B11-novembre%2Bveille-legale-du-mois-d-octobre.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Yuriko Backes au Conseil de l'Europe à Strasbourg dans le cadre de la présidence luxembourgeoise du Comité des ministres </title>
-                <description>Les 20 et 21 novembre 2024, la ministre de l'Égalité des genres et de la Diversité, Yuriko Backes, a effectué une visite de travail au Conseil de l'Europe (CoE) à Strasbourg dans le cadre de la présidence luxembourgeoise du Comité des ministres, ...</description>
-                <pubDate>Thu, 21 Nov 2024 16:35:51 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/21-backes-conseil-strasbourg.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/21-backes-conseil-strasbourg.html</guid>
             </item>
         
     </channel>
