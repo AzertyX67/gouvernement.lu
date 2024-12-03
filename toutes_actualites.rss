@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 3 Dec 2024 10:43:12 +0100 </pubDate>
-                <lastBuildDate>Tue, 3 Dec 2024 10:47:13 +0100</lastBuildDate>
+                <pubDate>Tue, 3 Dec 2024 16:03:26 +0100 </pubDate>
+                <lastBuildDate>Tue, 3 Dec 2024 16:05:06 +0100</lastBuildDate>
+            
+            <item>
+                <title>Martine Deprez au Conseil des ministres de la Santé à Bruxelles </title>
+                <description>Le 3 décembre a eu lieu le Conseil EPSCO en sa formation santé à Bruxelles. </description>
+                <pubDate>Tue, 3 Dec 2024 16:05:06 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/03-deprez-epsco.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/03-deprez-epsco.html</guid>
+            </item>
+        
             
             <item>
                 <title>L’ADEM organise un Jobday dédié aux jeunes diplômés</title>
@@ -483,16 +492,6 @@
                 <pubDate>Sat, 23 Nov 2024 18:20:40 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/23-fitch-ratings.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/23-fitch-ratings.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Résumé des travaux du 22 novembre 2024</title>
-                <description>Le Conseil de gouvernement s'est réuni mercredi 22 novembre 2024 sous la présidence du Premier ministre Luc Frieden.
-</description>
-                <pubDate>Fri, 22 Nov 2024 18:25:15 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/22-conseil-gouvernement.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/22-conseil-gouvernement.html</guid>
             </item>
         
     </channel>
