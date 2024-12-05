@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 5 Dec 2024 00:00:00 +0100 </pubDate>
-                <lastBuildDate>Thu, 5 Dec 2024 08:03:31 +0100</lastBuildDate>
+                <pubDate>Thu, 5 Dec 2024 09:31:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 5 Dec 2024 09:33:29 +0100</lastBuildDate>
+            
+            <item>
+                <title>Infections respiratoires: rétrospective de la semaine du 25 novembre au 1 décembre 2024</title>
+                <description>La Direction de la santé publie sa rétrospective hebdomadaire concernant l'évolution des principales infections respiratoires aigües, incluant la COVID-19, la grippe, le virus respiratoire syncytial (RSV) et la coqueluche.</description>
+                <pubDate>Thu, 5 Dec 2024 09:33:29 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/05-retrospective.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/05-retrospective.html</guid>
+            </item>
+        
             
             <item>
                 <title>Xavier Bettel à la réunion des ministres des Affaires étrangères de l'OTAN </title>
@@ -484,16 +493,6 @@
                 <pubDate>Wed, 27 Nov 2024 15:08:59 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/26-mischo-conseil.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/26-mischo-conseil.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Luc Frieden en déplacement à Bruxelles pour le sommet du Benelux </title>
-                <description>Le Premier ministre Luc Frieden a participé au sommet du Benelux, qui s'est tenu en date du 26 novembre 2024 au palais d'Egmont, à Bruxelles.
-</description>
-                <pubDate>Wed, 27 Nov 2024 08:18:08 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/27-frieden-benelux.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/27-frieden-benelux.html</guid>
             </item>
         
     </channel>
