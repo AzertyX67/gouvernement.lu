@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 5 Dec 2024 10:07:36 +0100 </pubDate>
-                <lastBuildDate>Thu, 5 Dec 2024 10:10:49 +0100</lastBuildDate>
+                <pubDate>Thu, 5 Dec 2024 11:00:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 5 Dec 2024 12:25:38 +0100</lastBuildDate>
+            
+            <item>
+                <title>L’AGE a de nouveaux numéros de téléphone</title>
+                <description>Les numéros de téléphone de l’Administration de la gestion de l’eau (AGE) ont changé. Les nouveaux numéros sont d’ores et déjà fonctionnels et peuvent être consultés dans l’annuaire de l’État. Les anciens numéros ne seront plus joignables à partir du...</description>
+                <pubDate>Thu, 5 Dec 2024 12:25:38 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_eau%2Bfr%2Bactualites%2B2024%2B12-decembre%2Bnouveauxnumerostelephone.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_eau%2Bfr%2Bactualites%2B2024%2B12-decembre%2Bnouveauxnumerostelephone.html</guid>
+            </item>
+        
             
             <item>
                 <title>Alerte au phishing: usurpation de l'identité de l'Administration des contributions directes </title>
@@ -483,15 +492,6 @@
                 <pubDate>Tue, 26 Nov 2024 11:32:55 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2024/11-novembre/26-wilmes-lessentiel.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2024/11-novembre/26-wilmes-lessentiel.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Mit dem Geist von Rio nach Belém</title>
-                <description>Interview mit Serge Wilmes im Tageblatt</description>
-                <pubDate>Tue, 26 Nov 2024 11:17:58 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Binterviews%2B2024%2B11-novembre%2B26-wilmes-tageblatt.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Binterviews%2B2024%2B11-novembre%2B26-wilmes-tageblatt.html</guid>
             </item>
         
     </channel>
