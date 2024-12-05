@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 4 Dec 2024 16:32:42 +0100 </pubDate>
-                <lastBuildDate>Wed, 4 Dec 2024 16:39:53 +0100</lastBuildDate>
+                <pubDate>Thu, 5 Dec 2024 00:00:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 5 Dec 2024 08:03:31 +0100</lastBuildDate>
+            
+            <item>
+                <title>Xavier Bettel à la réunion des ministres des Affaires étrangères de l'OTAN </title>
+                <description>Le ministre des Affaires étrangères et du Commerce extérieur, Xavier Bettel, a participé à la réunion des ministres des Affaires étrangères de l'OTAN, qui a eu lieu à Bruxelles les 3 et 4 décembre 2024. </description>
+                <pubDate>Thu, 5 Dec 2024 08:03:31 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/05-bettel-otan.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/05-bettel-otan.html</guid>
+            </item>
+        
             
             <item>
                 <title>Le Luxembourg met à disposition du Rwanda du matériel médical dans le cadre de la lutte contre le virus de Marburg </title>
@@ -485,15 +494,6 @@
                 <pubDate>Wed, 27 Nov 2024 08:18:08 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/27-frieden-benelux.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/27-frieden-benelux.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Assermentation d'un membre du cadre policier et de huit membres du cadre civil de la Police grand-ducale </title>
-                <description>Le 25 novembre 2024, en présence de Karolina Maniewski, Directeur des Ressources Humaines de la Police grand-ducale, 1 membre du cadre policier et 8 membres du cadre civil ont été assermentés par le ministre des Affaires intérieures Léon Gloden. </description>
-                <pubDate>Mon, 25 Nov 2024 17:12:51 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/articles/2024/11-novembre/25-assermentation-police.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/articles/2024/11-novembre/25-assermentation-police.html</guid>
             </item>
         
     </channel>
