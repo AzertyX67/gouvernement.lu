@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 5 Dec 2024 18:43:53 +0100 </pubDate>
-                <lastBuildDate>Fri, 6 Dec 2024 08:19:17 +0100</lastBuildDate>
+                <pubDate>Fri, 6 Dec 2024 10:10:00 +0100 </pubDate>
+                <lastBuildDate>Fri, 6 Dec 2024 09:11:06 +0100</lastBuildDate>
+            
+            <item>
+                <title>Briefing presse: travaux du Conseil de gouvernement</title>
+                <description>Le livestreaming débute vers 16h.</description>
+                <pubDate>Fri, 6 Dec 2024 09:11:06 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/video-conference-presse/2024/12-decembre/06-frieden-livestream-briefing-conseil.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/video-conference-presse/2024/12-decembre/06-frieden-livestream-briefing-conseil.html</guid>
+            </item>
+        
             
             <item>
                 <title>Yuriko Backes a participé au Conseil &quot;Transport, télécommunications et énergie&quot; dans sa formation &quot;Transports&quot; à Bruxelles</title>
@@ -482,15 +491,6 @@
                 <pubDate>Wed, 27 Nov 2024 15:58:08 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/27-hansen-agri-innovation.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/11-novembre/27-hansen-agri-innovation.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Léon Gloden zu Arbeitsbesuch bei saarländischem Minister für Inneres, Bauen und Sport</title>
-                <description>Auf Einladung des saarländischen Ministers für Inneres, Bauen und Sport, Reinhold Jost, war Léon Gloden, Minister für innere Angelegenheiten, am Mittwoch, dem 27. November, zu einem Arbeitsbesuch in Saarbrücken. </description>
-                <pubDate>Wed, 27 Nov 2024 16:15:06 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2024%2B11-novembre%2B27-gloden-saarland.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2024%2B11-novembre%2B27-gloden-saarland.html</guid>
             </item>
         
     </channel>
