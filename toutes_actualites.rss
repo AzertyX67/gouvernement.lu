@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 11 Dec 2024 11:36:16 +0100 </pubDate>
-                <lastBuildDate>Wed, 11 Dec 2024 12:05:10 +0100</lastBuildDate>
+                <pubDate>Wed, 11 Dec 2024 15:34:00 +0100 </pubDate>
+                <lastBuildDate>Wed, 11 Dec 2024 15:40:45 +0100</lastBuildDate>
+            
+            <item>
+                <title>Programme de recherche clinique: les lauréats 2022-2024</title>
+                <description>C'est dans le cadre du Programme de recherche clinique qui a pour ambition de soutenir les initiatives innovatrices des cliniciens au Luxembourg que Martine Deprez, ministre de la Santé et de la Sécurité sociale, et des représentants de la Direction ...</description>
+                <pubDate>Wed, 11 Dec 2024 15:40:45 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/11-deprez-recherche-clinique.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/11-deprez-recherche-clinique.html</guid>
+            </item>
+        
             
             <item>
                 <title>Découverte exceptionnelle à Hollenfels: un pont en pierre et des tours de fortification resurgissent lors de fouilles archéologiques </title>
@@ -481,15 +490,6 @@
                 <pubDate>Tue, 3 Dec 2024 10:47:13 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/03-adem-jobday.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/03-adem-jobday.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Déclaration environnementale de l'ANA 2024</title>
-                <description></description>
-                <pubDate>Tue, 3 Dec 2024 08:31:25 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_ana%2Bfr%2Bactualites%2Bmes-actualites%2B2024%2Bdeclaration-environnementale-de-l-ana-2023.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_ana%2Bfr%2Bactualites%2Bmes-actualites%2B2024%2Bdeclaration-environnementale-de-l-ana-2023.html</guid>
             </item>
         
     </channel>
