@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 11 Dec 2024 15:34:00 +0100 </pubDate>
-                <lastBuildDate>Wed, 11 Dec 2024 15:40:45 +0100</lastBuildDate>
+                <pubDate>Wed, 11 Dec 2024 15:51:58 +0100 </pubDate>
+                <lastBuildDate>Wed, 11 Dec 2024 15:59:52 +0100</lastBuildDate>
+            
+            <item>
+                <title>Assermentation de Monsieur Baptiste Bessière auprès des Archives nationales de Luxembourg</title>
+                <description>Le ministre de la Culture, Eric Thill, a procédé en date du 11 décembre 2024 à l'assermentation de Monsieur Baptiste Bessière, nommée chargé d’études auprès des Archives nationales par arrêté ministériel du 11 décembre 2024. Baptiste Bessière travaille en tant...</description>
+                <pubDate>Wed, 11 Dec 2024 15:59:52 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mcult%2Bfr%2Bactualites%2Bmes-actualites%2B2024%2Bdecembre%2Bassermentation-anlux.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mcult%2Bfr%2Bactualites%2Bmes-actualites%2B2024%2Bdecembre%2Bassermentation-anlux.html</guid>
+            </item>
+        
             
             <item>
                 <title>Programme de recherche clinique: les lauréats 2022-2024</title>
@@ -481,15 +490,6 @@
                 <pubDate>Tue, 3 Dec 2024 16:05:06 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/03-deprez-epsco.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/03-deprez-epsco.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>L’ADEM organise un Jobday dédié aux jeunes diplômés</title>
-                <description>Le 9 décembre, de 9 à 16 heures, l’Agence pour le développement de l’emploi (ADEM) organise un Jobday spécialement destiné aux personnes de moins de trente ans et détentrices d’un diplôme (minimum BAC+2 ou BTS).</description>
-                <pubDate>Tue, 3 Dec 2024 10:47:13 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/03-adem-jobday.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/03-adem-jobday.html</guid>
             </item>
         
     </channel>
