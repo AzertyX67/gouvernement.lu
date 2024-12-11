@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 11 Dec 2024 15:51:58 +0100 </pubDate>
-                <lastBuildDate>Wed, 11 Dec 2024 15:59:52 +0100</lastBuildDate>
+                <pubDate>Wed, 11 Dec 2024 18:18:00 +0100 </pubDate>
+                <lastBuildDate>Wed, 11 Dec 2024 18:22:20 +0100</lastBuildDate>
+            
+            <item>
+                <title>Le Luxembourg maintient son rang au sein du Gender Equality Index de l'Union européenne</title>
+                <description>Le European Institute for Gender Equality (EIGE) a publié en date du 10 décembre 2024 les dernières données du Gender Equality Index de l'Union européenne. </description>
+                <pubDate>Wed, 11 Dec 2024 18:22:20 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/11-backes-gei.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/11-backes-gei.html</guid>
+            </item>
+        
             
             <item>
                 <title>Assermentation de Monsieur Baptiste Bessière auprès des Archives nationales de Luxembourg</title>
@@ -481,15 +490,6 @@
                 <pubDate>Tue, 3 Dec 2024 16:52:15 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/03-delles-automobility-incubator.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/03-delles-automobility-incubator.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Martine Deprez au Conseil des ministres de la Santé à Bruxelles </title>
-                <description>Le 3 décembre a eu lieu le Conseil EPSCO en sa formation santé à Bruxelles. </description>
-                <pubDate>Tue, 3 Dec 2024 16:05:06 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/03-deprez-epsco.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/03-deprez-epsco.html</guid>
             </item>
         
     </channel>
