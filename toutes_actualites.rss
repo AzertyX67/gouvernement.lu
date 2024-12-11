@@ -33,8 +33,18 @@
         </skipDays>
         
             
-                <pubDate>Tue, 10 Dec 2024 15:39:46 +0100 </pubDate>
-                <lastBuildDate>Tue, 10 Dec 2024 15:51:39 +0100</lastBuildDate>
+                <pubDate>Wed, 11 Dec 2024 07:39:09 +0100 </pubDate>
+                <lastBuildDate>Wed, 11 Dec 2024 07:46:14 +0100</lastBuildDate>
+            
+            <item>
+                <title>Fermeture du laboratoire</title>
+                <description>La réception du laboratoire sera fermée à partir du 18 décembre 2024 et de nouveau ouverte au public à partir du 05 janvier 2025.
+</description>
+                <pubDate>Wed, 11 Dec 2024 07:46:14 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_eau%2Bfr%2Bactualites%2B2024%2B12-decembre%2Bfermeture-du-laboratoire.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_eau%2Bfr%2Bactualites%2B2024%2B12-decembre%2Bfermeture-du-laboratoire.html</guid>
+            </item>
+        
             
             <item>
                 <title>Les droits de l’Homme à l’honneur : l’engagement du Luxembourg pour une société juste</title>
@@ -480,15 +490,6 @@
                 <pubDate>Wed, 4 Dec 2024 13:14:08 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/03-obertin-forum.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/03-obertin-forum.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Zweiter &quot;Dag vun der Landwirtschaft&quot; in Ettelbruck: Vorstellung der Ergebnisse der luxemburgischen Landwirtschaft 2023 und Prognosen für 2024</title>
-                <description>Am 2. Dezember 2024 fand in der Däichhal in Ettelbrück der zweite "Dag vun der Landwirtschaft" statt. </description>
-                <pubDate>Mon, 2 Dec 2024 16:42:48 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2024%2B12-decembre%2B02-hansen-ettelbruck.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2024%2B12-decembre%2B02-hansen-ettelbruck.html</guid>
             </item>
         
     </channel>
