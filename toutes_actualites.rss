@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 11 Dec 2024 18:18:00 +0100 </pubDate>
-                <lastBuildDate>Wed, 11 Dec 2024 18:22:20 +0100</lastBuildDate>
+                <pubDate>Wed, 11 Dec 2024 18:29:00 +0100 </pubDate>
+                <lastBuildDate>Wed, 11 Dec 2024 18:35:47 +0100</lastBuildDate>
+            
+            <item>
+                <title>Elisabeth Margue au Data Summit Luxembourg </title>
+                <description>En date du 11 décembre 2024, Elisabeth Margue a participé à la deuxième édition du Data Summit Luxembourg.</description>
+                <pubDate>Wed, 11 Dec 2024 18:35:47 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/11-margue-obertin-data-summit.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/11-margue-obertin-data-summit.html</guid>
+            </item>
+        
             
             <item>
                 <title>Le Luxembourg maintient son rang au sein du Gender Equality Index de l'Union européenne</title>
@@ -481,15 +490,6 @@
                 <pubDate>Wed, 4 Dec 2024 13:11:01 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/04-gloden-esch.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/04-gloden-esch.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Inauguration de l'Automobility Incubator au sein de l'Automobility Campus à Bissen</title>
-                <description>Le 3 décembre, à l'occasion de l'inauguration officielle de l'Automobility Incubator, Lex Delles, ministre de l'Économie, des PME, de l'Énergie et du Tourisme, David Viaggi, bourgmestre de Bissen, et Diego De Biasio, CEO du Technoport, ont présenté à...</description>
-                <pubDate>Tue, 3 Dec 2024 16:52:15 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/03-delles-automobility-incubator.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/03-delles-automobility-incubator.html</guid>
             </item>
         
     </channel>
