@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 12 Dec 2024 17:34:00 +0100 </pubDate>
-                <lastBuildDate>Thu, 12 Dec 2024 17:52:36 +0100</lastBuildDate>
+                <pubDate>Thu, 12 Dec 2024 18:05:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 12 Dec 2024 18:10:09 +0100</lastBuildDate>
+            
+            <item>
+                <title>Léon Gloden au Conseil &quot;Justice et Affaires intérieures&quot; de l'Union européenne</title>
+                <description>Léon Gloden a participé à la réunion du Conseil "Justice et Affaires intérieures" (JAI) de l'Union européenne, qui s'est tenue le 12 décembre 2024 à Bruxelles.</description>
+                <pubDate>Thu, 12 Dec 2024 18:10:09 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/12-gloden-jai.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/12-gloden-jai.html</guid>
+            </item>
+        
             
             <item>
                 <title>Le deuxième &quot;Landwirtschaftsdësch&quot;: des avancées concrètes et des perspectives ambitieuses</title>
@@ -479,15 +488,6 @@
                 <pubDate>Thu, 5 Dec 2024 13:23:21 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_eau%2Bfr%2Bactualites%2B2024%2B12-decembre%2Bnouveauxnumerostelephone.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_eau%2Bfr%2Bactualites%2B2024%2B12-decembre%2Bnouveauxnumerostelephone.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Alerte au phishing: usurpation de l'identité de l'Administration des contributions directes </title>
-                <description>Une tentative de fraude sur contrainte est actuellement en cours: des escrocs contactent des contribuables, y compris à l'étranger, par courrier recommandé en se faisant passer pour des agents de l'Administration des contributions directes (ACD) ...</description>
-                <pubDate>Thu, 5 Dec 2024 10:10:49 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/05-alerte-phishing-acd.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/05-alerte-phishing-acd.html</guid>
             </item>
         
     </channel>
