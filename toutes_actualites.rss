@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 12 Dec 2024 11:19:00 +0100 </pubDate>
-                <lastBuildDate>Thu, 12 Dec 2024 11:21:44 +0100</lastBuildDate>
+                <pubDate>Thu, 12 Dec 2024 11:45:39 +0100 </pubDate>
+                <lastBuildDate>Thu, 12 Dec 2024 11:48:45 +0100</lastBuildDate>
+            
+            <item>
+                <title>Assermentation de deux agents au ministère de l'Environnement, du Climat et de la Biodiversité</title>
+                <description>En date du 12 décembre 2024, Serge Wilmes, ministre de l'Environnement, du Climat et de la Biodiversité, a procédé à l'assermentation de deux agents. </description>
+                <pubDate>Thu, 12 Dec 2024 11:48:45 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/articles/2024/12-decembre/12-wilmes-assermentation.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/articles/2024/12-decembre/12-wilmes-assermentation.html</guid>
+            </item>
+        
             
             <item>
                 <title>Infections respiratoires: rétrospective de la semaine du 2 au 8 décembre 2024</title>
@@ -479,16 +488,6 @@
                 <pubDate>Wed, 4 Dec 2024 16:01:37 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/04-delles-haut-comite.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/04-delles-haut-comite.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Publication DRR 2025 et 2026</title>
-                <description>Conformément à la loi du 06 juin 2019, la version 2.0 du DRR 2025 et la version 1.0 du DRR 2026 ont été publiées.
-</description>
-                <pubDate>Fri, 6 Dec 2024 08:20:01 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_acf%2Bfr%2Bactualites%2B2024%2B12-decembre%2Bpublication-drr-2025-et-2026.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_acf%2Bfr%2Bactualites%2B2024%2B12-decembre%2Bpublication-drr-2025-et-2026.html</guid>
             </item>
         
     </channel>
