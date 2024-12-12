@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 11 Dec 2024 18:29:00 +0100 </pubDate>
-                <lastBuildDate>Wed, 11 Dec 2024 18:35:47 +0100</lastBuildDate>
+                <pubDate>Thu, 12 Dec 2024 08:00:00 +0100 </pubDate>
+                <lastBuildDate>Wed, 11 Dec 2024 08:21:15 +0100</lastBuildDate>
+            
+            <item>
+                <title>Verantwortung und Visionen</title>
+                <description>Interview mit Luc Frieden in der Revue</description>
+                <pubDate>Wed, 11 Dec 2024 08:21:15 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Binterviews%2B2024%2B12-decembre%2B11-frieden-revue.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Binterviews%2B2024%2B12-decembre%2B11-frieden-revue.html</guid>
+            </item>
+        
             
             <item>
                 <title>Elisabeth Margue au Data Summit Luxembourg </title>
@@ -480,15 +489,6 @@
                 <pubDate>Wed, 4 Dec 2024 09:28:28 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/04-inclusion-numerique.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/04-inclusion-numerique.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Fêtes de fin d'année 2024 - Modification des heures d’ouverture de l'accueil </title>
-                <description>Modification des heures d’ouverture de l'accueil </description>
-                <pubDate>Wed, 4 Dec 2024 15:44:18 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mfp%2Bfr%2Bactualites%2B2024%2Bfetesfindannee2024modificationheuresouvertureaccueil.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mfp%2Bfr%2Bactualites%2B2024%2Bfetesfindannee2024modificationheuresouvertureaccueil.html</guid>
             </item>
         
     </channel>
