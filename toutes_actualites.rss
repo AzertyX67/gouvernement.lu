@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 12 Dec 2024 08:00:00 +0100 </pubDate>
-                <lastBuildDate>Wed, 11 Dec 2024 08:21:15 +0100</lastBuildDate>
+                <pubDate>Thu, 12 Dec 2024 11:19:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 12 Dec 2024 11:21:44 +0100</lastBuildDate>
+            
+            <item>
+                <title>Infections respiratoires: rétrospective de la semaine du 2 au 8 décembre 2024</title>
+                <description>La Direction de la santé publie sa rétrospective hebdomadaire concernant l'évolution des principales infections respiratoires aigües, incluant la COVID-19, la grippe, le virus respiratoire syncytial (RSV) et la coqueluche.</description>
+                <pubDate>Thu, 12 Dec 2024 11:21:44 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/12-retrospective.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/12-retrospective.html</guid>
+            </item>
+        
             
             <item>
                 <title>Verantwortung und Visionen</title>
@@ -66,7 +75,7 @@
             <item>
                 <title>Assermentation de Monsieur Baptiste Bessière auprès des Archives nationales de Luxembourg</title>
                 <description>Le ministre de la Culture, Eric Thill, a procédé en date du 11 décembre 2024 à l'assermentation de Monsieur Baptiste Bessière, nommée chargé d’études auprès des Archives nationales par arrêté ministériel du 11 décembre 2024. Baptiste Bessière travaille en tant...</description>
-                <pubDate>Wed, 11 Dec 2024 15:59:52 +0100</pubDate>
+                <pubDate>Thu, 12 Dec 2024 11:29:16 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mcult%2Bfr%2Bactualites%2Bmes-actualites%2B2024%2Bdecembre%2Bassermentation-anlux.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mcult%2Bfr%2Bactualites%2Bmes-actualites%2B2024%2Bdecembre%2Bassermentation-anlux.html</guid>
             </item>
@@ -480,15 +489,6 @@
                 <pubDate>Fri, 6 Dec 2024 08:20:01 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_acf%2Bfr%2Bactualites%2B2024%2B12-decembre%2Bpublication-drr-2025-et-2026.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_acf%2Bfr%2Bactualites%2B2024%2B12-decembre%2Bpublication-drr-2025-et-2026.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Appel à projets pour l'inclusion numérique 2025</title>
-                <description>Le ministère de la Digitalisation lance un appel à projets pour le financement de projets favorisant l'inclusion numérique au Grand-Duché de Luxembourg pour l'année 2025. </description>
-                <pubDate>Wed, 4 Dec 2024 09:28:28 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/04-inclusion-numerique.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/04-inclusion-numerique.html</guid>
             </item>
         
     </channel>
