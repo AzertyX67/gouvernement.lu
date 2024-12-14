@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Sat, 14 Dec 2024 08:33:00 +0100 </pubDate>
-                <lastBuildDate>Sat, 14 Dec 2024 08:40:23 +0100</lastBuildDate>
+                <pubDate>Sat, 14 Dec 2024 08:47:00 +0100 </pubDate>
+                <lastBuildDate>Sat, 14 Dec 2024 08:52:18 +0100</lastBuildDate>
+            
+            <item>
+                <title>Xavier Bettel au Sommet des Exécutifs de la Grande Région à Mayence </title>
+                <description>Le 13 décembre 2024, le ministre des Affaires étrangères et du Commerce extérieur, Xavier Bettel, a participé au Sommet des Exécutifs de la Grande Région, qui s'est tenu à Mayence.</description>
+                <pubDate>Sat, 14 Dec 2024 08:52:18 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/13-bettel-mayence.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/13-bettel-mayence.html</guid>
+            </item>
+        
             
             <item>
                 <title>Le Luxembourg sélectionné pour accueillir un supercalculateur optimisé pour l'intelligence artificielle et lancer une AI Factory nationale </title>
@@ -480,15 +489,6 @@
                 <pubDate>Fri, 6 Dec 2024 14:43:01 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/06-hansen-serres-horticoles.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/06-hansen-serres-horticoles.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Incident au Centre pénitentiaire de Luxembourg</title>
-                <description>Ce matin, vers 10 heures, deux agents pénitentiaires ont été agressés par un détenu.</description>
-                <pubDate>Fri, 6 Dec 2024 13:23:05 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/06-incident-centre-penitentiaire.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/06-incident-centre-penitentiaire.html</guid>
             </item>
         
     </channel>
