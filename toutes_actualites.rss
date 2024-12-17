@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 16 Dec 2024 16:43:00 +0100 </pubDate>
-                <lastBuildDate>Mon, 16 Dec 2024 16:45:17 +0100</lastBuildDate>
+                <pubDate>Tue, 17 Dec 2024 00:00:00 +0100 </pubDate>
+                <lastBuildDate>Tue, 17 Dec 2024 07:09:15 +0100</lastBuildDate>
+            
+            <item>
+                <title>Xavier Bettel au Conseil ''Affaires étrangères'' de l'UE</title>
+                <description>Le Vice-Premier ministre, ministre des Affaires étrangères et du Commerce extérieur, Xavier Bettel, a participé à la réunion du Conseil "Affaires étrangères" (CAE) de l'UE, qui s'est tenue le 16 décembre 2024 à Bruxelles.</description>
+                <pubDate>Tue, 17 Dec 2024 07:09:15 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-bettel-conseil-ue.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-bettel-conseil-ue.html</guid>
+            </item>
+        
             
             <item>
                 <title>Martine Hansen aux cérémonies commémoratives pour le 80e anniversaire de la bataille des Ardennes à Héisdref et au carrefour Schumannseck</title>
@@ -478,15 +487,6 @@
                 <pubDate>Mon, 9 Dec 2024 17:02:56 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/09-golden-globes.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/09-golden-globes.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Fin de l'utilisation du LuxTrust Token pour le 31 décembre 2024</title>
-                <description>LuxTrust, le partenaire du Centre des technologies de l’information de l’État (CTIE) pour la connexion sécurisée à ses services en ligne, a annoncé la fin de l’utilisation du Token pour le 31 décembre 2024. Cette décision en vue d’une sécurisation...</description>
-                <pubDate>Thu, 12 Dec 2024 16:03:06 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_ctie%2Bfr%2Bactualites%2B2024%2Bnovembre%2Bdecommissionnement-token-2.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_ctie%2Bfr%2Bactualites%2B2024%2Bnovembre%2Bdecommissionnement-token-2.html</guid>
             </item>
         
     </channel>
