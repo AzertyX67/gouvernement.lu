@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 17 Dec 2024 00:00:00 +0100 </pubDate>
-                <lastBuildDate>Tue, 17 Dec 2024 07:09:15 +0100</lastBuildDate>
+                <pubDate>Tue, 17 Dec 2024 10:27:33 +0100 </pubDate>
+                <lastBuildDate>Tue, 17 Dec 2024 10:29:25 +0100</lastBuildDate>
+            
+            <item>
+                <title>Augmentation des pensions au 1er janvier 2025 </title>
+                <description>Au 1er janvier 2025, les pensions vont augmenter de 1,6%.</description>
+                <pubDate>Tue, 17 Dec 2024 10:29:25 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-augmentation-pensions.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-augmentation-pensions.html</guid>
+            </item>
+        
             
             <item>
                 <title>Xavier Bettel au Conseil ''Affaires étrangères'' de l'UE</title>
@@ -478,15 +487,6 @@
                 <pubDate>Mon, 9 Dec 2024 16:39:30 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/09-incident-moselle.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/09-incident-moselle.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>La coproduction luxembourgeoise &quot;All We Imagine as Light&quot; nommée aux Golden Globes 2025 </title>
-                <description>Le film All We Imagine As Light, réalisé par la cinéaste indienne Payal Kapadia, une coproduction Les Films Fauves, a obtenu deux nominations aux Golden Globes 2025.</description>
-                <pubDate>Mon, 9 Dec 2024 17:02:56 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/09-golden-globes.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/09-golden-globes.html</guid>
             </item>
         
     </channel>
