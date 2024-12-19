@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 19 Dec 2024 14:40:39 +0100 </pubDate>
-                <lastBuildDate>Thu, 19 Dec 2024 15:03:26 +0100</lastBuildDate>
+                <pubDate>Thu, 19 Dec 2024 15:32:44 +0100 </pubDate>
+                <lastBuildDate>Thu, 19 Dec 2024 15:35:00 +0100</lastBuildDate>
+            
+            <item>
+                <title>Austausch zwischen der Ministerin für Mobilität und öffentliche Arbeiten, Yuriko Backes, und dem Minister für Digitales und Verkehr der Bundesrepublik Deutschland, Dr. Volker Wissing, zur Lage nach dem Unfall an der Schleuse Müden</title>
+                <description>Alle Schiffe können per Notschleusung befreit werden, Wiederaufnahme des regulären Betriebs bereits Anfang Februar möglich.</description>
+                <pubDate>Thu, 19 Dec 2024 15:35:00 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2024%2B12-decembre%2B19-backes-wissing-schleuse-mueden.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2024%2B12-decembre%2B19-backes-wissing-schleuse-mueden.html</guid>
+            </item>
+        
             
             <item>
                 <title>Les communes et l'État travaillent sur des solutions constructives et positives pour assurer l'avenir du TICE</title>
@@ -481,15 +490,6 @@
                 <pubDate>Thu, 12 Dec 2024 11:52:44 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/articles/2024/12-decembre/12-wilmes-assermentation.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/articles/2024/12-decembre/12-wilmes-assermentation.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Infections respiratoires: rétrospective de la semaine du 2 au 8 décembre 2024</title>
-                <description>La Direction de la santé publie sa rétrospective hebdomadaire concernant l'évolution des principales infections respiratoires aigües, incluant la COVID-19, la grippe, le virus respiratoire syncytial (RSV) et la coqueluche.</description>
-                <pubDate>Thu, 12 Dec 2024 11:21:44 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/12-retrospective.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/12-retrospective.html</guid>
             </item>
         
     </channel>
