@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 18 Dec 2024 13:21:00 +0100 </pubDate>
-                <lastBuildDate>Wed, 18 Dec 2024 15:01:16 +0100</lastBuildDate>
+                <pubDate>Thu, 19 Dec 2024 08:50:26 +0100 </pubDate>
+                <lastBuildDate>Thu, 19 Dec 2024 08:55:53 +0100</lastBuildDate>
+            
+            <item>
+                <title>Mögliche Wolfsanwesenheit im Raum Dahl</title>
+                <description>Kürzlich wurden auf einer Weide im Raum Dahl zwei tote Schafe aufgefunden, welche eindeutig von einem Raubtier gerissen worden waren. </description>
+                <pubDate>Thu, 19 Dec 2024 08:55:53 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2024%2B12-decembre%2B19-wolf-dahl.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2024%2B12-decembre%2B19-wolf-dahl.html</guid>
+            </item>
+        
             
             <item>
                 <title>Nouveau tableau de bord des indicateurs sur l’état de santé, les déterminants de santé et la performance du système de santé </title>
@@ -481,15 +490,6 @@
                 <pubDate>Wed, 11 Dec 2024 12:05:10 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/11-hollenfels-fouilles-archeologiques.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/11-hollenfels-fouilles-archeologiques.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Nei Perspektive fir d'Lëtzebuerger Landwirtschaft</title>
-                <description>Interview mam Martine Hansen am GUDD</description>
-                <pubDate>Wed, 11 Dec 2024 09:16:02 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Blb%2Bactualites%2Btoutes_actualites%2Binterviews%2B2024%2B11-hansen-gudd.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Blb%2Bactualites%2Btoutes_actualites%2Binterviews%2B2024%2B11-hansen-gudd.html</guid>
             </item>
         
     </channel>
