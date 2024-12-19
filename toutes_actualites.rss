@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 19 Dec 2024 10:58:36 +0100 </pubDate>
-                <lastBuildDate>Thu, 19 Dec 2024 11:03:40 +0100</lastBuildDate>
+                <pubDate>Thu, 19 Dec 2024 12:04:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 19 Dec 2024 12:04:29 +0100</lastBuildDate>
+            
+            <item>
+                <title>Statistiques concernant la protection internationale et la protection temporaire - mois de novembre 2024</title>
+                <description>Statistiques concernant la protection internationale et la protection temporaire - mois de novembre 2024 </description>
+                <pubDate>Thu, 19 Dec 2024 12:04:29 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-ptotection-internationale.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-ptotection-internationale.html</guid>
+            </item>
+        
             
             <item>
                 <title>Le marché immobilier résidentiel au 3e trimestre 2024: reprise de l'activité sur le marché de l'existant et stabilisation des prix de vente</title>
@@ -481,15 +490,6 @@
                 <pubDate>Thu, 19 Dec 2024 10:21:32 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_ana%2Bfr%2Bactualites%2Bmes-actualites%2B2024%2Bl-ana-simule-des-methodes-de-travail-avec-fintraffic.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_ana%2Bfr%2Bactualites%2Bmes-actualites%2B2024%2Bl-ana-simule-des-methodes-de-travail-avec-fintraffic.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Verantwortung und Visionen</title>
-                <description>Interview mit Luc Frieden in der Revue</description>
-                <pubDate>Wed, 11 Dec 2024 08:21:15 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Binterviews%2B2024%2B12-decembre%2B11-frieden-revue.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Binterviews%2B2024%2B12-decembre%2B11-frieden-revue.html</guid>
             </item>
         
     </channel>
