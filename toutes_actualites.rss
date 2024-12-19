@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 19 Dec 2024 10:18:00 +0100 </pubDate>
-                <lastBuildDate>Thu, 19 Dec 2024 10:23:06 +0100</lastBuildDate>
+                <pubDate>Thu, 19 Dec 2024 10:58:36 +0100 </pubDate>
+                <lastBuildDate>Thu, 19 Dec 2024 11:03:40 +0100</lastBuildDate>
+            
+            <item>
+                <title>Le marché immobilier résidentiel au 3e trimestre 2024: reprise de l'activité sur le marché de l'existant et stabilisation des prix de vente</title>
+                <description>Le rapport d'analyse 12 publié par l'Observatoire de l'habitat dresse un bilan des évolutions de l'activité, des prix de vente et des loyers annoncés sur l'immobilier résidentiel au 3e trimestre 2024.</description>
+                <pubDate>Thu, 19 Dec 2024 11:03:40 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-marche-immobilier.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-marche-immobilier.html</guid>
+            </item>
+        
             
             <item>
                 <title>Infections respiratoires: rétrospective de la semaine du 9 au 15 décembre 2024 </title>
@@ -51,6 +60,15 @@
                 <pubDate>Thu, 19 Dec 2024 08:55:53 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2024%2B12-decembre%2B19-wolf-dahl.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2024%2B12-decembre%2B19-wolf-dahl.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>Budget de l'État 2025 approuvé par la Chambre des députés: un budget de relance avec cap sur demain </title>
+                <description>En date du 19 décembre 2024, la Chambre des députés a approuvé le budget de l'État pour l'année 2025 à la suite d'une journée de débats en plénière. Le budget porte le titre "Kurs op muer. Ee Muer fir Jiddereen."</description>
+                <pubDate>Thu, 19 Dec 2024 11:01:49 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-roth-budget-etat.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-roth-budget-etat.html</guid>
             </item>
         
             
@@ -472,24 +490,6 @@
                 <pubDate>Wed, 11 Dec 2024 18:35:47 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/11-margue-obertin-data-summit.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/11-margue-obertin-data-summit.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Le Luxembourg maintient son rang au sein du Gender Equality Index de l'Union européenne</title>
-                <description>Le European Institute for Gender Equality (EIGE) a publié en date du 10 décembre 2024 les dernières données du Gender Equality Index de l'Union européenne. </description>
-                <pubDate>Wed, 11 Dec 2024 18:22:20 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/11-backes-gei.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/11-backes-gei.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Assermentation de Monsieur Baptiste Bessière auprès des Archives nationales de Luxembourg</title>
-                <description>Le ministre de la Culture, Eric Thill, a procédé en date du 11 décembre 2024 à l'assermentation de Monsieur Baptiste Bessière, nommée chargé d’études auprès des Archives nationales par arrêté ministériel du 11 décembre 2024. Baptiste Bessière travaille en tant...</description>
-                <pubDate>Wed, 18 Dec 2024 14:49:56 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mcult%2Bfr%2Bactualites%2Bmes-actualites%2B2024%2Bdecembre%2Bassermentation-anlux.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mcult%2Bfr%2Bactualites%2Bmes-actualites%2B2024%2Bdecembre%2Bassermentation-anlux.html</guid>
             </item>
         
     </channel>
