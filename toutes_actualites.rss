@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 20 Dec 2024 11:28:28 +0100 </pubDate>
-                <lastBuildDate>Fri, 20 Dec 2024 11:36:49 +0100</lastBuildDate>
+                <pubDate>Fri, 20 Dec 2024 13:03:38 +0100 </pubDate>
+                <lastBuildDate>Fri, 20 Dec 2024 13:06:19 +0100</lastBuildDate>
+            
+            <item>
+                <title>11 produits de maquillage interdits à la vente </title>
+                <description>Suite à des contrôles, l'Administration de l'environnement (AEV) a prononcé une interdiction de mise sur le marché pour 11 produits de maquillage:</description>
+                <pubDate>Fri, 20 Dec 2024 13:06:19 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-maquillage-interdit.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-maquillage-interdit.html</guid>
+            </item>
+        
             
             <item>
                 <title>Horaires des transports en commun pour les fêtes de fin d'année </title>
@@ -248,9 +257,9 @@
         
             
             <item>
-                <title>Publication du Luxembourg : health system review 2024 : une analyse approfondie du système de santé luxembourgeois</title>
+                <title>Publication du “Luxembourg : health system review 2024”, une analyse approfondie du système de santé luxembourgeois</title>
                 <description>Publication du Luxembourg: health system review 2024 : une analyse approfondie du système de santé luxembourgeois</description>
-                <pubDate>Fri, 20 Dec 2024 11:38:35 +0100</pubDate>
+                <pubDate>Fri, 20 Dec 2024 13:01:34 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_obs%2Bfr%2Bactualites%2B2024%2Bpublication-hit-luxembourg-2024.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_obs%2Bfr%2Bactualites%2B2024%2Bpublication-hit-luxembourg-2024.html</guid>
             </item>
@@ -483,15 +492,6 @@
                 <pubDate>Fri, 13 Dec 2024 09:27:23 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/13-backes-ogbl-tice.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/13-backes-ogbl-tice.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Stéphanie Obertin au Data Summit Luxembourg </title>
-                <description>Le 11 décembre 2024, la ministre de la Digitalisation et ministre de la Recherche et de l'Enseignement supérieur, Stéphanie Obertin, a participé à la deuxième édition du Data Summit Luxembourg au European Convention Center.</description>
-                <pubDate>Fri, 13 Dec 2024 08:56:41 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/13-obertin-data-summit.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/13-obertin-data-summit.html</guid>
             </item>
         
     </channel>
