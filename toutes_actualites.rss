@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 20 Dec 2024 10:08:09 +0100 </pubDate>
-                <lastBuildDate>Fri, 20 Dec 2024 10:29:15 +0100</lastBuildDate>
+                <pubDate>Fri, 20 Dec 2024 11:05:00 +0100 </pubDate>
+                <lastBuildDate>Fri, 20 Dec 2024 11:06:40 +0100</lastBuildDate>
+            
+            <item>
+                <title>Visite de travail du commissaire d'arrondissement de la province de Luxembourg au HCPN </title>
+                <description>Échange fructueux entre le commissaire d'arrondissement, Olivier Dervaux, et le secrétaire particulier de la province de Luxembourg, Xavier Derenne, les représentants du Centre national de crise de la Belgique, ...</description>
+                <pubDate>Fri, 20 Dec 2024 11:06:40 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-visite-commissaire-arrondissement.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-visite-commissaire-arrondissement.html</guid>
+            </item>
+        
             
             <item>
                 <title>Assermentation de Monsieur Robert Weis auprès du Musée national d'histoire naturelle</title>
@@ -484,15 +493,6 @@
                 <pubDate>Thu, 12 Dec 2024 17:52:36 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/12-hansen-wilmes-landwirtschaftsdesch.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/12-hansen-wilmes-landwirtschaftsdesch.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Adaptation aux effets du changement climatique: lancement du troisième appel à projets &quot;Méi Natur an eise Stied an Dierfer&quot; </title>
-                <description>Suite aux succès des précédents appels à projets de la campagne "Méi Natur an eise Stied an Dierfer" de 2022 et 2023 qui ont au total récompensé 12 communes pour un budget global de 4 millions d'euros en vue de déminéraliser des surfaces scellées afin ...</description>
-                <pubDate>Thu, 12 Dec 2024 16:38:08 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/12-appel-projets-mecb.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/12-appel-projets-mecb.html</guid>
             </item>
         
     </channel>
