@@ -33,13 +33,22 @@
         </skipDays>
         
             
-                <pubDate>Fri, 20 Dec 2024 11:21:00 +0100 </pubDate>
-                <lastBuildDate>Fri, 20 Dec 2024 11:26:55 +0100</lastBuildDate>
+                <pubDate>Fri, 20 Dec 2024 11:28:28 +0100 </pubDate>
+                <lastBuildDate>Fri, 20 Dec 2024 11:36:49 +0100</lastBuildDate>
+            
+            <item>
+                <title>Horaires des transports en commun pour les fêtes de fin d'année </title>
+                <description>À l'approche des fêtes de fin d'année, l'Administration des transports publics informe des horaires des transports en commun adaptés, mises en place durant cette période festive. </description>
+                <pubDate>Fri, 20 Dec 2024 11:36:49 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-horaires-transports-fin-annee.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-horaires-transports-fin-annee.html</guid>
+            </item>
+        
             
             <item>
                 <title>Évolution du chômage en novembre 2024 </title>
                 <description>Le nombre de demandeurs d’emploi résidents disponibles inscrits à l’ADEM s’élève à 18.625 au 30 novembre 2024, en hausse de 1.186 personnes (soit 6,8%) par rapport au mois de novembre 2023. </description>
-                <pubDate>Fri, 20 Dec 2024 11:26:55 +0100</pubDate>
+                <pubDate>Fri, 20 Dec 2024 11:38:17 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-chomage-novembre.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-chomage-novembre.html</guid>
             </item>
@@ -235,6 +244,15 @@
                 <pubDate>Tue, 17 Dec 2024 16:36:13 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-delles-obertin-unilu-ilnas.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-delles-obertin-unilu-ilnas.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>Publication du Luxembourg : health system review 2024 : une analyse approfondie du système de santé luxembourgeois</title>
+                <description>Publication du Luxembourg: health system review 2024 : une analyse approfondie du système de santé luxembourgeois</description>
+                <pubDate>Fri, 20 Dec 2024 11:38:35 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_obs%2Bfr%2Bactualites%2B2024%2Bpublication-hit-luxembourg-2024.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_obs%2Bfr%2Bactualites%2B2024%2Bpublication-hit-luxembourg-2024.html</guid>
             </item>
         
             
@@ -474,25 +492,6 @@
                 <pubDate>Fri, 13 Dec 2024 08:56:41 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/13-obertin-data-summit.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/13-obertin-data-summit.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Résumé des travaux du 13 décembre 2024</title>
-                <description>Le Conseil de gouvernement s'est réuni vendredi 13 décembre 2024 sous la présidence du Premier ministre Luc Frieden.
-</description>
-                <pubDate>Mon, 16 Dec 2024 11:52:00 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/13-conseil-gouvernement.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/13-conseil-gouvernement.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Léon Gloden au Conseil &quot;Justice et Affaires intérieures&quot; de l'Union européenne</title>
-                <description>Léon Gloden a participé à la réunion du Conseil "Justice et Affaires intérieures" (JAI) de l'Union européenne, qui s'est tenue le 12 décembre 2024 à Bruxelles.</description>
-                <pubDate>Thu, 12 Dec 2024 18:10:09 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/12-gloden-jai.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/12-gloden-jai.html</guid>
             </item>
         
     </channel>
