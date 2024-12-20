@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 20 Dec 2024 11:05:00 +0100 </pubDate>
-                <lastBuildDate>Fri, 20 Dec 2024 11:06:40 +0100</lastBuildDate>
+                <pubDate>Fri, 20 Dec 2024 11:21:00 +0100 </pubDate>
+                <lastBuildDate>Fri, 20 Dec 2024 11:26:55 +0100</lastBuildDate>
+            
+            <item>
+                <title>Évolution du chômage en novembre 2024 </title>
+                <description>Le nombre de demandeurs d’emploi résidents disponibles inscrits à l’ADEM s’élève à 18.625 au 30 novembre 2024, en hausse de 1.186 personnes (soit 6,8%) par rapport au mois de novembre 2023. </description>
+                <pubDate>Fri, 20 Dec 2024 11:26:55 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-chomage-novembre.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-chomage-novembre.html</guid>
+            </item>
+        
             
             <item>
                 <title>Visite de travail du commissaire d'arrondissement de la province de Luxembourg au HCPN </title>
@@ -484,15 +493,6 @@
                 <pubDate>Thu, 12 Dec 2024 18:10:09 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/12-gloden-jai.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/12-gloden-jai.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Le deuxième &quot;Landwirtschaftsdësch&quot;: des avancées concrètes et des perspectives ambitieuses</title>
-                <description>Dans la continuité de son engagement pour un dialogue ouvert et constructif avec le secteur agricole, Martine Hansen a réuni les représentants du secteur, le jeudi 12 décembre 2024, au château de Senningen.</description>
-                <pubDate>Thu, 12 Dec 2024 17:52:36 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/12-hansen-wilmes-landwirtschaftsdesch.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/12-hansen-wilmes-landwirtschaftsdesch.html</guid>
             </item>
         
     </channel>
