@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 23 Dec 2024 11:53:00 +0100 </pubDate>
-                <lastBuildDate>Mon, 23 Dec 2024 11:55:54 +0100</lastBuildDate>
+                <pubDate>Tue, 24 Dec 2024 19:00:00 +0100 </pubDate>
+                <lastBuildDate>Tue, 24 Dec 2024 09:46:31 +0100</lastBuildDate>
+            
+            <item>
+                <title>Discours de Noël 2024 de S.A.R. le Grand-Duc</title>
+                <description>Discours de Noël 2024 de S.A.R. le Grand-Duc</description>
+                <pubDate>Tue, 24 Dec 2024 09:46:31 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/discours/2024/12-decembre/24-discours-noel-grand-duc.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/discours/2024/12-decembre/24-discours-noel-grand-duc.html</guid>
+            </item>
+        
             
             <item>
                 <title>Dérogation temporaire et ciblée aux limitations de circulation des poids lourds pour garantir la continuité des chaînes logistiques </title>
@@ -482,15 +491,6 @@
                 <pubDate>Sat, 14 Dec 2024 08:52:18 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/13-bettel-mayence.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/13-bettel-mayence.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Le Luxembourg sélectionné pour accueillir un supercalculateur optimisé pour l'intelligence artificielle et lancer une AI Factory nationale </title>
-                <description>Le 10 décembre 2024, l'initiative EuroHPC Joint Undertaking a sélectionné un consortium national pour accueillir un supercalculateur optimisé pour l'intelligence artificielle (IA).</description>
-                <pubDate>Sat, 14 Dec 2024 08:40:23 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/14-delles-obertin-supercalculateur.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/14-delles-obertin-supercalculateur.html</guid>
             </item>
         
     </channel>
