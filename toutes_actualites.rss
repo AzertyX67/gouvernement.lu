@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 24 Dec 2024 19:00:00 +0100 </pubDate>
-                <lastBuildDate>Tue, 24 Dec 2024 09:46:31 +0100</lastBuildDate>
+                <pubDate>Fri, 27 Dec 2024 10:00:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 19 Dec 2024 12:30:04 +0100</lastBuildDate>
+            
+            <item>
+                <title>Nouveautés 2025</title>
+                <description>De nouvelles dispositions légales et réglementaires concernant directement le citoyen vont entrer en vigueur en 2025. Voici un aperçu des principaux changements qui ont un impact direct sur les citoyens. Cette liste n'est pas exhaustive.</description>
+                <pubDate>Thu, 19 Dec 2024 12:30:04 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/30-nouveautes-2025.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/30-nouveautes-2025.html</guid>
+            </item>
+        
             
             <item>
                 <title>Discours de Noël 2024 de S.A.R. le Grand-Duc</title>
@@ -482,15 +491,6 @@
                 <pubDate>Sat, 14 Dec 2024 14:46:46 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/06-frieden-commemoration-bataille-ardennes.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/06-frieden-commemoration-bataille-ardennes.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Xavier Bettel au Sommet des Exécutifs de la Grande Région à Mayence </title>
-                <description>Le 13 décembre 2024, le ministre des Affaires étrangères et du Commerce extérieur, Xavier Bettel, a participé au Sommet des Exécutifs de la Grande Région, qui s'est tenu à Mayence.</description>
-                <pubDate>Sat, 14 Dec 2024 08:52:18 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/13-bettel-mayence.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/13-bettel-mayence.html</guid>
             </item>
         
     </channel>
