@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 27 Dec 2024 16:56:47 +0100 </pubDate>
-                <lastBuildDate>Fri, 27 Dec 2024 16:59:30 +0100</lastBuildDate>
+                <pubDate>Mon, 30 Dec 2024 14:53:18 +0100 </pubDate>
+                <lastBuildDate>Mon, 30 Dec 2024 15:01:44 +0100</lastBuildDate>
+            
+            <item>
+                <title>Déploiement de deux dispositifs &quot;emergency.lu&quot; à Mayotte </title>
+                <description>En réponse aux dégâts causés par le cyclone Chido qui a frappé Mayotte le 14 décembre 2024 et suite à une demande du gouvernement français par le biais du mécanisme de protection civile de l'Union européenne, le Luxembourg a déployé ...</description>
+                <pubDate>Mon, 30 Dec 2024 15:01:44 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/30-emergency-mayotte.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/30-emergency-mayotte.html</guid>
+            </item>
+        
             
             <item>
                 <title>Barrage de la route nationale N23 à Reichlange </title>
@@ -482,15 +491,6 @@
                 <pubDate>Mon, 16 Dec 2024 15:00:26 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/articles/2024/12-decembre/16-gloden-assermentation-police.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/articles/2024/12-decembre/16-gloden-assermentation-police.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Xavier Bettel à la conférence de la Coalition pour l'égalité des droits </title>
-                <description>Le ministre des Affaires étrangères et du Commerce extérieur, Xavier Bettel a participé à la conférence de la Coalition pour l'égalité des droits (ERC), co-présidée par l'Allemagne et le Mexique, qui s'est tenue le 17 décembre 2024.</description>
-                <pubDate>Tue, 17 Dec 2024 18:37:09 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-bettel-conference-egalite-droits.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-bettel-conference-egalite-droits.html</guid>
             </item>
         
     </channel>
