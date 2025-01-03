@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 2 Jan 2025 10:50:00 +0100 </pubDate>
-                <lastBuildDate>Thu, 2 Jan 2025 10:54:19 +0100</lastBuildDate>
+                <pubDate>Fri, 3 Jan 2025 15:00:00 +0100 </pubDate>
+                <lastBuildDate>Fri, 3 Jan 2025 15:03:33 +0100</lastBuildDate>
+            
+            <item>
+                <title>Bilan AgriMeteo: les cultures agricoles au Luxembourg impactées par le record de pluie (+42,6%) en 2024 </title>
+                <description>Le service météorologique AgriMeteo annonce que l'année 2024 est une année record en termes de pluviosité depuis le début des mesures en 1854 au Grand-Duché, avec +42,6% de pluie.</description>
+                <pubDate>Fri, 3 Jan 2025 15:03:33 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/03-bilan-agrimeteo.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/03-bilan-agrimeteo.html</guid>
+            </item>
+        
             
             <item>
                 <title>Infections respiratoires: rétrospective de la semaine du 23 au 29 décembre 2024</title>
@@ -482,15 +491,6 @@
                 <pubDate>Tue, 17 Dec 2024 15:10:31 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-deprez-cns.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-deprez-cns.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Martine Hansen aux cérémonies commémoratives pour le 80e anniversaire de la bataille des Ardennes à Héisdref et au carrefour Schumannseck</title>
-                <description>Une cérémonie commémorative pour le 80e anniversaire de la bataille des Ardennes a eu lieu le 16 décembre 2024 au "National Liberation Memorial" au carrefour Schumannseck en présence de S.A.R. le Grand-Duc héritier et du président de la ...</description>
-                <pubDate>Tue, 17 Dec 2024 14:51:15 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/11-hansen-commemoration-ardennes.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/11-hansen-commemoration-ardennes.html</guid>
             </item>
         
     </channel>
