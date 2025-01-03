@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 3 Jan 2025 15:00:00 +0100 </pubDate>
-                <lastBuildDate>Fri, 3 Jan 2025 15:03:33 +0100</lastBuildDate>
+                <pubDate>Fri, 3 Jan 2025 18:21:35 +0100 </pubDate>
+                <lastBuildDate>Fri, 3 Jan 2025 18:24:46 +0100</lastBuildDate>
+            
+            <item>
+                <title>Luc Frieden a eu une entrevue avec le Président de la République française</title>
+                <description>Le Premier ministre Luc Frieden a eu une entrevue avec le Président de la République française, Emmanuel Macron, au Palais de l'Élysée à Paris, en date du 3 janvier. </description>
+                <pubDate>Fri, 3 Jan 2025 18:24:46 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/03-frieden-macron.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/03-frieden-macron.html</guid>
+            </item>
+        
             
             <item>
                 <title>Bilan AgriMeteo: les cultures agricoles au Luxembourg impactées par le record de pluie (+42,6%) en 2024 </title>
@@ -481,16 +490,6 @@
                 <pubDate>Tue, 17 Dec 2024 17:29:42 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-wilmes-conseil-environnement-ue.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-wilmes-conseil-environnement-ue.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Nouvelle agence CNS à Mersch: inauguration officielle </title>
-                <description>Cette agence a ouvert ses portes au Centre commercial Topaze le 18 novembre 2024. L'agence reçoit environ 120 personnes par jour. La nouvelle agence dispose aujourd'hui d'une surface de 229 mètres carré et compte 5 guichets.
-</description>
-                <pubDate>Tue, 17 Dec 2024 15:10:31 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-deprez-cns.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-deprez-cns.html</guid>
             </item>
         
     </channel>
