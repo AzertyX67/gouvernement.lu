@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 3 Jan 2025 18:21:35 +0100 </pubDate>
-                <lastBuildDate>Fri, 3 Jan 2025 18:24:46 +0100</lastBuildDate>
+                <pubDate>Sat, 4 Jan 2025 17:55:35 +0100 </pubDate>
+                <lastBuildDate>Sat, 4 Jan 2025 17:59:51 +0100</lastBuildDate>
+            
+            <item>
+                <title>Alerte orange: avis de verglas pour tout le pays </title>
+                <description>La cellule d'évaluation du risque intempéries (CERI), réunie cet après-midi afin de faire une évaluation de la situation météorologique, émet un avis de verglas dans la nuit à dimanche, pouvant impacter l'ensemble du pays. </description>
+                <pubDate>Sat, 4 Jan 2025 17:59:51 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/04-avis-verglas.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/04-avis-verglas.html</guid>
+            </item>
+        
             
             <item>
                 <title>Luc Frieden a eu une entrevue avec le Président de la République française</title>
@@ -480,16 +489,6 @@
                 <pubDate>Tue, 17 Dec 2024 07:09:15 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-bettel-conseil-ue.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-bettel-conseil-ue.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Serge Wilmes a participé au Conseil &quot;Environnement&quot; de l'UE</title>
-                <description>En date du 17 décembre 2024, le ministre de l'Environnement, du Climat et de la Biodiversité, Serge Wilmes, a participé à la réunion du Conseil "Environnement" de l'Union européenne, qui s'est tenue à Bruxelles.
-</description>
-                <pubDate>Tue, 17 Dec 2024 17:29:42 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-wilmes-conseil-environnement-ue.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-wilmes-conseil-environnement-ue.html</guid>
             </item>
         
     </channel>
