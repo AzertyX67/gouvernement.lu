@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Sat, 4 Jan 2025 17:55:35 +0100 </pubDate>
-                <lastBuildDate>Sat, 4 Jan 2025 18:13:40 +0100</lastBuildDate>
+                <pubDate>Sun, 5 Jan 2025 18:17:00 +0100 </pubDate>
+                <lastBuildDate>Sun, 5 Jan 2025 18:24:23 +0100</lastBuildDate>
+            
+            <item>
+                <title>Vigilance orange: risque de crues locales le long de l'Alzette et de la Sûre </title>
+                <description>À la suite des précipitations de ces dernières heures et le début du dégel, la cellule d'évaluation du risque intempéries (CERI) s'est réunie cet après-midi pour faire le point de la situation.</description>
+                <pubDate>Sun, 5 Jan 2025 18:24:23 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/05-avis-inondations.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/05-avis-inondations.html</guid>
+            </item>
+        
             
             <item>
                 <title>Alerte orange: avis de verglas pour tout le pays </title>
@@ -480,15 +489,6 @@
                 <pubDate>Thu, 19 Dec 2024 17:00:06 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-deprez-lyon.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-deprez-lyon.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Xavier Bettel au Conseil ''Affaires étrangères'' de l'UE</title>
-                <description>Le Vice-Premier ministre, ministre des Affaires étrangères et du Commerce extérieur, Xavier Bettel, a participé à la réunion du Conseil "Affaires étrangères" (CAE) de l'UE, qui s'est tenue le 16 décembre 2024 à Bruxelles.</description>
-                <pubDate>Tue, 17 Dec 2024 07:09:15 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-bettel-conseil-ue.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-bettel-conseil-ue.html</guid>
             </item>
         
     </channel>
