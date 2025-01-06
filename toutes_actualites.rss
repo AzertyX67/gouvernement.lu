@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Sun, 5 Jan 2025 18:17:00 +0100 </pubDate>
-                <lastBuildDate>Sun, 5 Jan 2025 18:39:14 +0100</lastBuildDate>
+                <pubDate>Mon, 6 Jan 2025 00:00:00 +0100 </pubDate>
+                <lastBuildDate>Mon, 6 Jan 2025 09:41:51 +0100</lastBuildDate>
+            
+            <item>
+                <title>Adaptation des paramètres sociaux au 1er janvier 2025 </title>
+                <description>Les nouveaux paramètres sociaux au 1er janvier 2025 tiennent compte entre autres de l’adaptation de 2,6% du salaire social minimum SSM (loi du 20 décembre 2024 portant modification de l’article L. 222-9 du Code de travail)...</description>
+                <pubDate>Mon, 6 Jan 2025 09:41:51 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/06-adaptation-parametres-sociaux.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/06-adaptation-parametres-sociaux.html</guid>
+            </item>
+        
             
             <item>
                 <title>Vigilance orange: risque de crues locales le long de l'Alzette et de la Sûre </title>
@@ -479,16 +488,6 @@
                 <pubDate>Tue, 17 Dec 2024 18:12:34 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-delles-backes-port-mertert.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-delles-backes-port-mertert.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Martine Deprez à l'inauguration du campus de l'Académie de l'OMS à Lyon </title>
-                <description>La ministre de la Santé et de la Sécurité sociale, Martine Deprez, s'est rendue à Lyon le 17 décembre 2024 pour assister à l’inauguration du campus de l’Académie de l’Organisation mondiale de la santé (OMS). 
-</description>
-                <pubDate>Thu, 19 Dec 2024 17:00:06 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-deprez-lyon.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-deprez-lyon.html</guid>
             </item>
         
     </channel>
