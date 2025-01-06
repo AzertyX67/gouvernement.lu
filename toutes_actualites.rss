@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 6 Jan 2025 00:00:00 +0100 </pubDate>
-                <lastBuildDate>Mon, 6 Jan 2025 09:41:51 +0100</lastBuildDate>
+                <pubDate>Mon, 6 Jan 2025 15:08:34 +0100 </pubDate>
+                <lastBuildDate>Mon, 6 Jan 2025 15:18:58 +0100</lastBuildDate>
+            
+            <item>
+                <title>Première visualisation du sous-sol profond luxembourgeois</title>
+                <description>Dans le cadre d'une campagne de reconnaissance sismique qu'ont entrepris les Ponts et Chaussées et la société Smart Seismic Solutions, les résultats donnent pour la première fois une visualisation du sous-sol profond du Luxembourg, ...</description>
+                <pubDate>Mon, 6 Jan 2025 15:18:58 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/articles/2025/01-janvier/06-visualisation-sous-sol-profond.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/articles/2025/01-janvier/06-visualisation-sous-sol-profond.html</guid>
+            </item>
+        
             
             <item>
                 <title>Adaptation des paramètres sociaux au 1er janvier 2025 </title>
@@ -478,15 +487,6 @@
                 <pubDate>Tue, 17 Dec 2024 11:19:37 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-delles-tourisme-durable.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-delles-tourisme-durable.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Augmentation des pensions au 1er janvier 2025 </title>
-                <description>Au 1er janvier 2025, les pensions vont augmenter de 1,6%.</description>
-                <pubDate>Tue, 17 Dec 2024 10:29:25 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-augmentation-pensions.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-augmentation-pensions.html</guid>
             </item>
         
     </channel>
