@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 7 Jan 2025 10:50:58 +0100 </pubDate>
-                <lastBuildDate>Tue, 7 Jan 2025 10:56:25 +0100</lastBuildDate>
+                <pubDate>Tue, 7 Jan 2025 12:08:41 +0100 </pubDate>
+                <lastBuildDate>Tue, 7 Jan 2025 12:12:27 +0100</lastBuildDate>
+            
+            <item>
+                <title>Faux compte &quot;X&quot; de Gilles Roth</title>
+                <description>Un faux compte du ministre des Finances, Gilles Roth, circule actuellement sur X. </description>
+                <pubDate>Tue, 7 Jan 2025 12:12:27 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/07-roth-faux-compte-x.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/07-roth-faux-compte-x.html</guid>
+            </item>
+        
             
             <item>
                 <title>État des lieux des efforts de réduction de la consommation de gaz naturel au Luxembourg en décembre 2024</title>
@@ -478,15 +487,6 @@
                 <pubDate>Fri, 20 Dec 2024 13:01:34 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_obs%2Bfr%2Bactualites%2B2024%2Bpublication-hit-luxembourg-2024.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_obs%2Bfr%2Bactualites%2B2024%2Bpublication-hit-luxembourg-2024.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Carte Sanitaire 2023 - Délais d'attente pour les examens d'imagerie médicale au Luxembourg - Fascicule 3</title>
-                <description>Publication du fascicule 3 de la Carte sanitaire 2023, consacré aux délais d'attente pour les examens d'imagerie médicale au Luxembourg.</description>
-                <pubDate>Mon, 23 Dec 2024 07:07:31 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_obs%2Bfr%2Bactualites%2B2024%2Bcarte-sanitaire-2023-delais-attente.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_obs%2Bfr%2Bactualites%2B2024%2Bcarte-sanitaire-2023-delais-attente.html</guid>
             </item>
         
     </channel>
