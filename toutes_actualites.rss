@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 6 Jan 2025 15:08:34 +0100 </pubDate>
-                <lastBuildDate>Tue, 7 Jan 2025 09:08:58 +0100</lastBuildDate>
+                <pubDate>Tue, 7 Jan 2025 10:50:58 +0100 </pubDate>
+                <lastBuildDate>Tue, 7 Jan 2025 10:56:25 +0100</lastBuildDate>
+            
+            <item>
+                <title>État des lieux des efforts de réduction de la consommation de gaz naturel au Luxembourg en décembre 2024</title>
+                <description>En décembre 2024, la réduction de la consommation de gaz naturel correspondait à environ 15% par rapport à la période de référence des années 2017 à 2022, correspondant à l'objectif de réduction de la demande de gaz naturel des États membres de l'UE. </description>
+                <pubDate>Tue, 7 Jan 2025 10:56:25 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/articles/2025/01-janvier/07-consommation-gaz.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/articles/2025/01-janvier/07-consommation-gaz.html</guid>
+            </item>
+        
             
             <item>
                 <title>Première visualisation du sous-sol profond luxembourgeois</title>
@@ -478,15 +487,6 @@
                 <pubDate>Mon, 23 Dec 2024 07:07:31 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_obs%2Bfr%2Bactualites%2B2024%2Bcarte-sanitaire-2023-delais-attente.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_obs%2Bfr%2Bactualites%2B2024%2Bcarte-sanitaire-2023-delais-attente.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Lex Delles a présenté le concept pour un tourisme durable au Luxembourg </title>
-                <description> En date du 17 décembre 2024, le ministre de l'Économie, des PME, de l'Énergie et du Tourisme, Lex Delles, a présenté le concept pour un tourisme durable au Luxembourg. Ce concept marque une étape importante dans l'évolution de l'offre touristique, ...</description>
-                <pubDate>Tue, 17 Dec 2024 11:19:37 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-delles-tourisme-durable.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-delles-tourisme-durable.html</guid>
             </item>
         
     </channel>
