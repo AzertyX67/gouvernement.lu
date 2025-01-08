@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 7 Jan 2025 12:08:41 +0100 </pubDate>
-                <lastBuildDate>Tue, 7 Jan 2025 12:12:27 +0100</lastBuildDate>
+                <pubDate>Wed, 8 Jan 2025 11:59:15 +0100 </pubDate>
+                <lastBuildDate>Wed, 8 Jan 2025 12:03:25 +0100</lastBuildDate>
+            
+            <item>
+                <title>Suspension temporaire des activités du groupe de théâtre jeunesse affilié au Lycée Hubert Clément à Esch-sur-Alzette </title>
+                <description>Fin octobre 2024, la direction du Lycée Hubert Clément avait pris connaissance d'un témoignage évoquant des conduites répréhensibles à connotation sexuelle qui se seraient déroulées lors d'une activité organisée par l'ASBL en charge du groupe de ...</description>
+                <pubDate>Wed, 8 Jan 2025 12:03:25 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/08-suspension-theatre-lhce.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/08-suspension-theatre-lhce.html</guid>
+            </item>
+        
             
             <item>
                 <title>Faux compte &quot;X&quot; de Gilles Roth</title>
@@ -478,15 +487,6 @@
                 <pubDate>Tue, 17 Dec 2024 16:36:13 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-delles-obertin-unilu-ilnas.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/17-delles-obertin-unilu-ilnas.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Publication du “Luxembourg : health system review 2024”, une analyse approfondie du système de santé luxembourgeois</title>
-                <description>Publication du Luxembourg: health system review 2024 : une analyse approfondie du système de santé luxembourgeois</description>
-                <pubDate>Fri, 20 Dec 2024 13:01:34 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_obs%2Bfr%2Bactualites%2B2024%2Bpublication-hit-luxembourg-2024.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_obs%2Bfr%2Bactualites%2B2024%2Bpublication-hit-luxembourg-2024.html</guid>
             </item>
         
     </channel>
