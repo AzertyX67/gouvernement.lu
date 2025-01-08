@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 8 Jan 2025 16:43:47 +0100 </pubDate>
-                <lastBuildDate>Wed, 8 Jan 2025 16:46:48 +0100</lastBuildDate>
+                <pubDate>Wed, 8 Jan 2025 17:11:00 +0100 </pubDate>
+                <lastBuildDate>Wed, 8 Jan 2025 17:19:06 +0100</lastBuildDate>
+            
+            <item>
+                <title>Entrevue entre Yuriko Backes et la Commission luxembourgeoise pour l'éthique en publicité </title>
+                <description>Yuriko Backes va reçu des représentantes et représentants de la Commission luxembourgeoise pour l'éthique en publicité (CLEP) qui fait partie du Conseil de la publicité, lundi le 16 décembre 2024.</description>
+                <pubDate>Wed, 8 Jan 2025 17:19:06 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/08-backes-clep.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/08-backes-clep.html</guid>
+            </item>
+        
             
             <item>
                 <title>Présentation de l'étude de l'Inspection générale de la police sur la collaboration entre les agents de police et les agents municipaux </title>
@@ -476,16 +485,6 @@
                 <pubDate>Wed, 18 Dec 2024 18:40:35 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/18-obertin-journee-simplification-administrative.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/18-obertin-journee-simplification-administrative.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Nomination d'un nouveau directeur de l'Administration de la gestion de l'eau et d'une nouvelle directrice adjointe de l'Administration de la nature et des forêts </title>
-                <description>Sur proposition du ministre de l'Environnement, du Climat et de la Biodiversité, Serge Wilmes, le Conseil de gouvernement a décidé, en sa séance du 18 décembre 2024, de proposer à S.A.R. le Grand-Duc la nomination du Dr Marc Hans.
-</description>
-                <pubDate>Wed, 18 Dec 2024 18:25:04 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/18-wilmes-nouvelles-nominations-environnement.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/18-wilmes-nouvelles-nominations-environnement.html</guid>
             </item>
         
     </channel>
