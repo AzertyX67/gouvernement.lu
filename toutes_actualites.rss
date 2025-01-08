@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 8 Jan 2025 13:21:00 +0100 </pubDate>
-                <lastBuildDate>Wed, 8 Jan 2025 13:23:07 +0100</lastBuildDate>
+                <pubDate>Wed, 8 Jan 2025 16:43:47 +0100 </pubDate>
+                <lastBuildDate>Wed, 8 Jan 2025 16:46:48 +0100</lastBuildDate>
+            
+            <item>
+                <title>Présentation de l'étude de l'Inspection générale de la police sur la collaboration entre les agents de police et les agents municipaux </title>
+                <description>Le rapport de l'étude menée par l'Inspection générale de la police (IGP), sur la collaboration entre les agents de police et les agents municipaux, a été présenté à la commission des Affaires intérieures à la Chambre des députés le 8 janvier 2025.</description>
+                <pubDate>Wed, 8 Jan 2025 16:46:48 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/08-etude-police.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/08-etude-police.html</guid>
+            </item>
+        
             
             <item>
                 <title>Vigilance orange: risque de crues locales le long de l'Alzette et de la Sûre</title>
@@ -477,16 +486,6 @@
                 <pubDate>Wed, 18 Dec 2024 18:25:04 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/18-wilmes-nouvelles-nominations-environnement.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/18-wilmes-nouvelles-nominations-environnement.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Résumé des travaux du 18 décembre 2024</title>
-                <description>Le Conseil de gouvernement s'est réuni mercredi 18 décembre 2024 sous la présidence du Premier ministre Luc Frieden.
-</description>
-                <pubDate>Wed, 18 Dec 2024 12:24:39 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/18-conseil-gouvernement.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/18-conseil-gouvernement.html</guid>
             </item>
         
     </channel>
