@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 9 Jan 2025 13:12:00 +0100 </pubDate>
-                <lastBuildDate>Thu, 9 Jan 2025 13:15:52 +0100</lastBuildDate>
+                <pubDate>Thu, 9 Jan 2025 13:25:02 +0100 </pubDate>
+                <lastBuildDate>Thu, 9 Jan 2025 13:36:31 +0100</lastBuildDate>
+            
+            <item>
+                <title>Martine Hansen empfängt NRW Landesministerin Ina Scharrenbach zwecks Austausch zum Thema Miscanthus in Landwirtschaft und Bausektor </title>
+                <description>Die Ministerin für Landwirtschaft, Ernährung und Weinbau, Martine Hansen, empfing heute Ina Scharrenbach, Ministerin für Heimat, Kommunales, Bau und Digitalisierung des Landes Nordrhein-Westfalen, ...</description>
+                <pubDate>Thu, 9 Jan 2025 13:36:31 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B09-hansen-scharrenbach.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B09-hansen-scharrenbach.html</guid>
+            </item>
+        
             
             <item>
                 <title>Infections respiratoires: rétrospective de la semaine du 30 décembre 2024 au 5 janvier 2025</title>
@@ -42,6 +51,16 @@
                 <pubDate>Thu, 9 Jan 2025 13:15:52 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/09-retrospective.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/09-retrospective.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>Visite de la ministre de la Protection des consommateurs à l'ILNAS</title>
+                <description>Martine Hansen, ministre de la Protection des consommateurs, a visité l'Institut luxembourgeois de la normalisation, de l'accréditation, de la sécurité et qualité des produits et services (ILNAS). 
+</description>
+                <pubDate>Thu, 9 Jan 2025 13:48:36 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/09-hansen-ilnas.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/09-hansen-ilnas.html</guid>
             </item>
         
             
@@ -467,24 +486,6 @@
                 <pubDate>Thu, 19 Dec 2024 10:14:21 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_inap%2Bfr%2Bactualites%2B2024%2Bcatalogue-formations-20251.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_inap%2Bfr%2Bactualites%2B2024%2Bcatalogue-formations-20251.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Nouveau tableau de bord d'indicateurs</title>
-                <description>Une première série d’indicateurs sur l’état de santé de la population, les déterminants de la santé et la performance du système de santé est en ligne. </description>
-                <pubDate>Tue, 7 Jan 2025 14:09:36 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_obs%2Bfr%2Bactualites%2B2024%2Btableau-des-indicateurs.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_obs%2Bfr%2Bactualites%2B2024%2Btableau-des-indicateurs.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Luxembourg Social Entrepreneur of the Year Award: &quot;on.perfekt&quot; est la meilleure entreprise sociale 2024</title>
-                <description>La première édition du Luxembourg Social Entrepreneur of the Year Award s'est tenu le 17 décembre 2024 au Cercle Cité, sous le signe de l'inspiration et de l'engagement des entrepreneurs et innovateurs sociaux. </description>
-                <pubDate>Wed, 18 Dec 2024 09:21:39 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/18-mischo-entreprise-sociale.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/18-mischo-entreprise-sociale.html</guid>
             </item>
         
     </channel>
