@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 10 Jan 2025 11:18:47 +0100 </pubDate>
-                <lastBuildDate>Fri, 10 Jan 2025 11:27:58 +0100</lastBuildDate>
+                <pubDate>Fri, 10 Jan 2025 13:00:18 +0100 </pubDate>
+                <lastBuildDate>Fri, 10 Jan 2025 13:19:05 +0100</lastBuildDate>
+            
+            <item>
+                <title>&quot;Schwätz mat!&quot; – La phase de consultation fournit des orientations claires pour l'avenir de notre système de pension </title>
+                <description>La première phase du processus de consultation "Schwätz mat! L'avenir de notre système de pension" s'est achevée le 2 décembre 2024. </description>
+                <pubDate>Fri, 10 Jan 2025 13:19:05 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/10-schatz-mat-resume.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/10-schatz-mat-resume.html</guid>
+            </item>
+        
             
             <item>
                 <title>Présentation des voeux du ministre de la Fonction publique Serge Wilmes</title>
@@ -477,15 +486,6 @@
                 <pubDate>Thu, 19 Dec 2024 10:23:06 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-retrospective.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-retrospective.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Mögliche Wolfsanwesenheit im Raum Dahl</title>
-                <description>Kürzlich wurden auf einer Weide im Raum Dahl zwei tote Schafe aufgefunden, welche eindeutig von einem Raubtier gerissen worden waren. </description>
-                <pubDate>Thu, 19 Dec 2024 08:55:53 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2024%2B12-decembre%2B19-wolf-dahl.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2024%2B12-decembre%2B19-wolf-dahl.html</guid>
             </item>
         
     </channel>
