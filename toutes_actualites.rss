@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 10 Jan 2025 17:44:24 +0100 </pubDate>
-                <lastBuildDate>Fri, 10 Jan 2025 18:10:43 +0100</lastBuildDate>
+                <pubDate>Fri, 10 Jan 2025 18:06:58 +0100 </pubDate>
+                <lastBuildDate>Fri, 10 Jan 2025 18:34:36 +0100</lastBuildDate>
+            
+            <item>
+                <title>&quot;La planification de la mobilité est un processus continu&quot;</title>
+                <description>Interview avec Yuriko Backes dans Inspir' (Medef)</description>
+                <pubDate>Fri, 10 Jan 2025 18:34:36 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/01-janvier/10-interview-medef.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/01-janvier/10-interview-medef.html</guid>
+            </item>
+        
             
             <item>
                 <title>Nouvelles mesures pour améliorer la protection des victimes et renforcer la lutte contre la criminalité grave </title>
@@ -478,15 +487,6 @@
                 <pubDate>Thu, 19 Dec 2024 15:35:00 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2024%2B12-decembre%2B19-backes-wissing-schleuse-mueden.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2024%2B12-decembre%2B19-backes-wissing-schleuse-mueden.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Les communes et l'État travaillent sur des solutions constructives et positives pour assurer l'avenir du TICE</title>
-                <description>Depuis plusieurs mois, l'État et les responsables politiques du TICE négocient une nouvelle convention. Il est devenu de plus en plus évident que les communes peinent à financer la réponse à la demande croissante de liaisons de bus dans le Sud.</description>
-                <pubDate>Thu, 19 Dec 2024 15:03:26 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-solutions-tice.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-solutions-tice.html</guid>
             </item>
         
     </channel>
