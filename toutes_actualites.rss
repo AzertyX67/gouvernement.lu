@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 9 Jan 2025 17:00:00 +0100 </pubDate>
-                <lastBuildDate>Fri, 10 Jan 2025 08:36:46 +0100</lastBuildDate>
+                <pubDate>Fri, 10 Jan 2025 10:05:00 +0100 </pubDate>
+                <lastBuildDate>Fri, 10 Jan 2025 10:16:34 +0100</lastBuildDate>
+            
+            <item>
+                <title>&quot;Ich sehe das patientenbezogen&quot;</title>
+                <description>Interview mit Martine Deprez im d'Lëtzebuerger Land</description>
+                <pubDate>Fri, 10 Jan 2025 10:16:34 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Binterviews%2B2025%2B01-janvier%2B10-deprez-land.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Binterviews%2B2025%2B01-janvier%2B10-deprez-land.html</guid>
+            </item>
+        
             
             <item>
                 <title>Yuriko Backes au Ukraine Defense Contact Group à la base aérienne Ramstein, Allemagne </title>
@@ -211,7 +220,7 @@
             <item>
                 <title>Martine Hansen, haben die Bauern die Politik erpresst?</title>
                 <description>Interview mit Martine Hansen im Luxemburger Wort</description>
-                <pubDate>Thu, 2 Jan 2025 10:48:56 +0100</pubDate>
+                <pubDate>Fri, 10 Jan 2025 10:18:11 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Binterviews%2B2025%2B01-janvier%2B02-hansen-wort.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Binterviews%2B2025%2B01-janvier%2B02-hansen-wort.html</guid>
             </item>
@@ -477,15 +486,6 @@
                 <pubDate>Thu, 19 Dec 2024 11:24:00 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-reprise-service-national-securite.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-reprise-service-national-securite.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>L'INAP récompensé par l'ALDIC</title>
-                <description>Ce mercredi 04 décembre 2024, l’Institut national d'administration publique (INAP) a reçu une distinction de l’Association Luxembourgeoise pour le Dialogue Interculturel (ALDIC) pour sa collaboration ....</description>
-                <pubDate>Fri, 3 Jan 2025 09:47:55 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_inap%2Bfr%2Bactualites%2B2024%2Brecompense-aldic.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_inap%2Bfr%2Bactualites%2B2024%2Brecompense-aldic.html</guid>
             </item>
         
     </channel>
