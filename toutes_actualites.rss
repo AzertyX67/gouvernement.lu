@@ -33,8 +33,26 @@
         </skipDays>
         
             
-                <pubDate>Fri, 10 Jan 2025 17:09:59 +0100 </pubDate>
-                <lastBuildDate>Fri, 10 Jan 2025 17:26:18 +0100</lastBuildDate>
+                <pubDate>Fri, 10 Jan 2025 17:44:24 +0100 </pubDate>
+                <lastBuildDate>Fri, 10 Jan 2025 17:53:56 +0100</lastBuildDate>
+            
+            <item>
+                <title>Nouvelles mesures pour améliorer la protection des victimes et renforcer la lutte contre la criminalité grave </title>
+                <description>Lors du Conseil de gouvernement, deux projets de loi ont été approuvés en vue de renforcer les droits et la protection des victimes et victimes potentielles.  </description>
+                <pubDate>Fri, 10 Jan 2025 17:53:56 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/10-mesures-victimes.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/10-mesures-victimes.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>Renforcer les droits des femmes: un nouveau projet de loi ambitieux</title>
+                <description>Le Conseil de gouvernement a approuvé en ce jour un projet de loi visant à lutter contre les pratiques contraires à la dignité humaine, tout en renforçant les droits fondamentaux des femmes. </description>
+                <pubDate>Fri, 10 Jan 2025 17:52:47 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/10-droit-femmes.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/10-droit-femmes.html</guid>
+            </item>
+        
             
             <item>
                 <title>&quot;Méi, a méi séier bauen - la simplification administrative en marche&quot; </title>
@@ -468,24 +486,6 @@
                 <pubDate>Thu, 19 Dec 2024 12:04:29 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-ptotection-internationale.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-ptotection-internationale.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Rapport Annuel 2023</title>
-                <description> Nous sommes ravis de présenter le Rapport Annuel 2023, qui met en valeur un autre chapitre important de la croissance et des progrès de notre administration. Ce rapport vise à fournir plus que des données et des métriques ;...</description>
-                <pubDate>Fri, 20 Dec 2024 08:59:49 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_ana%2Bfr%2Bactualites%2Bmes-actualites%2B2024%2Bannual-report-2023.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_ana%2Bfr%2Bactualites%2Bmes-actualites%2B2024%2Bannual-report-2023.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Le marché immobilier résidentiel au 3e trimestre 2024: reprise de l'activité sur le marché de l'existant et stabilisation des prix de vente</title>
-                <description>Le rapport d'analyse 12 publié par l'Observatoire de l'habitat dresse un bilan des évolutions de l'activité, des prix de vente et des loyers annoncés sur l'immobilier résidentiel au 3e trimestre 2024.</description>
-                <pubDate>Thu, 19 Dec 2024 11:03:40 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-marche-immobilier.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-marche-immobilier.html</guid>
             </item>
         
     </channel>
