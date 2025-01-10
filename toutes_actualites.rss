@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 10 Jan 2025 13:00:18 +0100 </pubDate>
-                <lastBuildDate>Fri, 10 Jan 2025 16:15:27 +0100</lastBuildDate>
+                <pubDate>Fri, 10 Jan 2025 17:09:59 +0100 </pubDate>
+                <lastBuildDate>Fri, 10 Jan 2025 17:26:18 +0100</lastBuildDate>
+            
+            <item>
+                <title>&quot;Méi, a méi séier bauen - la simplification administrative en marche&quot; </title>
+                <description>En date du 10 janvier 2025, le Conseil de gouvernement a approuvé des mesures de simplification administrative supplémentaires visant notamment à faciliter et à accélérer la construction de logements.</description>
+                <pubDate>Fri, 10 Jan 2025 17:26:18 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/10-mei-seier-bauen.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/10-mei-seier-bauen.html</guid>
+            </item>
+        
             
             <item>
                 <title>&quot;Schwätz mat!&quot; – La phase de consultation fournit des orientations claires pour l'avenir de notre système de pension </title>
@@ -48,7 +57,7 @@
             <item>
                 <title>Présentation des voeux du ministre de la Fonction publique Serge Wilmes</title>
                 <description>La traditionnelle présentation des vœux du ministre Serge Wilmes pour la nouvelle année a rassemblé près de 150 invités au Musée Dräi Eechelen. </description>
-                <pubDate>Fri, 10 Jan 2025 17:00:31 +0100</pubDate>
+                <pubDate>Fri, 10 Jan 2025 17:22:56 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mfp%2Bfr%2Bactualites%2B2024%2Bvoeux-nouvel-an-2025.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mfp%2Bfr%2Bactualites%2B2024%2Bvoeux-nouvel-an-2025.html</guid>
             </item>
@@ -477,15 +486,6 @@
                 <pubDate>Thu, 19 Dec 2024 11:03:40 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-marche-immobilier.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-marche-immobilier.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Infections respiratoires: rétrospective de la semaine du 9 au 15 décembre 2024 </title>
-                <description>La Direction de la santé publie sa rétrospective hebdomadaire concernant l'évolution des principales infections respiratoires aigües, incluant la COVID-19, la grippe et le virus respiratoire syncytial (RSV).</description>
-                <pubDate>Thu, 19 Dec 2024 10:23:06 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-retrospective.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-retrospective.html</guid>
             </item>
         
     </channel>
