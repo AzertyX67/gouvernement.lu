@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 10 Jan 2025 10:05:00 +0100 </pubDate>
-                <lastBuildDate>Fri, 10 Jan 2025 10:16:34 +0100</lastBuildDate>
+                <pubDate>Fri, 10 Jan 2025 11:06:38 +0100 </pubDate>
+                <lastBuildDate>Fri, 10 Jan 2025 11:10:34 +0100</lastBuildDate>
+            
+            <item>
+                <title>Jobday IT organisé par l'ADEM et le Digital Learning Hub</title>
+                <description>L'ADEM et le Digital Learning Hub annoncent leur Jobday commun qui aura lieu le 16 janvier 2025 et réunira 30 entreprises issues de secteurs divers (IT, finance, industrie, commerce, technologies, etc) en quête de nouveaux talents IT. </description>
+                <pubDate>Fri, 10 Jan 2025 11:10:34 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/10-jobday-it-adem-dlh.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/10-jobday-it-adem-dlh.html</guid>
+            </item>
+        
             
             <item>
                 <title>&quot;Ich sehe das patientenbezogen&quot;</title>
@@ -48,7 +57,7 @@
             <item>
                 <title>Présentation des vœux du ministre de la Fonction publique Serge Wilmes</title>
                 <description>La traditionnelle présentation des vœux du ministre Serge Wilmes pour la nouvelle année a rassemblé près de 150 invités au Musée Dräi Eechelen. </description>
-                <pubDate>Fri, 10 Jan 2025 10:38:03 +0100</pubDate>
+                <pubDate>Fri, 10 Jan 2025 10:49:27 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mfp%2Bfr%2Bactualites%2B2024%2Bnouvelan.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mfp%2Bfr%2Bactualites%2B2024%2Bnouvelan.html</guid>
             </item>
@@ -477,15 +486,6 @@
                 <pubDate>Thu, 19 Dec 2024 08:55:53 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2024%2B12-decembre%2B19-wolf-dahl.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2024%2B12-decembre%2B19-wolf-dahl.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Budget de l'État 2025 approuvé par la Chambre des députés: un budget de relance avec cap sur demain </title>
-                <description>En date du 19 décembre 2024, la Chambre des députés a approuvé le budget de l'État pour l'année 2025 à la suite d'une journée de débats en plénière. Le budget porte le titre "Kurs op muer. Ee Muer fir Jiddereen."</description>
-                <pubDate>Thu, 19 Dec 2024 11:01:49 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-roth-budget-etat.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/19-roth-budget-etat.html</guid>
             </item>
         
     </channel>
