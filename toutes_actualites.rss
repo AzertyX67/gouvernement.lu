@@ -33,8 +33,26 @@
         </skipDays>
         
             
-                <pubDate>Fri, 10 Jan 2025 18:06:58 +0100 </pubDate>
-                <lastBuildDate>Fri, 10 Jan 2025 18:34:36 +0100</lastBuildDate>
+                <pubDate>Sat, 11 Jan 2025 11:02:36 +0100 </pubDate>
+                <lastBuildDate>Sat, 11 Jan 2025 11:10:18 +0100</lastBuildDate>
+            
+            <item>
+                <title>Incendie au Centre pénitentiaire d’Uerschterhaff </title>
+                <description>Pendant la soirée du 10 janvier, vers 18h30, un incendie s’est déclaré au Centre pénitentiaire d’Uerschterhaff.</description>
+                <pubDate>Sat, 11 Jan 2025 11:10:18 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/11-incendie-uerschterhaff.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/11-incendie-uerschterhaff.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>Promesse solennelle de la 204e session de recrues </title>
+                <description>Vendredi 10 janvier 2025, l’Armée luxembourgeoise a invité à assister à la 204e promesse solennelle de recrues qui avait lieu au centre militaire à Diekirch, en présence de Yuriko Backes, ministre de la Défense. </description>
+                <pubDate>Sat, 11 Jan 2025 11:25:27 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/actualite-galerie.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/actualite-galerie.html</guid>
+            </item>
+        
             
             <item>
                 <title>&quot;La planification de la mobilité est un processus continu&quot;</title>
@@ -197,15 +215,6 @@
                 <pubDate>Wed, 8 Jan 2025 12:03:25 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/08-suspension-theatre-lhce.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/08-suspension-theatre-lhce.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Promesse solennelle de la 204e session de recrues </title>
-                <description>Vendredi 10 janvier 2025, l’Armée luxembourgeoise a invité à assister à la 204e promesse solennelle de recrues qui avait lieu au centre militaire à Diekirch, en présence de Yuriko Backes, ministre de la Défense. </description>
-                <pubDate>Sat, 11 Jan 2025 11:02:14 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/actualite-galerie.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/actualite-galerie.html</guid>
             </item>
         
             
@@ -477,16 +486,6 @@
                 <pubDate>Fri, 20 Dec 2024 08:06:43 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-bettel-comite-ministres-benelux.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-bettel-comite-ministres-benelux.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Succès total pour la deuxième édition des Lëtzebuerger Musekspräisser </title>
-                <description>Le 19 décembre 2024, la Philharmonie a accueilli la scène musicale nationale pour la soirée de remise des deuxièmes Lëtzebuerger Musekspräisser. 
-</description>
-                <pubDate>Fri, 20 Dec 2024 15:04:37 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-letzebuerger-musekspraisser.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-letzebuerger-musekspraisser.html</guid>
             </item>
         
     </channel>
