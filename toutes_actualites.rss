@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 13 Jan 2025 16:23:00 +0100 </pubDate>
-                <lastBuildDate>Mon, 13 Jan 2025 16:25:15 +0100</lastBuildDate>
+                <pubDate>Mon, 13 Jan 2025 17:19:20 +0100 </pubDate>
+                <lastBuildDate>Mon, 13 Jan 2025 17:26:01 +0100</lastBuildDate>
+            
+            <item>
+                <title>Le premier &quot;Bësch- a Juegddësch&quot;: un dialogue constructif pour l'avenir de nos forêts</title>
+                <description>Le 10 janvier 2025, le ministre de l'Environnement, du Climat et de la Biodiversité, Serge Wilmes, a réuni les principaux acteurs du domaine de la gestion forestière et cynégétique pour le premier "Bësch- a Juegddësch". </description>
+                <pubDate>Mon, 13 Jan 2025 17:26:01 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/13-besch-juegddag.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/13-besch-juegddag.html</guid>
+            </item>
+        
             
             <item>
                 <title>Erfolgreiche Ermittlungen der Zoll- und Verbrauchsteuerverwaltung: Drogenschmuggler auf frischer Tat ertappt </title>
@@ -476,15 +485,6 @@
                 <pubDate>Fri, 20 Dec 2024 18:14:56 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-backes-veille-noel-armee.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-backes-veille-noel-armee.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Visite de travail au Luxembourg du Dr Tedros Adhanom Ghebreyesus</title>
-                <description>Le 20 décembre 2024, le Dr Tedros Adhanom Ghebreyesus, directeur général de l'Organisation mondiale de la santé (OMS), a effectué une visite de travail au Luxembourg.</description>
-                <pubDate>Fri, 20 Dec 2024 18:26:43 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-visite-dr-tedros.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-visite-dr-tedros.html</guid>
             </item>
         
     </channel>
