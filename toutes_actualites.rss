@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Sat, 11 Jan 2025 11:02:36 +0100 </pubDate>
-                <lastBuildDate>Sat, 11 Jan 2025 11:10:18 +0100</lastBuildDate>
+                <pubDate>Mon, 13 Jan 2025 11:10:20 +0100 </pubDate>
+                <lastBuildDate>Mon, 13 Jan 2025 11:16:37 +0100</lastBuildDate>
+            
+            <item>
+                <title>Ensemble pour améliorer les soins en cancérologie: premiers résultats de l'enquête nationale Colive Cancer </title>
+                <description>Depuis 2022, l'enquête nationale Colive Cancer, menée par le Luxembourg Institute of Health (LIH) en collaboration avec le ministère de la Santé et de la Sécurité sociale, donne une voix aux patients atteints de cancer ...</description>
+                <pubDate>Mon, 13 Jan 2025 11:16:37 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/13-enquete-colive-cancer.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/13-enquete-colive-cancer.html</guid>
+            </item>
+        
             
             <item>
                 <title>Incendie au Centre pénitentiaire d’Uerschterhaff </title>
@@ -476,16 +485,6 @@
                 <pubDate>Fri, 20 Dec 2024 10:29:15 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mcult%2Bfr%2Bactualites%2Bmes-actualites%2B2024%2Bdecembre%2Bassermentation-mnhn.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mcult%2Bfr%2Bactualites%2Bmes-actualites%2B2024%2Bdecembre%2Bassermentation-mnhn.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Participation de Xavier Bettel à la réunion du Comité de ministres du Benelux </title>
-                <description>Le 19 décembre 2024, le ministre des Affaires étrangères et du Commerce extérieur, Xavier Bettel, a participé à la réunion du Comité de ministres du Benelux, qui s'est tenue en format virtuel. 
-</description>
-                <pubDate>Fri, 20 Dec 2024 08:06:43 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-bettel-comite-ministres-benelux.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-bettel-comite-ministres-benelux.html</guid>
             </item>
         
     </channel>
