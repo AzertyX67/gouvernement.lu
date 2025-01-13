@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 13 Jan 2025 13:25:47 +0100 </pubDate>
-                <lastBuildDate>Mon, 13 Jan 2025 13:30:41 +0100</lastBuildDate>
+                <pubDate>Mon, 13 Jan 2025 15:38:00 +0100 </pubDate>
+                <lastBuildDate>Mon, 13 Jan 2025 15:39:02 +0100</lastBuildDate>
+            
+            <item>
+                <title>Christophe Hansen, en présence de Martine Hansen, rencontre les agriculteurs luxembourgeois: un échange constructif sur l'avenir du secteur</title>
+                <description>Le lundi 13 janvier 2025, Christophe Hansen, nouveau commissaire européen à l'Agriculture, a rencontré les représentants de la Chambre d'agriculture au ministère de l'Agriculture, de l'Alimentation et de la Viticulture, en présence de la ministre ...</description>
+                <pubDate>Mon, 13 Jan 2025 15:39:02 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/13-hansen-rencontre-agriculteurs.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/13-hansen-rencontre-agriculteurs.html</guid>
+            </item>
+        
             
             <item>
                 <title>Assermentation de huit agents au ministère de l'Environnement, du Climat et de la Biodiversité</title>
@@ -476,15 +485,6 @@
                 <pubDate>Fri, 20 Dec 2024 11:36:49 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-horaires-transports-fin-annee.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-horaires-transports-fin-annee.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Évolution du chômage en novembre 2024 </title>
-                <description>Le nombre de demandeurs d’emploi résidents disponibles inscrits à l’ADEM s’élève à 18.625 au 30 novembre 2024, en hausse de 1.186 personnes (soit 6,8%) par rapport au mois de novembre 2023. </description>
-                <pubDate>Fri, 20 Dec 2024 11:38:17 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-chomage-novembre.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-chomage-novembre.html</guid>
             </item>
         
     </channel>
