@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 14 Jan 2025 00:00:00 +0100 </pubDate>
-                <lastBuildDate>Tue, 14 Jan 2025 13:53:20 +0100</lastBuildDate>
+                <pubDate>Tue, 14 Jan 2025 13:50:01 +0100 </pubDate>
+                <lastBuildDate>Tue, 14 Jan 2025 13:56:15 +0100</lastBuildDate>
+            
+            <item>
+                <title>Ensemble vers le bon état de nos cours d'eau et eaux souterraines</title>
+                <description>Lancement d'une consultation du public sur le calendrier et le programme de travail du 4e plan de gestion de la directive-cadre sur l'eau.</description>
+                <pubDate>Tue, 14 Jan 2025 13:56:15 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/14-plan-gestion-eau.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/14-plan-gestion-eau.html</guid>
+            </item>
+        
             
             <item>
                 <title>Lancement de l'enquête de mobilité Luxmobil 2025 </title>
@@ -476,15 +485,6 @@
                 <pubDate>Mon, 23 Dec 2024 10:19:25 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/23-campagne-consommation-alcool.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/23-campagne-consommation-alcool.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Alerte au phishing – usurpation de l'identité de l'Administration des contributions directes </title>
-                <description>Une tentative de fraude sur extrait de compte est actuellement en cours: des escrocs contactent des contribuables, y compris à l'étranger, par courrier au nom du bureau de recette de Luxembourg en envoyant des extraits de compte montrant ...</description>
-                <pubDate>Fri, 20 Dec 2024 18:23:26 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-alerte-phishing.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-alerte-phishing.html</guid>
             </item>
         
     </channel>
