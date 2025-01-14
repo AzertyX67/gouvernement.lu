@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 14 Jan 2025 13:50:01 +0100 </pubDate>
-                <lastBuildDate>Tue, 14 Jan 2025 13:56:15 +0100</lastBuildDate>
+                <pubDate>Tue, 14 Jan 2025 16:04:14 +0100 </pubDate>
+                <lastBuildDate>Tue, 14 Jan 2025 16:08:18 +0100</lastBuildDate>
+            
+            <item>
+                <title>Ausbruch der Maul- und Klauenseuche in Deutschland – Informationen und Empfehlungen der ALVA </title>
+                <description>Am Freitag, den 10. Januar 2025, wurde in Brandenburg die hochansteckende Viruserkrankung Maul- und Klauenseuche (MKS) festgestellt, die Rinder, Schafe, Ziegen, Schweine und andere Klauentiere betrifft. </description>
+                <pubDate>Tue, 14 Jan 2025 16:08:18 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B14-alva-maul-klauenseuche.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B14-alva-maul-klauenseuche.html</guid>
+            </item>
+        
             
             <item>
                 <title>Ensemble vers le bon état de nos cours d'eau et eaux souterraines</title>
@@ -476,15 +485,6 @@
                 <pubDate>Mon, 23 Dec 2024 13:12:46 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mfp%2Bfr%2Bactualites%2B2024%2Bassermentation21agentsmfp.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mfp%2Bfr%2Bactualites%2B2024%2Bassermentation21agentsmfp.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Repenser son rapport à l'alcool</title>
-                <description>À l'approche des fêtes de fin d'année, le ministère de la Santé et de la Sécurité sociale organise une campagne d'information pour sensibiliser la population aux risques liés à la consommation d'alcool. </description>
-                <pubDate>Mon, 23 Dec 2024 10:19:25 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/23-campagne-consommation-alcool.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/23-campagne-consommation-alcool.html</guid>
             </item>
         
     </channel>
