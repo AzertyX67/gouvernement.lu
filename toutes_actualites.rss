@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 14 Jan 2025 16:04:14 +0100 </pubDate>
-                <lastBuildDate>Tue, 14 Jan 2025 16:08:18 +0100</lastBuildDate>
+                <pubDate>Tue, 14 Jan 2025 17:52:59 +0100 </pubDate>
+                <lastBuildDate>Tue, 14 Jan 2025 18:00:22 +0100</lastBuildDate>
+            
+            <item>
+                <title>Mission financière de Gilles Roth en Chine: &quot;Un important marché d'avenir&quot;</title>
+                <description>Le ministre des Finances, Gilles Roth, s'est rendu en Chine du 4 au 14 janvier 2025 dans le cadre d'une mission financière avec Luxembourg for Finance (LFF) permettant de renforcer les relations entre le Luxembourg et la Chine.</description>
+                <pubDate>Tue, 14 Jan 2025 18:00:22 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/14-roth-chine.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/14-roth-chine.html</guid>
+            </item>
+        
             
             <item>
                 <title>Ausbruch der Maul- und Klauenseuche in Deutschland – Informationen und Empfehlungen der ALVA </title>
@@ -476,15 +485,6 @@
                 <pubDate>Mon, 23 Dec 2024 11:55:54 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/23-backes-derogation-temporaire.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/23-backes-derogation-temporaire.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Assermentation de 21 agents au ministère de la Fonction publique </title>
-                <description>En date du 20 décembre 2024, Serge Wilmes, ministre de la Fonction publique, a procédé à l’assermentation de 21 agents.</description>
-                <pubDate>Mon, 23 Dec 2024 13:12:46 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mfp%2Bfr%2Bactualites%2B2024%2Bassermentation21agentsmfp.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mfp%2Bfr%2Bactualites%2B2024%2Bassermentation21agentsmfp.html</guid>
             </item>
         
     </channel>
