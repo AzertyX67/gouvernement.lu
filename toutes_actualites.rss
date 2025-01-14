@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 13 Jan 2025 17:19:20 +0100 </pubDate>
-                <lastBuildDate>Mon, 13 Jan 2025 17:26:01 +0100</lastBuildDate>
+                <pubDate>Tue, 14 Jan 2025 00:00:00 +0100 </pubDate>
+                <lastBuildDate>Tue, 14 Jan 2025 13:53:20 +0100</lastBuildDate>
+            
+            <item>
+                <title>Lancement de l'enquête de mobilité Luxmobil 2025 </title>
+                <description>Le ministère de la Mobilité et des Travaux publics (MMTP) lance l'enquête de mobilité Luxmobil 2025, qui se déroulera du 14 janvier 2025 jusqu’à la fin du mois de juin 2025.</description>
+                <pubDate>Tue, 14 Jan 2025 13:53:20 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/14-backes-enquete-mobilite.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/14-backes-enquete-mobilite.html</guid>
+            </item>
+        
             
             <item>
                 <title>Le premier &quot;Bësch- a Juegddësch&quot;: un dialogue constructif pour l'avenir de nos forêts</title>
@@ -476,15 +485,6 @@
                 <pubDate>Fri, 20 Dec 2024 18:23:26 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-alerte-phishing.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-alerte-phishing.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Célébration de la traditionnelle veillée de Noël de l'Armée luxembourgeoise: un moment de partage et de solidarité!</title>
-                <description>L'Armée luxembourgeoise a clôturé cet après-midi l'année 2024 par sa traditionnelle veillée de Noël en présence de Yuriko Backes, ministre de la Défense, du général Steve Thull, chef d'état-major de l'Armée, de Charles Weiler, bourgmestre ...</description>
-                <pubDate>Fri, 20 Dec 2024 18:14:56 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-backes-veille-noel-armee.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/20-backes-veille-noel-armee.html</guid>
             </item>
         
     </channel>
