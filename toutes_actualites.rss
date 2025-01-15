@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 15 Jan 2025 00:00:00 +0100 </pubDate>
-                <lastBuildDate>Wed, 15 Jan 2025 15:58:11 +0100</lastBuildDate>
+                <pubDate>Wed, 15 Jan 2025 16:39:55 +0100 </pubDate>
+                <lastBuildDate>Wed, 15 Jan 2025 16:47:12 +0100</lastBuildDate>
+            
+            <item>
+                <title>Plan d'action pour la langue luxembourgeoise: Eric Thill présente les avancements à la commission parlementaire de la Culture </title>
+                <description>Mercredi 15 janvier, le ministre de la Culture, Eric Thill, a présenté les travaux en cours autour du plan d'action pour la promotion de la langue luxembourgeoise à la commission parlementaire compétente. Le ministre a ainsi détaillé les progrès réalisés </description>
+                <pubDate>Wed, 15 Jan 2025 16:47:12 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/15-thill-aktionsplang-letzebuerger-sprooch.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/15-thill-aktionsplang-letzebuerger-sprooch.html</guid>
+            </item>
+        
             
             <item>
                 <title>Le nouveau SpeedUP du GovTech Lab &quot;AI Reader CAM&quot;</title>
@@ -476,15 +485,6 @@
                 <pubDate>Fri, 27 Dec 2024 15:33:00 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/27-retrospective.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/27-retrospective.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Presidententrick ass d’Lëtzebuerger Wuert vum Joer 2024 </title>
-                <description>Virun allem déi national Aktualitéit huet d’Wiel vum Lëtzebuerger Wuert vum Joer 2024 dominéiert. Fir déi fënnefte Kéier zënter 2020 gouf op Initiativ vum Zenter fir d’Lëtzebuerger Sprooch (ZLS) vum Kulturministère an an Zesummenaarbecht mat ...</description>
-                <pubDate>Fri, 27 Dec 2024 17:00:11 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Blb%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2024%2B12-decembre%2B27-wuert-vum-joer.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Blb%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2024%2B12-decembre%2B27-wuert-vum-joer.html</guid>
             </item>
         
     </channel>
