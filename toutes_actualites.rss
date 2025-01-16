@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 16 Jan 2025 15:31:00 +0100 </pubDate>
-                <lastBuildDate>Thu, 16 Jan 2025 15:37:00 +0100</lastBuildDate>
+                <pubDate>Thu, 16 Jan 2025 16:27:50 +0100 </pubDate>
+                <lastBuildDate>Thu, 16 Jan 2025 16:34:00 +0100</lastBuildDate>
+            
+            <item>
+                <title>Transformation de l'Administration des contributions directes: &quot;Mieux servir le citoyen avec des procédures plus simples&quot;</title>
+                <description>En date du 16 janvier 2025, le ministre des Finances, Gilles Roth, et le directeur de l'Administration des contributions directes, Jean-Paul Olinger, ont invité à une conférence de presse avec comme sujet: ...</description>
+                <pubDate>Thu, 16 Jan 2025 16:34:00 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/16-roth-transformation-contributions.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/16-roth-transformation-contributions.html</guid>
+            </item>
+        
             
             <item>
                 <title>Erstausgabe des Luxemburger Gemüsebautages vereint 130 Teilnehmer</title>
@@ -477,15 +486,6 @@
                 <pubDate>Sat, 4 Jan 2025 18:13:40 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/04-avis-verglas.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/04-avis-verglas.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Luc Frieden a eu une entrevue avec le Président de la République française</title>
-                <description>Le Premier ministre Luc Frieden a eu une entrevue avec le Président de la République française, Emmanuel Macron, au Palais de l'Élysée à Paris, en date du 3 janvier. </description>
-                <pubDate>Fri, 3 Jan 2025 18:24:46 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/03-frieden-macron.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/03-frieden-macron.html</guid>
             </item>
         
     </channel>
