@@ -33,8 +33,27 @@
         </skipDays>
         
             
-                <pubDate>Wed, 15 Jan 2025 16:39:55 +0100 </pubDate>
-                <lastBuildDate>Wed, 15 Jan 2025 16:47:12 +0100</lastBuildDate>
+                <pubDate>Thu, 16 Jan 2025 11:12:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 16 Jan 2025 07:55:08 +0100</lastBuildDate>
+            
+            <item>
+                <title>Une année 2025 dédiée à l'accès à la Culture et au renforcement du secteur </title>
+                <description>Le mercredi 15 janvier 2025, le ministre de la Culture Eric Thill a convié les représentant/es du secteur culturel du Luxembourg au Mierscher Theater pour le traditionnel pot du Nouvel An. Placée sous le signe de l'élan vers l'avenir, ...
+</description>
+                <pubDate>Thu, 16 Jan 2025 07:55:08 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/16-thill-renforcement-secteur.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/16-thill-renforcement-secteur.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>Le Luxembourg conforme aux règles du pilier deux du Cadre inclusif OCDE/G20 − des qualifications transitoires pour plus de prévisibilité et de sécurité juridique pour les groupes d'entreprises concernés</title>
+                <description>L'Organisation de coopération et de développement économiques (OCDE) vient de publier la liste des États ayant d'ores et déjà mis en œuvre le pilier deux de la Déclaration sur une solution reposant sur deux piliers du Cadre inclusif OCDE/G20 ...</description>
+                <pubDate>Thu, 16 Jan 2025 08:09:38 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/15-roth-ocde-g20.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/15-roth-ocde-g20.html</guid>
+            </item>
+        
             
             <item>
                 <title>Plan d'action pour la langue luxembourgeoise: Eric Thill présente les avancements à la commission parlementaire de la Culture </title>
@@ -467,24 +486,6 @@
                 <pubDate>Mon, 30 Dec 2024 15:01:44 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/30-emergency-mayotte.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/30-emergency-mayotte.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Barrage de la route nationale N23 à Reichlange </title>
-                <description>Dans le cadre des travaux relatifs au raccordement de la N23 au nouveau giratoire, la N23 "rue d'Ospern" sera barrée à Reichlange dans les deux sens.</description>
-                <pubDate>Fri, 27 Dec 2024 16:59:30 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/27-chantier-reichlange.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/27-chantier-reichlange.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Infections respiratoires: rétrospective de la semaine du 16 au 22 décembre 2024</title>
-                <description>La Direction de la santé publie sa rétrospective hebdomadaire concernant l'évolution des principales infections respiratoires aigües, incluant la COVID-19, la grippe et le virus respiratoire syncytial (RSV).</description>
-                <pubDate>Fri, 27 Dec 2024 15:33:00 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/27-retrospective.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/12-decembre/27-retrospective.html</guid>
             </item>
         
     </channel>
