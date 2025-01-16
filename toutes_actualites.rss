@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 16 Jan 2025 14:30:00 +0100 </pubDate>
-                <lastBuildDate>Thu, 16 Jan 2025 14:30:41 +0100</lastBuildDate>
+                <pubDate>Thu, 16 Jan 2025 15:31:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 16 Jan 2025 15:37:00 +0100</lastBuildDate>
+            
+            <item>
+                <title>Erstausgabe des Luxemburger Gemüsebautages vereint 130 Teilnehmer</title>
+                <description>Der Ausbau des Gemüsebaus in Luxemburg ist eine der Prioritäten der Ministerin für Landwirtschaft, Ernährung und Weinbau Martine Hansen, sowie Teil des aktuellen Regierungsprogrammes. </description>
+                <pubDate>Thu, 16 Jan 2025 15:37:00 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B16-hansen-gemuesebautag.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B16-hansen-gemuesebautag.html</guid>
+            </item>
+        
             
             <item>
                 <title>L'ADEM organise un Jobday dédié aux métiers de l'IT en partenariat avec le Digital Learning Hub</title>
@@ -477,15 +486,6 @@
                 <pubDate>Fri, 3 Jan 2025 18:24:46 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/03-frieden-macron.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/03-frieden-macron.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Bilan AgriMeteo: les cultures agricoles au Luxembourg impactées par le record de pluie (+42,6%) en 2024 </title>
-                <description>Le service météorologique AgriMeteo annonce que l'année 2024 est une année record en termes de pluviosité depuis le début des mesures en 1854 au Grand-Duché, avec +42,6% de pluie.</description>
-                <pubDate>Fri, 3 Jan 2025 15:03:33 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/03-bilan-agrimeteo.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/03-bilan-agrimeteo.html</guid>
             </item>
         
     </channel>
