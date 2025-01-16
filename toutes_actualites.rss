@@ -33,8 +33,26 @@
         </skipDays>
         
             
-                <pubDate>Thu, 16 Jan 2025 16:27:50 +0100 </pubDate>
-                <lastBuildDate>Thu, 16 Jan 2025 16:34:00 +0100</lastBuildDate>
+                <pubDate>Thu, 16 Jan 2025 16:45:12 +0100 </pubDate>
+                <lastBuildDate>Thu, 16 Jan 2025 16:54:07 +0100</lastBuildDate>
+            
+            <item>
+                <title>&quot;Kultur am Prisong&quot; : Une fenêtre d’expression artistique pour les détenu/es</title>
+                <description>Dans le cadre de l’appel à projets "Kultur am Prisong", lancé conjointement par les ministères de la Culture et de la Justice, en collaboration étroite avec la Direction de l'Administration pénitentiaire, deux projets artistiques ont été retenus en 2024. Pour...</description>
+                <pubDate>Thu, 16 Jan 2025 16:54:07 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mcult%2Bfr%2Bactualites%2Bmes-actualites%2B2025%2Bjanvier%2Bprojet-kultur-am-prisong.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mcult%2Bfr%2Bactualites%2Bmes-actualites%2B2025%2Bjanvier%2Bprojet-kultur-am-prisong.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>Wolfsweibchen im Raum Dahl – Informationsabend am 21. Januar</title>
+                <description>Mitte Dezember waren auf einer Weide im Raum Dahl Schafe eindeutig von einem Raubtier gerissen worden. Auf Basis des Rissgutachtens durch Experten der Naturverwaltung konnte der Wolf nicht ausgeschlossen werden. </description>
+                <pubDate>Thu, 16 Jan 2025 16:53:01 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B16-wolf-dahl-informationsabend.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B16-wolf-dahl-informationsabend.html</guid>
+            </item>
+        
             
             <item>
                 <title>Transformation de l'Administration des contributions directes: &quot;Mieux servir le citoyen avec des procédures plus simples&quot;</title>
@@ -468,24 +486,6 @@
                 <pubDate>Mon, 6 Jan 2025 10:54:04 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/06-govtechlab.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/06-govtechlab.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Vigilance orange: risque de crues locales le long de l'Alzette et de la Sûre </title>
-                <description>À la suite des précipitations de ces dernières heures et le début du dégel, la cellule d'évaluation du risque intempéries (CERI) s'est réunie cet après-midi pour faire le point de la situation.</description>
-                <pubDate>Sun, 5 Jan 2025 18:39:14 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/05-avis-inondations.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/05-avis-inondations.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Alerte orange: avis de verglas pour tout le pays </title>
-                <description>La cellule d'évaluation du risque intempéries (CERI), réunie cet après-midi afin de faire une évaluation de la situation météorologique, émet un avis de verglas dans la nuit à dimanche, pouvant impacter l'ensemble du pays. </description>
-                <pubDate>Sat, 4 Jan 2025 18:13:40 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/04-avis-verglas.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/04-avis-verglas.html</guid>
             </item>
         
     </channel>
