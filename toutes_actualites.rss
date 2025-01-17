@@ -33,8 +33,19 @@
         </skipDays>
         
             
-                <pubDate>Thu, 16 Jan 2025 16:45:12 +0100 </pubDate>
-                <lastBuildDate>Thu, 16 Jan 2025 16:54:07 +0100</lastBuildDate>
+                <pubDate>Fri, 17 Jan 2025 08:25:18 +0100 </pubDate>
+                <lastBuildDate>Fri, 17 Jan 2025 08:56:01 +0100</lastBuildDate>
+            
+            <item>
+                <title>Air Safety Bulletin 2025/01</title>
+                <description>L'objectif de ce Bulletin de la sécurité aérienne est de sensibiliser aux risques potentiels pour la sécurité entre l'aviation de loisir et les activités sur les terrains d'aéromodélisme au Luxembourg. 
+
+L'ASB est disponible uniquement en langue anglais</description>
+                <pubDate>Fri, 17 Jan 2025 08:56:01 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_dac%2Bfr%2Bactualites%2B2025%2Bjanvier2025%2Bairsafetybulletin2025.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_dac%2Bfr%2Bactualites%2B2025%2Bjanvier2025%2Bairsafetybulletin2025.html</guid>
+            </item>
+        
             
             <item>
                 <title>&quot;Kultur am Prisong&quot; : Une fenêtre d’expression artistique pour les détenu/es</title>
@@ -477,15 +488,6 @@
                 <pubDate>Mon, 6 Jan 2025 09:41:51 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/06-adaptation-parametres-sociaux.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/06-adaptation-parametres-sociaux.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>''Bot4Lib'': le nouveau partenariat d'innovation du GovTech Lab ouvert aux candidatures jusqu'au 30 janvier! </title>
-                <description>Le GovTech Lab Luxembourg vient de lancer son nouveau partenariat d’innovation ''Bot4Lib''.</description>
-                <pubDate>Mon, 6 Jan 2025 10:54:04 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/06-govtechlab.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/06-govtechlab.html</guid>
             </item>
         
     </channel>
