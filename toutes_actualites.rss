@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 17 Jan 2025 08:25:18 +0100 </pubDate>
-                <lastBuildDate>Fri, 17 Jan 2025 08:56:01 +0100</lastBuildDate>
+                <pubDate>Sat, 18 Jan 2025 17:19:54 +0100 </pubDate>
+                <lastBuildDate>Sat, 18 Jan 2025 17:24:57 +0100</lastBuildDate>
+            
+            <item>
+                <title>Martine Hansen au Forum mondial pour l'alimentation et l'agriculture à Berlin</title>
+                <description>Martine Hansen a représenté le Luxembourg au 17e Forum mondial de l'alimentation et de l'agriculture (GFFA) qui s'est tenu à Berlin du 16 au 18 janvier 2025. Le GFFA vise à promouvoir la s</description>
+                <pubDate>Sat, 18 Jan 2025 17:24:57 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/18-hansen-gffa.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/18-hansen-gffa.html</guid>
+            </item>
+        
             
             <item>
                 <title>Air Safety Bulletin 2025/01</title>
@@ -480,15 +489,6 @@ L'ASB est disponible uniquement en langue anglais</description>
                 <pubDate>Tue, 7 Jan 2025 10:56:25 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/articles/2025/01-janvier/07-consommation-gaz.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/articles/2025/01-janvier/07-consommation-gaz.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Première visualisation du sous-sol profond luxembourgeois</title>
-                <description>Dans le cadre d'une campagne de reconnaissance sismique qu'ont entrepris les Ponts et Chaussées et la société Smart Seismic Solutions, les résultats donnent pour la première fois une visualisation du sous-sol profond du Luxembourg, ...</description>
-                <pubDate>Tue, 7 Jan 2025 09:08:58 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/articles/2025/01-janvier/06-visualisation-sous-sol-profond.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/articles/2025/01-janvier/06-visualisation-sous-sol-profond.html</guid>
             </item>
         
     </channel>
