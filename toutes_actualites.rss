@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Sat, 18 Jan 2025 17:19:54 +0100 </pubDate>
-                <lastBuildDate>Sat, 18 Jan 2025 17:24:57 +0100</lastBuildDate>
+                <pubDate>Mon, 20 Jan 2025 09:18:14 +0100 </pubDate>
+                <lastBuildDate>Mon, 20 Jan 2025 09:23:54 +0100</lastBuildDate>
+            
+            <item>
+                <title>Xavier Bettel: &quot;Donald Trump est un &quot;game changer&quot;</title>
+                <description>Interview avec Xavier Bettel dans Paperjam</description>
+                <pubDate>Mon, 20 Jan 2025 09:23:54 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/01-janvier/20-bettel-paperjam.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/01-janvier/20-bettel-paperjam.html</guid>
+            </item>
+        
             
             <item>
                 <title>Martine Hansen au Forum mondial pour l'alimentation et l'agriculture à Berlin</title>
@@ -480,15 +489,6 @@ L'ASB est disponible uniquement en langue anglais</description>
                 <pubDate>Tue, 7 Jan 2025 12:12:27 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/07-roth-faux-compte-x.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/07-roth-faux-compte-x.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>État des lieux des efforts de réduction de la consommation de gaz naturel au Luxembourg en décembre 2024</title>
-                <description>En décembre 2024, la réduction de la consommation de gaz naturel correspondait à environ 15% par rapport à la période de référence des années 2017 à 2022, correspondant à l'objectif de réduction de la demande de gaz naturel des États membres de l'UE. </description>
-                <pubDate>Tue, 7 Jan 2025 10:56:25 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/articles/2025/01-janvier/07-consommation-gaz.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/articles/2025/01-janvier/07-consommation-gaz.html</guid>
             </item>
         
     </channel>
