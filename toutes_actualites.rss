@@ -33,8 +33,28 @@
         </skipDays>
         
             
-                <pubDate>Mon, 20 Jan 2025 09:18:14 +0100 </pubDate>
-                <lastBuildDate>Mon, 20 Jan 2025 09:23:54 +0100</lastBuildDate>
+                <pubDate>Mon, 20 Jan 2025 11:18:00 +0100 </pubDate>
+                <lastBuildDate>Mon, 20 Jan 2025 11:26:28 +0100</lastBuildDate>
+            
+            <item>
+                <title>Évolution du chômage en décembre 2024</title>
+                <description>L’année 2024 se termine avec 19.532 demandeurs d'emploi et 5.935 postes 
+vacants. 
+</description>
+                <pubDate>Mon, 20 Jan 2025 11:26:28 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/20-evolution-chomage.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/20-evolution-chomage.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>Le &quot;Programme mammographie&quot;: un outil essentiel pour une détection précoce et un meilleur pronostic</title>
+                <description>La Direction de la santé et le groupe d'épidémiologie et de prévention du cancer (groupe Epican) du Luxembourg Institute of Health (LIH) ont publié ensemble un rapport sur l'évaluation du "Programme mammographie" (PM), le programme ...</description>
+                <pubDate>Mon, 20 Jan 2025 11:21:19 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/20-programme-mammographie.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/20-programme-mammographie.html</guid>
+            </item>
+        
             
             <item>
                 <title>Xavier Bettel: &quot;Donald Trump est un &quot;game changer&quot;</title>
@@ -471,24 +491,6 @@ L'ASB est disponible uniquement en langue anglais</description>
                 <pubDate>Wed, 8 Jan 2025 12:31:35 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/08-rapport-professionnels-sante.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/08-rapport-professionnels-sante.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Suspension temporaire des activités du groupe de théâtre jeunesse affilié au Lycée Hubert Clément à Esch-sur-Alzette </title>
-                <description>Fin octobre 2024, la direction du Lycée Hubert Clément avait pris connaissance d'un témoignage évoquant des conduites répréhensibles à connotation sexuelle qui se seraient déroulées lors d'une activité organisée par l'ASBL en charge du groupe de ...</description>
-                <pubDate>Wed, 8 Jan 2025 12:03:25 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/08-suspension-theatre-lhce.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/08-suspension-theatre-lhce.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Faux compte &quot;X&quot; de Gilles Roth</title>
-                <description>Un faux compte du ministre des Finances, Gilles Roth, circule actuellement sur X. </description>
-                <pubDate>Tue, 7 Jan 2025 12:12:27 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/07-roth-faux-compte-x.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/07-roth-faux-compte-x.html</guid>
             </item>
         
     </channel>
