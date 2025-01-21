@@ -33,8 +33,18 @@
         </skipDays>
         
             
-                <pubDate>Mon, 20 Jan 2025 13:41:42 +0100 </pubDate>
-                <lastBuildDate>Mon, 20 Jan 2025 13:56:59 +0100</lastBuildDate>
+                <pubDate>Tue, 21 Jan 2025 11:12:00 +0100 </pubDate>
+                <lastBuildDate>Tue, 21 Jan 2025 11:57:30 +0100</lastBuildDate>
+            
+            <item>
+                <title>Sensibiliser et inspirer les jeunes: présentation de deux nouveaux livres pédagogiques sur l'écoconstruction</title>
+                <description>Initier les enfants et les jeunes aux sciences et aux technologies, tout en développant leur conscience environnementale, est une des priorités du ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse. 
+</description>
+                <pubDate>Tue, 21 Jan 2025 11:57:30 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/21-meisch-livres-ecoconstruction.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/21-meisch-livres-ecoconstruction.html</guid>
+            </item>
+        
             
             <item>
                 <title>Passation de pouvoir : la présidence de FABEC passe au Luxembourg, LVNL prend la présidence du Conseil d'administration de FABEC.</title>
@@ -482,15 +492,6 @@ L'ASB est disponible uniquement en langue anglais</description>
                 <pubDate>Thu, 9 Jan 2025 13:36:31 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B09-hansen-scharrenbach.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B09-hansen-scharrenbach.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Infections respiratoires: rétrospective de la semaine du 30 décembre 2024 au 5 janvier 2025</title>
-                <description>La Direction de la santé publie sa rétrospective hebdomadaire concernant l'évolution des principales infections respiratoires aiguës, incluant la COVID-19, la grippe et le virus respiratoire syncytial (RSV).</description>
-                <pubDate>Thu, 9 Jan 2025 13:15:52 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/09-retrospective.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/09-retrospective.html</guid>
             </item>
         
     </channel>
