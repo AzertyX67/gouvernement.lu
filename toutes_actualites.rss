@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 21 Jan 2025 15:55:03 +0100 </pubDate>
-                <lastBuildDate>Tue, 21 Jan 2025 15:58:17 +0100</lastBuildDate>
+                <pubDate>Tue, 21 Jan 2025 16:17:10 +0100 </pubDate>
+                <lastBuildDate>Tue, 21 Jan 2025 16:22:23 +0100</lastBuildDate>
+            
+            <item>
+                <title>5 coproductions représenteront le Luxembourg à la Berlinale 2025</title>
+                <description>La Cache, Reflet dans un diamant mort et Timestamp sont sélectionnés en compétition officielle, tandis que Confidente et Der Kuss des Grashüpfers figurent respectivement dans les sections Panorama et Forum de la 75e édition du Festival international du film de...</description>
+                <pubDate>Tue, 21 Jan 2025 16:22:23 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/21-berlinale.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/21-berlinale.html</guid>
+            </item>
+        
             
             <item>
                 <title>Comité de conjoncture du 21 janvier 2025 </title>
@@ -482,15 +491,6 @@ L'ASB est disponible uniquement en langue anglais</description>
                 <pubDate>Fri, 10 Jan 2025 11:10:34 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/10-jobday-it-adem-dlh.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/10-jobday-it-adem-dlh.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>&quot;Ich sehe das patientenbezogen&quot;</title>
-                <description>Interview mit Martine Deprez im d'Lëtzebuerger Land</description>
-                <pubDate>Fri, 10 Jan 2025 10:16:34 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Binterviews%2B2025%2B01-janvier%2B10-deprez-land.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Binterviews%2B2025%2B01-janvier%2B10-deprez-land.html</guid>
             </item>
         
     </channel>
