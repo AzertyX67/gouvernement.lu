@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 22 Jan 2025 08:11:15 +0100 </pubDate>
-                <lastBuildDate>Wed, 22 Jan 2025 08:50:13 +0100</lastBuildDate>
+                <pubDate>Wed, 22 Jan 2025 11:45:05 +0100 </pubDate>
+                <lastBuildDate>Wed, 22 Jan 2025 11:53:50 +0100</lastBuildDate>
+            
+            <item>
+                <title>Le nouveau SpeedUP du GovTech Lab &quot;AI4DI&quot;</title>
+                <description>Le GovTech Lab a lancé son nouveau SpeedUP intitulé "AI4DI"  ouvert à candidatures du 22 janvier au 21 février 2025.</description>
+                <pubDate>Wed, 22 Jan 2025 11:53:50 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mindigital%2Bfr%2Bactualites%2Barticle%2B2025%2Bai4di.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mindigital%2Bfr%2Bactualites%2Barticle%2B2025%2Bai4di.html</guid>
+            </item>
+        
             
             <item>
                 <title>DAC Annual Safety Review 2023</title>
@@ -482,15 +491,6 @@ L'ASB est disponible uniquement en langue anglais</description>
                 <pubDate>Fri, 10 Jan 2025 17:52:47 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/10-droit-femmes.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/10-droit-femmes.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>&quot;Méi, a méi séier bauen - la simplification administrative en marche&quot; </title>
-                <description>En date du 10 janvier 2025, le Conseil de gouvernement a approuvé des mesures de simplification administrative supplémentaires visant notamment à faciliter et à accélérer la construction de logements.</description>
-                <pubDate>Mon, 13 Jan 2025 10:19:00 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/10-mei-seier-bauen.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/10-mei-seier-bauen.html</guid>
             </item>
         
     </channel>
