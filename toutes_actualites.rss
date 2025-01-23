@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 23 Jan 2025 12:45:00 +0100 </pubDate>
-                <lastBuildDate>Thu, 23 Jan 2025 12:57:25 +0100</lastBuildDate>
+                <pubDate>Thu, 23 Jan 2025 13:45:35 +0100 </pubDate>
+                <lastBuildDate>Thu, 23 Jan 2025 13:49:12 +0100</lastBuildDate>
+            
+            <item>
+                <title>Entrevue de Yuriko Backes avec Kaja Kallas, haute représentante de l'Union pour les affaires étrangères et la politique de sécurité</title>
+                <description>Le 23 janvier 2025, la ministre de la Défense, Yuriko Backes, a été reçue à Bruxelles par la haute représentante de l'Union pour les affaires étrangères et la politique de sécurité, vice-présidente de la Commission européenne, Kaja Kallas. </description>
+                <pubDate>Thu, 23 Jan 2025 13:49:12 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/23-backes-kallas.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/23-backes-kallas.html</guid>
+            </item>
+        
             
             <item>
                 <title>Infections respiratoires: rétrospective de la semaine du 13 au 19 janvier 2025</title>
@@ -42,6 +51,15 @@
                 <pubDate>Thu, 23 Jan 2025 12:57:25 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/23-retrospective.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/23-retrospective.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>Eric Thill s'est rendu à Strasbourg dans le cadre de la célébration officielle des 20 ans de l'Association européenne du patrimoine juif</title>
+                <description>Le jeudi 23 janvier 2025, le ministre de la Culture, Eric Thill, était en déplacement au Conseil de l'Europe à Strasbourg pour la célébration des 20 ans de l'Association européenne du patrimoine juif (AEPJ) qui est responsable, entre autres, ...</description>
+                <pubDate>Thu, 23 Jan 2025 13:34:11 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/23-thill-strasbourg.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/23-thill-strasbourg.html</guid>
             </item>
         
             
@@ -475,24 +493,6 @@ L'ASB est disponible uniquement en langue anglais</description>
                 <pubDate>Fri, 17 Jan 2025 10:54:44 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/13-bettel-ocde.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/13-bettel-ocde.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Incendie au Centre pénitentiaire d’Uerschterhaff </title>
-                <description>Pendant la soirée du 10 janvier, vers 18h30, un incendie s’est déclaré au Centre pénitentiaire d’Uerschterhaff.</description>
-                <pubDate>Sat, 11 Jan 2025 11:10:18 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/11-incendie-uerschterhaff.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/11-incendie-uerschterhaff.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Promesse solennelle de la 204e session de recrues </title>
-                <description>Vendredi 10 janvier 2025, l’Armée luxembourgeoise a invité à assister à la 204e promesse solennelle de recrues qui avait lieu au centre militaire à Diekirch, en présence de Yuriko Backes, ministre de la Défense. </description>
-                <pubDate>Sat, 11 Jan 2025 11:25:27 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/actualite-galerie.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/actualite-galerie.html</guid>
             </item>
         
     </channel>
