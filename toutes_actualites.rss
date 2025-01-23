@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 22 Jan 2025 11:45:05 +0100 </pubDate>
-                <lastBuildDate>Thu, 23 Jan 2025 08:30:40 +0100</lastBuildDate>
+                <pubDate>Thu, 23 Jan 2025 12:45:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 23 Jan 2025 12:57:25 +0100</lastBuildDate>
+            
+            <item>
+                <title>Infections respiratoires: rétrospective de la semaine du 13 au 19 janvier 2025</title>
+                <description>La Direction de la santé publie sa rétrospective hebdomadaire concernant l'évolution des principales infections respiratoires aiguës, incluant la COVID-19, la grippe et le virus respiratoire syncytial (RSV).</description>
+                <pubDate>Thu, 23 Jan 2025 12:57:25 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/23-retrospective.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/23-retrospective.html</guid>
+            </item>
+        
             
             <item>
                 <title>Le nouveau SpeedUP du GovTech Lab &quot;AI4DI&quot;</title>
@@ -484,15 +493,6 @@ L'ASB est disponible uniquement en langue anglais</description>
                 <pubDate>Sat, 11 Jan 2025 11:25:27 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/actualite-galerie.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/actualite-galerie.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>&quot;La planification de la mobilité est un processus continu&quot;</title>
-                <description>Interview avec Yuriko Backes dans Inspir' (Medef)</description>
-                <pubDate>Fri, 10 Jan 2025 18:34:36 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/01-janvier/10-interview-medef.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/01-janvier/10-interview-medef.html</guid>
             </item>
         
     </channel>
