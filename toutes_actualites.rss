@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 23 Jan 2025 13:45:35 +0100 </pubDate>
-                <lastBuildDate>Thu, 23 Jan 2025 13:49:12 +0100</lastBuildDate>
+                <pubDate>Fri, 24 Jan 2025 15:33:17 +0100 </pubDate>
+                <lastBuildDate>Fri, 24 Jan 2025 15:37:55 +0100</lastBuildDate>
+            
+            <item>
+                <title>En 2024, 7.415 personnes ont obtenu la nationalité luxembourgeoise à la suite des procédures de naturalisation, d'option et de recouvrement</title>
+                <description>Pendant l'année 2024, un nombre total de 7.415 personnes ont obtenu la nationalité luxembourgeoise à la suite des procédures de naturalisation, d'option et de recouvrement:</description>
+                <pubDate>Fri, 24 Jan 2025 15:37:55 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/24-nationalite-luxembourgeoise.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/24-nationalite-luxembourgeoise.html</guid>
+            </item>
+        
             
             <item>
                 <title>Entrevue de Yuriko Backes avec Kaja Kallas, haute représentante de l'Union pour les affaires étrangères et la politique de sécurité</title>
@@ -484,15 +493,6 @@ L'ASB est disponible uniquement en langue anglais</description>
                 <pubDate>Mon, 13 Jan 2025 13:30:41 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/articles/2025/01-janvier/13-wilmes-assermention.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/articles/2025/01-janvier/13-wilmes-assermention.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Ensemble pour améliorer les soins en cancérologie: premiers résultats de l'enquête nationale Colive Cancer </title>
-                <description>Depuis 2022, l'enquête nationale Colive Cancer, menée par le Luxembourg Institute of Health (LIH) en collaboration avec le ministère de la Santé et de la Sécurité sociale, donne une voix aux patients atteints de cancer ...</description>
-                <pubDate>Mon, 13 Jan 2025 11:16:37 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/13-enquete-colive-cancer.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/13-enquete-colive-cancer.html</guid>
             </item>
         
     </channel>
