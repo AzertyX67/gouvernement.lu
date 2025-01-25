@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 24 Jan 2025 15:33:17 +0100 </pubDate>
-                <lastBuildDate>Fri, 24 Jan 2025 15:37:55 +0100</lastBuildDate>
+                <pubDate>Sat, 25 Jan 2025 08:00:00 +0100 </pubDate>
+                <lastBuildDate>Fri, 24 Jan 2025 15:27:21 +0100</lastBuildDate>
+            
+            <item>
+                <title>S&amp;P Global Ratings confirme la notation &quot;AAA&quot; du Luxembourg avec perspectives stables </title>
+                <description>En date du 24 janvier 2025, l'agence S&P Global Ratings a confirmé la notation "AAA" du Luxembourg avec perspectives stables. </description>
+                <pubDate>Fri, 24 Jan 2025 15:27:21 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/25-rating-aaa.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/25-rating-aaa.html</guid>
+            </item>
+        
             
             <item>
                 <title>En 2024, 7.415 personnes ont obtenu la nationalité luxembourgeoise à la suite des procédures de naturalisation, d'option et de recouvrement</title>
@@ -485,15 +494,6 @@ L'ASB est disponible uniquement en langue anglais</description>
                 <pubDate>Mon, 13 Jan 2025 16:25:15 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B13-zoll-ermittlungserfolg-drogenschmuggler.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B13-zoll-ermittlungserfolg-drogenschmuggler.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Ermittlungserfolg der Zoll- und Verbrauchsteuerverwaltung: Große Menge Cannabis und Waffen sichergestellt</title>
-                <description>Wie erst jetzt aus ermittlungstechnischen Gründen mitgeteilt wird, konnten Beamte der Zoll- und Verbrauchsteuerverwaltung der Inspection générale opérations sécuritaires im August des vergangenen Jahres einen bedeutenden Ermittlungserfolg verzeichnen. </description>
-                <pubDate>Mon, 13 Jan 2025 16:20:20 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B13-zoll-ermittlungserfolg.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B13-zoll-ermittlungserfolg.html</guid>
             </item>
         
     </channel>
