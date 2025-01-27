@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 27 Jan 2025 11:01:14 +0100 </pubDate>
-                <lastBuildDate>Mon, 27 Jan 2025 11:07:55 +0100</lastBuildDate>
+                <pubDate>Mon, 27 Jan 2025 12:04:24 +0100 </pubDate>
+                <lastBuildDate>Mon, 27 Jan 2025 12:08:43 +0100</lastBuildDate>
+            
+            <item>
+                <title>Le ministère de la Culture lance son appel à projets pour la réalisation d'un enregistrement sonore </title>
+                <description>Dans le cadre de son dispositif d'aide visant à promouvoir la création et les initiatives artistiques dans le domaine musical, le ministère de la Culture lance un appel à projets pour soutenir financièrement l'enregistrement sonore en studio ou en ...</description>
+                <pubDate>Mon, 27 Jan 2025 12:08:43 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/27-appel-projets-enregistrement-sonore.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/27-appel-projets-enregistrement-sonore.html</guid>
+            </item>
+        
             
             <item>
                 <title>&quot;Let's Talk about Sex!&quot; labellisé par la chaire Unesco &quot;Santé sexuelle et droits humains&quot;</title>
@@ -487,15 +496,6 @@ L'ASB est disponible uniquement en langue anglais</description>
                 <pubDate>Wed, 15 Jan 2025 09:57:26 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/14-roth-chine.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/14-roth-chine.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Ausbruch der Maul- und Klauenseuche in Deutschland – Informationen und Empfehlungen der ALVA </title>
-                <description>Am Freitag, den 10. Januar 2025, wurde in Brandenburg die hochansteckende Viruserkrankung Maul- und Klauenseuche (MKS) festgestellt, die Rinder, Schafe, Ziegen, Schweine und andere Klauentiere betrifft. </description>
-                <pubDate>Tue, 14 Jan 2025 16:08:18 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B14-alva-maul-klauenseuche.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B14-alva-maul-klauenseuche.html</guid>
             </item>
         
     </channel>
