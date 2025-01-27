@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Sat, 25 Jan 2025 08:00:00 +0100 </pubDate>
-                <lastBuildDate>Sat, 25 Jan 2025 09:34:16 +0100</lastBuildDate>
+                <pubDate>Mon, 27 Jan 2025 11:01:14 +0100 </pubDate>
+                <lastBuildDate>Mon, 27 Jan 2025 11:07:55 +0100</lastBuildDate>
+            
+            <item>
+                <title>&quot;Let's Talk about Sex!&quot; labellisé par la chaire Unesco &quot;Santé sexuelle et droits humains&quot;</title>
+                <description>Le projet interdisciplinaire d'éducation à la santé affective et sexuelle "Let's Talk about Sex!", coordonné depuis 2018 par la Direction de la santé et le CESAS dans le cadre du Plan d'action national pour la promotion de la santé affective et ...</description>
+                <pubDate>Mon, 27 Jan 2025 11:07:55 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/27-unesco-cesas.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/27-unesco-cesas.html</guid>
+            </item>
+        
             
             <item>
                 <title>S&amp;P Global Ratings confirme la notation &quot;AAA&quot; du Luxembourg avec perspectives stables </title>
@@ -486,15 +495,6 @@ L'ASB est disponible uniquement en langue anglais</description>
                 <pubDate>Tue, 14 Jan 2025 13:56:15 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/14-plan-gestion-eau.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/14-plan-gestion-eau.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Lancement de l'enquête de mobilité Luxmobil 2025 </title>
-                <description>Le ministère de la Mobilité et des Travaux publics (MMTP) lance l'enquête de mobilité Luxmobil 2025, qui se déroulera du 14 janvier 2025 jusqu’à la fin du mois de juin 2025.</description>
-                <pubDate>Tue, 14 Jan 2025 13:53:20 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/14-backes-enquete-mobilite.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/14-backes-enquete-mobilite.html</guid>
             </item>
         
     </channel>
