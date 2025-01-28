@@ -33,15 +33,24 @@
         </skipDays>
         
             
-                <pubDate>Tue, 28 Jan 2025 11:23:58 +0100 </pubDate>
-                <lastBuildDate>Tue, 28 Jan 2025 11:26:34 +0100</lastBuildDate>
+                <pubDate>Tue, 28 Jan 2025 15:33:00 +0100 </pubDate>
+                <lastBuildDate>Tue, 28 Jan 2025 15:37:04 +0100</lastBuildDate>
+            
+            <item>
+                <title>Georges Mischo reprend l'élan du projet &quot;Impuls&quot; pour la promotion de l'activité physique dans les communes</title>
+                <description>En date du 25 janvier, le ministre des Sports, Georges Mischo, a assisté au "Impuls-Event", l'événement officiel de clôture du projet "Impuls". </description>
+                <pubDate>Tue, 28 Jan 2025 15:37:04 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/28-mischo-impuls.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/28-mischo-impuls.html</guid>
+            </item>
+        
             
             <item>
                 <title>Gilles Roth présente la situation financière de l'État à la Chambre</title>
                 <description>En date du 28 janvier 2025, le ministre des Finances, Gilles Roth, a présenté aux membres de la commission des Finances et de la commission de l'Exécution budgétaire de la Chambre des députés la situation financière de l'État au 31 décembre 2024.</description>
                 <pubDate>Tue, 28 Jan 2025 11:26:34 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/28-roth-situation-financiere.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/28-roth-situation-financiere.html</guid>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/28-roth-situation-financiere.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/28-roth-situation-financiere.html</guid>
             </item>
         
             
@@ -488,15 +497,6 @@ L'ASB est disponible uniquement en langue anglais</description>
                 <pubDate>Thu, 16 Jan 2025 07:55:08 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/16-thill-renforcement-secteur.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/16-thill-renforcement-secteur.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Infections respiratoires: rétrospective de la semaine du 6 au 12 janvier 2025</title>
-                <description>La Direction de la santé publie sa rétrospective hebdomadaire concernant l'évolution des principales infections respiratoires aiguës, incluant la COVID-19, la grippe et le virus respiratoire syncytial (RSV).</description>
-                <pubDate>Thu, 16 Jan 2025 09:53:23 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/16-retrospective.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/16-retrospective.html</guid>
             </item>
         
     </channel>
