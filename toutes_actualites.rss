@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 28 Jan 2025 00:00:00 +0100 </pubDate>
-                <lastBuildDate>Tue, 28 Jan 2025 07:59:08 +0100</lastBuildDate>
+                <pubDate>Tue, 28 Jan 2025 08:03:00 +0100 </pubDate>
+                <lastBuildDate>Tue, 28 Jan 2025 08:34:26 +0100</lastBuildDate>
+            
+            <item>
+                <title>Commémoration du 80e anniversaire de la libération du camp d'Auschwitz-Birkenau</title>
+                <description>Le 27 janvier marque la Journée internationale dédiée à la mémoire des victimes de la Shoah. Elle rappelle la libération du camp d'Auschwitz-Birkenau par les troupes soviétiques le 27 janvier 1945. Cette année, nous commémorons tout particulièrement ...</description>
+                <pubDate>Tue, 28 Jan 2025 08:34:26 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/28-frieden-commemoration-auschwitz.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/28-frieden-commemoration-auschwitz.html</guid>
+            </item>
+        
             
             <item>
                 <title>Déplacement de Xavier Bettel à Strasbourg pour la session plénière d'hiver de l'Assemblée parlementaire du Conseil de l'Europe </title>
@@ -48,7 +57,7 @@
             <item>
                 <title>Message du Premier ministre à la suite de la commémoration du 80e anniversaire de la libération du camp d'Auschwitz </title>
                 <description>Le temps s'est arrêté et j'étais sans voix devant le camp d'Auschwitz en Pologne. Un lieu et nom à jamais gravés dans l'histoire comme synonyme du manque d'humanité. </description>
-                <pubDate>Mon, 27 Jan 2025 15:59:42 +0100</pubDate>
+                <pubDate>Tue, 28 Jan 2025 08:28:58 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/27-frieden-commemoration-auschwitz.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/27-frieden-commemoration-auschwitz.html</guid>
             </item>
@@ -488,15 +497,6 @@ L'ASB est disponible uniquement en langue anglais</description>
                 <pubDate>Thu, 16 Jan 2025 13:25:47 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_ctie%2Bfr%2Bactualites%2B2025%2Bjanvier%2Beidas-france.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_ctie%2Bfr%2Bactualites%2B2025%2Bjanvier%2Beidas-france.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Le Luxembourg conforme aux règles du pilier deux du Cadre inclusif OCDE/G20 − des qualifications transitoires pour plus de prévisibilité et de sécurité juridique pour les groupes d'entreprises concernés</title>
-                <description>L'Organisation de coopération et de développement économiques (OCDE) vient de publier la liste des États ayant d'ores et déjà mis en œuvre le pilier deux de la Déclaration sur une solution reposant sur deux piliers du Cadre inclusif OCDE/G20 ...</description>
-                <pubDate>Thu, 16 Jan 2025 08:09:38 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/16-roth-ocde-g20.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/16-roth-ocde-g20.html</guid>
             </item>
         
     </channel>
