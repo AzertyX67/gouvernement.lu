@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 28 Jan 2025 08:03:00 +0100 </pubDate>
-                <lastBuildDate>Tue, 28 Jan 2025 08:34:26 +0100</lastBuildDate>
+                <pubDate>Tue, 28 Jan 2025 11:23:58 +0100 </pubDate>
+                <lastBuildDate>Tue, 28 Jan 2025 11:26:34 +0100</lastBuildDate>
+            
+            <item>
+                <title>Gilles Roth présente la situation financière de l'État à la Chambre</title>
+                <description>En date du 28 janvier 2025, le ministre des Finances, Gilles Roth, a présenté aux membres de la commission des Finances et de la commission de l'Exécution budgétaire de la Chambre des députés la situation financière de l'État au 31 décembre 2024.</description>
+                <pubDate>Tue, 28 Jan 2025 11:26:34 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/28-roth-situation-financiere.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/28-roth-situation-financiere.html</guid>
+            </item>
+        
             
             <item>
                 <title>Commémoration du 80e anniversaire de la libération du camp d'Auschwitz-Birkenau</title>
@@ -488,15 +497,6 @@ L'ASB est disponible uniquement en langue anglais</description>
                 <pubDate>Thu, 16 Jan 2025 09:53:23 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/16-retrospective.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/16-retrospective.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Accédez aux services publics en ligne luxembourgeois depuis la France</title>
-                <description>Bonnes nouvelles pour les résidents français ! Depuis peu, ils peuvent se connecter avec leurs solutions numériques « L’identité numérique La Poste » et « France Identité » auprès des services publics en ligne suivants : MyGuichet.lu ; Luxembourg Business...</description>
-                <pubDate>Thu, 16 Jan 2025 13:25:47 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_ctie%2Bfr%2Bactualites%2B2025%2Bjanvier%2Beidas-france.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_ctie%2Bfr%2Bactualites%2B2025%2Bjanvier%2Beidas-france.html</guid>
             </item>
         
     </channel>
