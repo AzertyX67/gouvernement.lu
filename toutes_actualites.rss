@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 28 Jan 2025 15:42:26 +0100 </pubDate>
-                <lastBuildDate>Tue, 28 Jan 2025 15:45:11 +0100</lastBuildDate>
+                <pubDate>Tue, 28 Jan 2025 17:05:00 +0100 </pubDate>
+                <lastBuildDate>Tue, 28 Jan 2025 17:05:21 +0100</lastBuildDate>
+            
+            <item>
+                <title>Xavier Bettel au Conseil des affaires générales de l'UE </title>
+                <description>Le ministre des Affaires étrangères et du Commerce extérieur, Xavier Bettel, a participé à la réunion du Conseil des affaires générales (CAG) de l'UE, qui s'est tenue le 28 janvier 2025 à Bruxelles.</description>
+                <pubDate>Tue, 28 Jan 2025 17:05:21 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/28-bettel-cag.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/28-bettel-cag.html</guid>
+            </item>
+        
             
             <item>
                 <title>LGBTIQ+: une réalité dans notre société, une réalité dans nos écoles</title>
@@ -487,15 +496,6 @@ L'ASB est disponible uniquement en langue anglais</description>
                 <pubDate>Thu, 16 Jan 2025 14:30:41 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/16-adem-dlh-jobday.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/16-adem-dlh-jobday.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Le Luxembourg appuie les efforts déployés par l'OMS pour faciliter l'évacuation d'un enfant de la bande de Gaza afin de recevoir des traitements vitaux </title>
-                <description>Le 15 janvier 2025, en coordination entre le ministère des Affaires étrangères et européennes, de la Défense, de la Coopération et du Commerce extérieur (MAE), du ministère des Affaires intérieures (MAINT) et du Corps grand-ducal d'incendie et de ...</description>
-                <pubDate>Fri, 17 Jan 2025 10:52:44 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/16-evacuation-enfant-gaza.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/16-evacuation-enfant-gaza.html</guid>
             </item>
         
     </channel>
