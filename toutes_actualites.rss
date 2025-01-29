@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 29 Jan 2025 12:06:04 +0100 </pubDate>
-                <lastBuildDate>Wed, 29 Jan 2025 12:09:32 +0100</lastBuildDate>
+                <pubDate>Wed, 29 Jan 2025 15:45:00 +0100 </pubDate>
+                <lastBuildDate>Wed, 29 Jan 2025 17:09:03 +0100</lastBuildDate>
+            
+            <item>
+                <title>Discours de Luc Frieden devant l'Assemblée parlementaire du Conseil de l'Europe</title>
+                <description>Seul le discours prononcé fait foi </description>
+                <pubDate>Wed, 29 Jan 2025 17:09:03 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/discours/2025/01-janvier/29-frieden-discours-conseil-europe.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/discours/2025/01-janvier/29-frieden-discours-conseil-europe.html</guid>
+            </item>
+        
             
             <item>
                 <title>Fusion des laboratoires: création du Laboratoire vétérinaire et alimentaire (LVA)</title>
@@ -118,9 +127,9 @@
         
             
             <item>
-                <title>Déplacement de Xavier Bettel à Strasbourg pour la session plénière d'hiver de l'Assemblée parlementaire du Conseil de l'Europe </title>
+                <title> Xavier Bettel à Strasbourg pour la session plénière d'hiver de l'Assemblée parlementaire du Conseil de l'Europe </title>
                 <description>Le 27 janvier 2025, dans le cadre de la présidence luxembourgeoise du Comité des Ministres du Conseil de l'Europe, le ministre des Affaires étrangères et du Commerce extérieur, Xavier Bettel, s'est rendu à Strasbourg.</description>
-                <pubDate>Tue, 28 Jan 2025 07:59:08 +0100</pubDate>
+                <pubDate>Wed, 29 Jan 2025 17:06:37 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/28-bettel-assemblee-parlementaire-ue.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/28-bettel-assemblee-parlementaire-ue.html</guid>
             </item>
@@ -486,16 +495,6 @@ L'ASB est disponible uniquement en langue anglais</description>
                 <pubDate>Fri, 17 Jan 2025 08:56:01 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_dac%2Bfr%2Bactualites%2B2025%2Bjanvier2025%2Bairsafetybulletin2025.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_dac%2Bfr%2Bactualites%2B2025%2Bjanvier2025%2Bairsafetybulletin2025.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Résumé des travaux du 17 janvier 2025</title>
-                <description>Le Conseil de gouvernement s'est réuni vendredi 17 janvier 2025 sous la présidence du Premier ministre Luc Frieden.
-</description>
-                <pubDate>Fri, 17 Jan 2025 17:54:52 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/17-conseil-gouvernement.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/17-conseil-gouvernement.html</guid>
             </item>
         
     </channel>
