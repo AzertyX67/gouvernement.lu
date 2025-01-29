@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 29 Jan 2025 11:43:48 +0100 </pubDate>
-                <lastBuildDate>Wed, 29 Jan 2025 11:49:34 +0100</lastBuildDate>
+                <pubDate>Wed, 29 Jan 2025 12:06:04 +0100 </pubDate>
+                <lastBuildDate>Wed, 29 Jan 2025 12:09:32 +0100</lastBuildDate>
+            
+            <item>
+                <title>Fusion des laboratoires: création du Laboratoire vétérinaire et alimentaire (LVA)</title>
+                <description>Lors de la mise en place du gouvernement actuel à la fin de l'année 2023, il avait été décidé de poursuivre la réforme de consolidation entamée par le gouvernement précédent dans le domaine du contrôle de la chaîne alimentaire avec la création ...</description>
+                <pubDate>Wed, 29 Jan 2025 12:09:32 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-fusion-laboratoires.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-fusion-laboratoires.html</guid>
+            </item>
+        
             
             <item>
                 <title>Lancement du guide et de la campagne de communication pour le secteur Horeca </title>
@@ -487,15 +496,6 @@ L'ASB est disponible uniquement en langue anglais</description>
                 <pubDate>Fri, 17 Jan 2025 15:07:04 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mcult%2Bfr%2Bactualites%2Bmes-actualites%2B2025%2Bjanvier%2Bprojet-kultur-am-prisong.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mcult%2Bfr%2Bactualites%2Bmes-actualites%2B2025%2Bjanvier%2Bprojet-kultur-am-prisong.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Wolfsweibchen im Raum Dahl – Informationsabend am 21. Januar</title>
-                <description>Mitte Dezember waren auf einer Weide im Raum Dahl Schafe eindeutig von einem Raubtier gerissen worden. Auf Basis des Rissgutachtens durch Experten der Naturverwaltung konnte der Wolf nicht ausgeschlossen werden. </description>
-                <pubDate>Thu, 16 Jan 2025 16:53:01 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B16-wolf-dahl-informationsabend.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B16-wolf-dahl-informationsabend.html</guid>
             </item>
         
     </channel>
