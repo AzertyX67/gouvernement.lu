@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 29 Jan 2025 10:02:48 +0100 </pubDate>
-                <lastBuildDate>Wed, 29 Jan 2025 10:06:19 +0100</lastBuildDate>
+                <pubDate>Wed, 29 Jan 2025 11:43:48 +0100 </pubDate>
+                <lastBuildDate>Wed, 29 Jan 2025 11:49:34 +0100</lastBuildDate>
+            
+            <item>
+                <title>Lancement du guide et de la campagne de communication pour le secteur Horeca </title>
+                <description>L'Inspection du travail et des mines (ITM), en collaboration avec le ministère du Travail et la fédération de l'Horesca, a présenté aujourd'hui un guide pratique et une campagne de communication innovante pour accompagner les acteurs du secteur Horeca.</description>
+                <pubDate>Wed, 29 Jan 2025 11:49:34 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-mischo-campagne-horeca.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-mischo-campagne-horeca.html</guid>
+            </item>
+        
             
             <item>
                 <title>Statistiques des causes de décès 2023: les tumeurs sont la 1re cause de décès au Luxembourg devant les maladies de l'appareil circulatoire</title>
@@ -487,15 +496,6 @@ L'ASB est disponible uniquement en langue anglais</description>
                 <pubDate>Thu, 16 Jan 2025 16:53:01 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B16-wolf-dahl-informationsabend.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B16-wolf-dahl-informationsabend.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Transformation de l'Administration des contributions directes: &quot;Mieux servir le citoyen avec des procédures plus simples&quot;</title>
-                <description>En date du 16 janvier 2025, le ministre des Finances, Gilles Roth, et le directeur de l'Administration des contributions directes, Jean-Paul Olinger, ont invité à une conférence de presse avec comme sujet: ...</description>
-                <pubDate>Thu, 16 Jan 2025 16:34:00 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/16-roth-transformation-contributions.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/16-roth-transformation-contributions.html</guid>
             </item>
         
     </channel>
