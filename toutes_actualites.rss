@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 29 Jan 2025 15:45:00 +0100 </pubDate>
-                <lastBuildDate>Wed, 29 Jan 2025 17:19:42 +0100</lastBuildDate>
+                <pubDate>Thu, 30 Jan 2025 08:33:50 +0100 </pubDate>
+                <lastBuildDate>Thu, 30 Jan 2025 08:44:32 +0100</lastBuildDate>
+            
+            <item>
+                <title>Ein konstruktiver sozialer Dialog für das neue Gehälterabkommen im öffentlichen Dienst</title>
+                <description>Der Minister für den öffentlichen Dienst Serge Wilmes und der Präsident der CGFP Romain Wolff haben am Mittwoch, den 29. Januar im Rahmen einer Pressekonferenz das neue Gehälterabkommen für den öffentlichen Dienst vorgestellt. </description>
+                <pubDate>Thu, 30 Jan 2025 08:44:32 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B30-wilmes-gehaelterabkommen.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B30-wilmes-gehaelterabkommen.html</guid>
+            </item>
+        
             
             <item>
                 <title>Discours de Luc Frieden devant l'Assemblée parlementaire du Conseil de l'Europe</title>
@@ -485,15 +494,6 @@ vacants.
                 <pubDate>Mon, 20 Jan 2025 17:11:17 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/20-hansen-contenu-frauduleux-facebook.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/20-hansen-contenu-frauduleux-facebook.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Autofestival: Rappel des règles régissant les contrats </title>
-                <description>À l'occasion de l'Autofestival qui débute le 25 janvier, la Direction de la protection des consommateurs a publié un dossier rappelant les règles essentielles concernant les contrats d'achat, de crédit et de leasing de véhicules.</description>
-                <pubDate>Mon, 20 Jan 2025 18:20:06 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/20-autofestival-rappels-regles-contrats.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/20-autofestival-rappels-regles-contrats.html</guid>
             </item>
         
     </channel>
