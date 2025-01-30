@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 30 Jan 2025 14:39:47 +0100 </pubDate>
-                <lastBuildDate>Thu, 30 Jan 2025 15:05:31 +0100</lastBuildDate>
+                <pubDate>Thu, 30 Jan 2025 15:26:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 30 Jan 2025 15:28:12 +0100</lastBuildDate>
+            
+            <item>
+                <title>Présentation du Plan national &quot;Sécurité routière 2024-2028&quot;</title>
+                <description>En date du 30 janvier 2025, la ministre de la Mobilité et des Travaux publics, Yuriko Backes, a présenté le nouveau Plan national "Sécurité routière 2024-2028" (PNSR), fruit d'une collaboration entre divers acteurs étatiques et non étatiques, ...</description>
+                <pubDate>Thu, 30 Jan 2025 15:28:12 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/30-backes-pnsr.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/30-backes-pnsr.html</guid>
+            </item>
+        
             
             <item>
                 <title>Lex Delles et Serge Wilmes ont remis les labels &quot;EcoLabel Luxembourg&quot;, &quot;bed+bike&quot; et &quot;EU Ecolabel&quot; à vingt-deux hébergements touristiques </title>
@@ -484,15 +493,6 @@ vacants.
                 <pubDate>Mon, 20 Jan 2025 11:26:28 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/20-evolution-chomage.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/20-evolution-chomage.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Le &quot;Programme mammographie&quot;: un outil essentiel pour une détection précoce et un meilleur pronostic</title>
-                <description>La Direction de la santé et le groupe d'épidémiologie et de prévention du cancer (groupe Epican) du Luxembourg Institute of Health (LIH) ont publié ensemble un rapport sur l'évaluation du "Programme mammographie" (PM), le programme ...</description>
-                <pubDate>Mon, 20 Jan 2025 11:21:19 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/20-programme-mammographie.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/20-programme-mammographie.html</guid>
             </item>
         
     </channel>
