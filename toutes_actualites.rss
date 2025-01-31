@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 31 Jan 2025 00:00:00 +0100 </pubDate>
-                <lastBuildDate>Fri, 31 Jan 2025 07:58:12 +0100</lastBuildDate>
+                <pubDate>Fri, 31 Jan 2025 08:10:00 +0100 </pubDate>
+                <lastBuildDate>Fri, 31 Jan 2025 09:00:22 +0100</lastBuildDate>
+            
+            <item>
+                <title>Léon Gloden au Conseil &quot;Justice et Affaires intérieures&quot; de l'Union européenne</title>
+                <description>Léon Gloden a participé à la réunion informelle du Conseil "Justice et Affaires intérieures" (JAI) de l'Union européenne, qui s'est tenue le 30 janvier 2025 à Varsovie.</description>
+                <pubDate>Fri, 31 Jan 2025 09:00:22 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/31-gloden-cjai.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/31-gloden-cjai.html</guid>
+            </item>
+        
             
             <item>
                 <title>Inauguration de la nouvelle structure &quot;MARGA&quot;: Un espace protégé pour les femmes usagères de drogues </title>
@@ -481,15 +490,6 @@
                 <pubDate>Tue, 21 Jan 2025 16:22:23 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/21-berlinale.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/21-berlinale.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Comité de conjoncture du 21 janvier 2025 </title>
-                <description>Le Comité de conjoncture s'est réuni en date du 21 janvier 2025, sous la présidence du ministre du Travail, Georges Mischo.</description>
-                <pubDate>Tue, 21 Jan 2025 15:58:17 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/21-comite-conjoncture.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/21-comite-conjoncture.html</guid>
             </item>
         
     </channel>
