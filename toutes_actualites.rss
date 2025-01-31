@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 31 Jan 2025 09:34:00 +0100 </pubDate>
-                <lastBuildDate>Fri, 31 Jan 2025 09:44:19 +0100</lastBuildDate>
+                <pubDate>Fri, 31 Jan 2025 09:45:11 +0100 </pubDate>
+                <lastBuildDate>Fri, 31 Jan 2025 09:50:18 +0100</lastBuildDate>
+            
+            <item>
+                <title>Le Service connectivités radio critiques du SMC publie la version 3 du &quot;Memento concernant la couverture RENITA à l'intérieur de bâtiments&quot; </title>
+                <description>Le Service connectivités radio critiques du Service des médias, de la connectivité et de la politique numérique (SMC) a publié une nouvelle version du "Memento concernant la couverture RENITA à l'intérieur de bâtiments". </description>
+                <pubDate>Fri, 31 Jan 2025 09:50:18 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/31-smc-renita.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/31-smc-renita.html</guid>
+            </item>
+        
             
             <item>
                 <title>Georges Mischo à la cérémonie commémorative à l'occasion du 80e anniversaire du massacre de Sonnenburg </title>
@@ -60,6 +69,15 @@
                 <pubDate>Fri, 31 Jan 2025 07:58:12 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/31-deprez-inauguration-structure-marga.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/31-deprez-inauguration-structure-marga.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>&quot;L'insécurité pèse sur les industriels&quot;</title>
+                <description>Interview avec Lex Delles dans Paperjam</description>
+                <pubDate>Fri, 31 Jan 2025 10:04:40 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/01-janvier/31-delles-paperjam.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/01-janvier/31-delles-paperjam.html</guid>
             </item>
         
             
@@ -472,24 +490,6 @@
                 <pubDate>Wed, 22 Jan 2025 17:48:08 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/22-bettel-davos-suite.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/22-bettel-davos-suite.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Xavier Bettel au &quot;World Economic Forum&quot; à Davos </title>
-                <description>Le ministre des Affaires étrangères et du Commerce extérieur, Xavier Bettel, participe actuellement au "World Economic Forum" (WEF), qui se tient traditionnellement à Davos en Suisse. </description>
-                <pubDate>Thu, 23 Jan 2025 07:20:17 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/22-bettel-davos.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/22-bettel-davos.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Le ministère de la Culture lance son appel à projets destiné aux festivals de musique</title>
-                <description>Dans le cadre de son dispositif d'aide visant à promouvoir la création et les initiatives artistiques dans le domaine de la musique, le ministère de la Culture lance un appel à projets.</description>
-                <pubDate>Tue, 21 Jan 2025 16:44:39 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/21-appel-projets-festival-musique.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/21-appel-projets-festival-musique.html</guid>
             </item>
         
     </channel>
