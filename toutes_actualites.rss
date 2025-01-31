@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 31 Jan 2025 09:45:11 +0100 </pubDate>
-                <lastBuildDate>Fri, 31 Jan 2025 09:50:18 +0100</lastBuildDate>
+                <pubDate>Fri, 31 Jan 2025 10:37:00 +0100 </pubDate>
+                <lastBuildDate>Fri, 31 Jan 2025 10:40:11 +0100</lastBuildDate>
+            
+            <item>
+                <title>Léon Gloden: &quot;Une table ronde sur le problème de drogue dans le quartier de la Gare est prévue&quot;</title>
+                <description>Interview avec Léon Gloden dans Virgule</description>
+                <pubDate>Fri, 31 Jan 2025 10:40:11 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/01-janvier/30-gloden-virgule.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/01-janvier/30-gloden-virgule.html</guid>
+            </item>
+        
             
             <item>
                 <title>Le Service connectivités radio critiques du SMC publie la version 3 du &quot;Memento concernant la couverture RENITA à l'intérieur de bâtiments&quot; </title>
@@ -480,16 +489,6 @@
                 <pubDate>Wed, 22 Jan 2025 08:50:13 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_dac%2Bfr%2Bactualites%2B2025%2Bjanvier2025%2Bannual-safety-review-2023.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_dac%2Bfr%2Bactualites%2B2025%2Bjanvier2025%2Bannual-safety-review-2023.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Xavier Bettel poursuit ses échanges au &quot;World Economic Forum&quot; à Davos </title>
-                <description>Le ministre des Affaires étrangères et du Commerce extérieur, Xavier Bettel, a poursuivi en ce mercredi 22 janvier 2025 ses échanges bilatéraux dans le cadre du "World Economic Forum" (WEF), qui se tient traditionnellement à Davos en Suisse.
-</description>
-                <pubDate>Wed, 22 Jan 2025 17:48:08 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/22-bettel-davos-suite.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/22-bettel-davos-suite.html</guid>
             </item>
         
     </channel>
