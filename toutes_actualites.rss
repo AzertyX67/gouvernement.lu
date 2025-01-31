@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 31 Jan 2025 08:10:00 +0100 </pubDate>
-                <lastBuildDate>Fri, 31 Jan 2025 09:00:22 +0100</lastBuildDate>
+                <pubDate>Fri, 31 Jan 2025 09:34:00 +0100 </pubDate>
+                <lastBuildDate>Fri, 31 Jan 2025 09:44:19 +0100</lastBuildDate>
+            
+            <item>
+                <title>Georges Mischo à la cérémonie commémorative à l'occasion du 80e anniversaire du massacre de Sonnenburg </title>
+                <description>Cette année nous marquons le 80e anniversaire du massacre de Sonnenburg. À cette occasion, Georges Mischo a participé le 30 janvier 2025 à une cérémonie commémorative à Äischen à la mémoire des victimes.</description>
+                <pubDate>Fri, 31 Jan 2025 09:44:19 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/31-mischo-commemoration.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/31-mischo-commemoration.html</guid>
+            </item>
+        
             
             <item>
                 <title>Léon Gloden au Conseil &quot;Justice et Affaires intérieures&quot; de l'Union européenne</title>
@@ -481,15 +490,6 @@
                 <pubDate>Tue, 21 Jan 2025 16:44:39 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/21-appel-projets-festival-musique.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/21-appel-projets-festival-musique.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>5 coproductions représenteront le Luxembourg à la Berlinale 2025</title>
-                <description>La Cache, Reflet dans un diamant mort et Timestamp sont sélectionnés en compétition officielle, tandis que Confidente et Der Kuss des Grashüpfers figurent respectivement dans les sections Panorama et Forum de la 75e édition du Festival international du film de...</description>
-                <pubDate>Tue, 21 Jan 2025 16:22:23 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/21-berlinale.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/21-berlinale.html</guid>
             </item>
         
     </channel>
