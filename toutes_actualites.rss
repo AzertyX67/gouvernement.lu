@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Sat, 1 Feb 2025 11:18:00 +0100 </pubDate>
-                <lastBuildDate>Sat, 1 Feb 2025 17:09:35 +0100</lastBuildDate>
+                <pubDate>Sun, 2 Feb 2025 17:52:00 +0100 </pubDate>
+                <lastBuildDate>Sun, 2 Feb 2025 17:59:08 +0100</lastBuildDate>
+            
+            <item>
+                <title>Eric Thill à la &quot;Ukraine Culture Conference&quot;</title>
+                <description>Le 31 janvier, le ministre de la Culture, Eric Thill, s'est rendu à Uzhhorod en Ukraine à l'invitation personnelle du ministre ukrainien de la Culture et des Communications stratégiques, Mykola Tochytskyi.</description>
+                <pubDate>Sun, 2 Feb 2025 17:59:08 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/02-thill-ukraine.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/02-thill-ukraine.html</guid>
+            </item>
+        
             
             <item>
                 <title>Wiederinbetriebnahme der Mosel-Schleuse Müden </title>
@@ -480,15 +489,6 @@
                 <pubDate>Thu, 23 Jan 2025 12:57:25 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/23-retrospective.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/23-retrospective.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Le gouvernement luxembourgeois et Clarence signent un partenariat sur le cloud souverain déconnecté </title>
-                <description>Ce jeudi, Stéphanie Obertin, ministre de la Digitalisation, Paul Konsbruck, directeur général de LuxConnect, et Gérard Hoffmann, directeur général de Proximus Luxembourg, ont procédé à la signature d'un partenariat entre le gouvernement et Clarence SA...</description>
-                <pubDate>Thu, 23 Jan 2025 16:15:59 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/23-obertin-clarence-cloud.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/23-obertin-clarence-cloud.html</guid>
             </item>
         
     </channel>
