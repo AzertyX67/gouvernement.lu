@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 3 Feb 2025 11:54:11 +0100 </pubDate>
-                <lastBuildDate>Mon, 3 Feb 2025 11:58:37 +0100</lastBuildDate>
+                <pubDate>Mon, 3 Feb 2025 13:07:18 +0100 </pubDate>
+                <lastBuildDate>Mon, 3 Feb 2025 13:10:59 +0100</lastBuildDate>
+            
+            <item>
+                <title>Remise du prix communal 2024 aux cinq communes lauréates</title>
+                <description>Chaque année, le ministère de l'Égalité des genres et de la Diversité (MEGA) décerne son prix communal à une ou plusieurs communes qui se sont particulièrement investies à la promotion de l'égalité des genres et de la diversité sur leur territoire. </description>
+                <pubDate>Mon, 3 Feb 2025 13:10:59 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/03-backes-prix-communal.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/03-backes-prix-communal.html</guid>
+            </item>
+        
             
             <item>
                 <title>Lancement d'un nouvel appel à projets visant à soutenir les entreprises pour financer des bornes de charge</title>
@@ -479,15 +488,6 @@
                 <pubDate>Fri, 24 Jan 2025 15:37:55 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/24-nationalite-luxembourgeoise.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/24-nationalite-luxembourgeoise.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>David Weis nommé directeur de l'Institut national de recherches archéologiques</title>
-                <description>Dans sa séance du 24 janvier 2025, le Conseil de gouvernement a décidé de proposer à S.A.R. le Grand-Duc la nomination de David Weis au poste de directeur de l'Institut national de recherches archéologiques (INRA).</description>
-                <pubDate>Mon, 27 Jan 2025 08:02:39 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/24-directeur-inra.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/24-directeur-inra.html</guid>
             </item>
         
     </channel>
