@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Sun, 2 Feb 2025 17:52:00 +0100 </pubDate>
-                <lastBuildDate>Sun, 2 Feb 2025 17:59:08 +0100</lastBuildDate>
+                <pubDate>Mon, 3 Feb 2025 08:45:00 +0100 </pubDate>
+                <lastBuildDate>Mon, 3 Feb 2025 08:50:10 +0100</lastBuildDate>
+            
+            <item>
+                <title>Test du système d'alerte et d'information à la population &quot;LU-Alert&quot; </title>
+                <description>Le gouvernement poursuivra le lundi 3 février 2025 la mise en œuvre de sa stratégie de test du système d'alerte et d'information à la population "LU-Alert" en procédant au test mensuel du réseau des sirènes ainsi qu'à un test national des SMS</description>
+                <pubDate>Mon, 3 Feb 2025 08:50:10 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/03-test-lualert.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/03-test-lualert.html</guid>
+            </item>
+        
             
             <item>
                 <title>Eric Thill à la &quot;Ukraine Culture Conference&quot;</title>
@@ -480,15 +489,6 @@
                 <pubDate>Thu, 23 Jan 2025 13:49:12 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/23-backes-kallas.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/23-backes-kallas.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Infections respiratoires: rétrospective de la semaine du 13 au 19 janvier 2025</title>
-                <description>La Direction de la santé publie sa rétrospective hebdomadaire concernant l'évolution des principales infections respiratoires aiguës, incluant la COVID-19, la grippe et le virus respiratoire syncytial (RSV).</description>
-                <pubDate>Thu, 23 Jan 2025 12:57:25 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/23-retrospective.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/23-retrospective.html</guid>
             </item>
         
     </channel>
