@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 3 Feb 2025 13:07:18 +0100 </pubDate>
-                <lastBuildDate>Mon, 3 Feb 2025 13:10:59 +0100</lastBuildDate>
+                <pubDate>Mon, 3 Feb 2025 15:54:55 +0100 </pubDate>
+                <lastBuildDate>Mon, 3 Feb 2025 16:08:50 +0100</lastBuildDate>
+            
+            <item>
+                <title>Bilan de l'année 2024 en matière d'asile, d'immigration et d'accueil</title>
+                <description>Le 3 février 2025, le ministre des Affaires intérieures, Léon Gloden, a présenté lors d'une conférence de presse le bilan de l'année 2024 en matière d'asile et d'immigration. </description>
+                <pubDate>Mon, 3 Feb 2025 16:08:50 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/03-gloden-hahn-bilan.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/03-gloden-hahn-bilan.html</guid>
+            </item>
+        
             
             <item>
                 <title>Remise du prix communal 2024 aux cinq communes lauréates</title>
@@ -479,15 +488,6 @@
                 <pubDate>Sat, 25 Jan 2025 10:37:54 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/25-thill-unesco-holocaust-remembrance-day.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/25-thill-unesco-holocaust-remembrance-day.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>En 2024, 7.415 personnes ont obtenu la nationalité luxembourgeoise à la suite des procédures de naturalisation, d'option et de recouvrement</title>
-                <description>Pendant l'année 2024, un nombre total de 7.415 personnes ont obtenu la nationalité luxembourgeoise à la suite des procédures de naturalisation, d'option et de recouvrement:</description>
-                <pubDate>Fri, 24 Jan 2025 15:37:55 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/24-nationalite-luxembourgeoise.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/24-nationalite-luxembourgeoise.html</guid>
             </item>
         
     </channel>
