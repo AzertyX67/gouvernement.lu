@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 3 Feb 2025 10:19:03 +0100 </pubDate>
-                <lastBuildDate>Mon, 3 Feb 2025 10:28:22 +0100</lastBuildDate>
+                <pubDate>Mon, 3 Feb 2025 11:54:11 +0100 </pubDate>
+                <lastBuildDate>Mon, 3 Feb 2025 11:58:37 +0100</lastBuildDate>
+            
+            <item>
+                <title>Lancement d'un nouvel appel à projets visant à soutenir les entreprises pour financer des bornes de charge</title>
+                <description>Un nouvel appel à projets destiné à encourager les entreprises à investir dans des infrastructures de charge pour véhicules électriques vient d'être lancé. </description>
+                <pubDate>Mon, 3 Feb 2025 11:58:37 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/03-appel-projets-bornes.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/03-appel-projets-bornes.html</guid>
+            </item>
+        
             
             <item>
                 <title>Journée mondiale de lutte contre le cancer: connaître les attentes et besoins des patients</title>
@@ -148,7 +157,7 @@
             <item>
                 <title>&quot;L'insécurité pèse sur les industriels&quot;</title>
                 <description>Interview avec Lex Delles dans Paperjam</description>
-                <pubDate>Fri, 31 Jan 2025 10:04:40 +0100</pubDate>
+                <pubDate>Mon, 3 Feb 2025 12:08:34 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/01-janvier/31-delles-paperjam.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/01-janvier/31-delles-paperjam.html</guid>
             </item>
@@ -479,16 +488,6 @@
                 <pubDate>Mon, 27 Jan 2025 08:02:39 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/24-directeur-inra.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/24-directeur-inra.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Résumé des travaux du 24 janvier 2025</title>
-                <description>Le Conseil de gouvernement s'est réuni vendredi 24 janvier 2025 sous la présidence du Premier ministre Luc Frieden.
-</description>
-                <pubDate>Fri, 24 Jan 2025 18:38:11 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/24-conseil-gouvernement.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/24-conseil-gouvernement.html</guid>
             </item>
         
     </channel>
