@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 3 Feb 2025 08:45:00 +0100 </pubDate>
-                <lastBuildDate>Mon, 3 Feb 2025 08:50:10 +0100</lastBuildDate>
+                <pubDate>Mon, 3 Feb 2025 10:19:03 +0100 </pubDate>
+                <lastBuildDate>Mon, 3 Feb 2025 10:28:22 +0100</lastBuildDate>
+            
+            <item>
+                <title>Journée mondiale de lutte contre le cancer: connaître les attentes et besoins des patients</title>
+                <description>Connaître les besoins des patients et des personnes impliquées dans le traitement du cancer est essentiel pour améliorer la prise en charge et les politiques de santé. </description>
+                <pubDate>Mon, 3 Feb 2025 10:28:22 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/03-journee-lutte-cancer.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/03-journee-lutte-cancer.html</guid>
+            </item>
+        
             
             <item>
                 <title>Test du système d'alerte et d'information à la population &quot;LU-Alert&quot; </title>
@@ -480,15 +489,6 @@
                 <pubDate>Fri, 24 Jan 2025 18:38:11 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/24-conseil-gouvernement.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/24-conseil-gouvernement.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Entrevue de Yuriko Backes avec Kaja Kallas, haute représentante de l'Union pour les affaires étrangères et la politique de sécurité</title>
-                <description>Le 23 janvier 2025, la ministre de la Défense, Yuriko Backes, a été reçue à Bruxelles par la haute représentante de l'Union pour les affaires étrangères et la politique de sécurité, vice-présidente de la Commission européenne, Kaja Kallas. </description>
-                <pubDate>Thu, 23 Jan 2025 13:49:12 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/23-backes-kallas.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/23-backes-kallas.html</guid>
             </item>
         
     </channel>
