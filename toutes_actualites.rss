@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 3 Feb 2025 15:54:55 +0100 </pubDate>
-                <lastBuildDate>Mon, 3 Feb 2025 16:08:50 +0100</lastBuildDate>
+                <pubDate>Tue, 4 Feb 2025 10:51:56 +0100 </pubDate>
+                <lastBuildDate>Tue, 4 Feb 2025 10:57:09 +0100</lastBuildDate>
+            
+            <item>
+                <title>L'Observatoire de l'habitat publie deux rapports d'analyse sur le marché locatif au Luxembourg </title>
+                <description>L'Observatoire de l'habitat vient de publier deux rapports portant sur le marché locatif au Luxembourg. Le rapport d'analyse 13 étudie les estimations du taux de rendement d'un investissement au Luxembourg. </description>
+                <pubDate>Tue, 4 Feb 2025 10:57:09 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/04-observatoire-habitat.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/04-observatoire-habitat.html</guid>
+            </item>
+        
             
             <item>
                 <title>Bilan de l'année 2024 en matière d'asile, d'immigration et d'accueil</title>
@@ -478,16 +487,6 @@
                 <pubDate>Sat, 25 Jan 2025 10:26:30 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/25-backes-mischo-vernissage-exposition.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/25-backes-mischo-vernissage-exposition.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>UNESCO Holocaust Remembrance Day - 27 janvier 2025 (Journée internationale dédiée à la mémoire des victimes de l'Holocauste)</title>
-                <description>Conçue pendant la Seconde guerre mondiale, l'UNESCO a vu le jour le 16 novembre 1945, quelques mois après la fin d'un conflit qui avait marqué l'humanité.
-</description>
-                <pubDate>Sat, 25 Jan 2025 10:37:54 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/25-thill-unesco-holocaust-remembrance-day.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/25-thill-unesco-holocaust-remembrance-day.html</guid>
             </item>
         
     </channel>
