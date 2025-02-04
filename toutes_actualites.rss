@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 4 Feb 2025 10:51:56 +0100 </pubDate>
-                <lastBuildDate>Tue, 4 Feb 2025 10:57:09 +0100</lastBuildDate>
+                <pubDate>Tue, 4 Feb 2025 14:35:21 +0100 </pubDate>
+                <lastBuildDate>Tue, 4 Feb 2025 14:37:47 +0100</lastBuildDate>
+            
+            <item>
+                <title>Nominations aux postes de directeur et de directeur adjoint du Service de police judiciaire</title>
+                <description>Par arrêté ministériel du 4 février 2025, Léon Gloden, ministre des Affaires intérieures, a nommé Jean-Louis Bordet au poste de directeur et Ralph Jungers au poste de directeur adjoint du Service de police judiciaire.</description>
+                <pubDate>Tue, 4 Feb 2025 14:37:47 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/04-gloden-nominations-police.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/04-gloden-nominations-police.html</guid>
+            </item>
+        
             
             <item>
                 <title>L'Observatoire de l'habitat publie deux rapports d'analyse sur le marché locatif au Luxembourg </title>
@@ -478,15 +487,6 @@
                 <pubDate>Sat, 25 Jan 2025 09:34:16 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/25-rating-aaa.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/25-rating-aaa.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Vernissage de l'exposition &quot;From Passion to Purpose: Celebrating Women in Sports&quot; </title>
-                <description>À l'occasion de la Journée Internationale du Sport Féminin, le ministre des Sports, Georges Mischo, et la ministre de l'Égalité des genres et de la Diversité, Yuriko Backes, ont inauguré l'exposition "From Passion to Purpose: Celebrating Women in Sports".</description>
-                <pubDate>Sat, 25 Jan 2025 10:26:30 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/25-backes-mischo-vernissage-exposition.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/25-backes-mischo-vernissage-exposition.html</guid>
             </item>
         
     </channel>
