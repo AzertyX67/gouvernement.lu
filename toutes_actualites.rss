@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 5 Feb 2025 09:40:31 +0100 </pubDate>
-                <lastBuildDate>Wed, 5 Feb 2025 09:47:26 +0100</lastBuildDate>
+                <pubDate>Wed, 5 Feb 2025 10:50:00 +0100 </pubDate>
+                <lastBuildDate>Wed, 5 Feb 2025 11:50:07 +0100</lastBuildDate>
+            
+            <item>
+                <title>État des lieux des efforts de réduction de la consommation de gaz naturel au Luxembourg en janvier 2025</title>
+                <description>En janvier 2025, la réduction de la consommation de gaz naturel correspondait à environ 16,3% par rapport à la période de référence des années 2017 à 2022, donc au-delà de l'objectif de réduction de la demande de gaz naturel des États membres de l'UE. </description>
+                <pubDate>Wed, 5 Feb 2025 11:50:07 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/articles/2025/02-fevrier/05-consommation-gaz.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/articles/2025/02-fevrier/05-consommation-gaz.html</guid>
+            </item>
+        
             
             <item>
                 <title>Expo 2025 Osaka: Le pavillon du Grand-Duché de Luxembourg fait la part belle à la création luxembourgeoise</title>
@@ -477,15 +486,6 @@
                 <pubDate>Mon, 27 Jan 2025 16:39:33 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mfsva%2Bde%2Bactualites%2B20241%2Blancement-action-hiver-2024-2025.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mfsva%2Bde%2Bactualites%2B20241%2Blancement-action-hiver-2024-2025.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>&quot;La pauvreté ne va pas disparaître d'un coup&quot;</title>
-                <description>Interview avec Max Hahn dans Le Quotidien</description>
-                <pubDate>Mon, 27 Jan 2025 08:50:37 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/01-janvier/27-hahn-le-quotidien.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/01-janvier/27-hahn-le-quotidien.html</guid>
             </item>
         
     </channel>
