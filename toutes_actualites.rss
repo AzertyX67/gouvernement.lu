@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 5 Feb 2025 17:09:01 +0100 </pubDate>
-                <lastBuildDate>Wed, 5 Feb 2025 17:11:27 +0100</lastBuildDate>
+                <pubDate>Wed, 5 Feb 2025 17:39:01 +0100 </pubDate>
+                <lastBuildDate>Wed, 5 Feb 2025 17:42:27 +0100</lastBuildDate>
+            
+            <item>
+                <title>&quot;Luxembourg: Health System Review 2024&quot; – une analyse approfondie du système de santé luxembourgeois</title>
+                <description>L'Observatoire national de la santé, en collaboration avec l'European Observatory on Health Systems and Policies, publie une revue du système de santé luxembourgeois dans la série internationale Health Systems in Transition (HiT).</description>
+                <pubDate>Wed, 5 Feb 2025 17:42:27 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/05-obs-review.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/05-obs-review.html</guid>
+            </item>
+        
             
             <item>
                 <title>17. Luxemburger Weinbautag thematisiert Zukunft des Weinbausektors</title>
@@ -477,16 +486,6 @@
                 <pubDate>Mon, 27 Jan 2025 12:08:43 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/27-appel-projets-enregistrement-sonore.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/27-appel-projets-enregistrement-sonore.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Conseil &quot;Agriculture et Pêche&quot; du 27 janvier 2025: Le Luxembourg plaide pour une simplification de la PAC et des règles commerciales équitables </title>
-                <description>Le Conseil "Agriculture et Pêche" de l'Union européenne s'est tenu ce lundi 27 janvier 2025 à Bruxelles. Martine Hansen y a défendu trois priorités majeures pour le Luxembourg.
-</description>
-                <pubDate>Mon, 27 Jan 2025 18:29:00 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/27-agriculture-peche-pac.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/27-agriculture-peche-pac.html</guid>
             </item>
         
     </channel>
