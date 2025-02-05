@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 4 Feb 2025 17:44:27 +0100 </pubDate>
-                <lastBuildDate>Tue, 4 Feb 2025 17:49:38 +0100</lastBuildDate>
+                <pubDate>Wed, 5 Feb 2025 09:40:31 +0100 </pubDate>
+                <lastBuildDate>Wed, 5 Feb 2025 09:47:26 +0100</lastBuildDate>
+            
+            <item>
+                <title>Expo 2025 Osaka: Le pavillon du Grand-Duché de Luxembourg fait la part belle à la création luxembourgeoise</title>
+                <description>La création luxembourgeoise sera déclinée sous différentes formes à Osaka, permettant une découverte des savoir-faire et des talents de la scène créative du Luxembourg.</description>
+                <pubDate>Wed, 5 Feb 2025 09:47:26 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/05-osaka-pavillon.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/05-osaka-pavillon.html</guid>
+            </item>
+        
             
             <item>
                 <title>Martine Hansen salue l'engagement des acteurs de l'aide alimentaire dans la lutte contre le gaspillage alimentaire</title>
@@ -477,16 +486,6 @@
                 <pubDate>Mon, 27 Jan 2025 08:50:37 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/01-janvier/27-hahn-le-quotidien.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/01-janvier/27-hahn-le-quotidien.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Luc Frieden reçoit la présidente de la Commission européenne pour un échange de vues </title>
-                <description>Le Premier ministre Luc Frieden reçoit la présidente de la Commission européenne, Ursula von der Leyen, pour un échange de vues, le 27 janvier, à l'Hôtel Saint-Maximin. 
-</description>
-                <pubDate>Mon, 27 Jan 2025 13:31:39 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/27-frieden-entrevue-von-der-leyen.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/27-frieden-entrevue-von-der-leyen.html</guid>
             </item>
         
     </channel>
