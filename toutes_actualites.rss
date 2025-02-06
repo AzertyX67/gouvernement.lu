@@ -33,8 +33,27 @@
         </skipDays>
         
             
-                <pubDate>Wed, 5 Feb 2025 17:39:01 +0100 </pubDate>
-                <lastBuildDate>Wed, 5 Feb 2025 17:42:27 +0100</lastBuildDate>
+                <pubDate>Thu, 6 Feb 2025 11:12:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 6 Feb 2025 09:25:07 +0100</lastBuildDate>
+            
+            <item>
+                <title>Cours d'eau Alzette et Sûre: une pollution a été détectée et endiguée</title>
+                <description>Hier après-midi, des traces d'hydrocarbures étaient visibles sur le cours d'eau Sûre à Diekirch dont les agents de l'Administration de la gestion de l'eau ont pu retracer l'origine à Ettelbruck. Un camion de livraison avait une fuite hydraulique...
+</description>
+                <pubDate>Thu, 6 Feb 2025 09:25:07 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/06-pollution-sure.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/06-pollution-sure.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>Infections respiratoires: rétrospective de la semaine du 27 janvier au 2 février 2025</title>
+                <description>La Direction de la santé publie sa rétrospective hebdomadaire concernant l'évolution des principales infections respiratoires aiguës, incluant la COVID-19, la grippe et le virus respiratoire syncytial (RSV).</description>
+                <pubDate>Thu, 6 Feb 2025 09:36:41 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/06-infections-respiraoires.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/06-infections-respiraoires.html</guid>
+            </item>
+        
             
             <item>
                 <title>&quot;Luxembourg: Health System Review 2024&quot; – une analyse approfondie du système de santé luxembourgeois</title>
@@ -57,7 +76,7 @@
             <item>
                 <title>Entrevue bilatérale entre Xavier Bettel et Alan Simonyan, président de l'Assemblée nationale de l'Arménie</title>
                 <description>Le ministre des Affaires étrangères et du Commerce extérieur, Xavier Bettel, a eu une entrevue bilatérale avec le président de l'Assemblée nationale de l'Arménie, Alan Simonyan, le 5 février 2025 dans le cadre de sa visite officielle à Luxembourg.</description>
-                <pubDate>Wed, 5 Feb 2025 16:49:55 +0100</pubDate>
+                <pubDate>Thu, 6 Feb 2025 09:20:05 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/05-bettel-simonyan.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/05-bettel-simonyan.html</guid>
             </item>
@@ -468,24 +487,6 @@
                 <pubDate>Wed, 29 Jan 2025 17:06:37 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/28-bettel-assemblee-parlementaire-ue.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/28-bettel-assemblee-parlementaire-ue.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Message du Premier ministre à la suite de la commémoration du 80e anniversaire de la libération du camp d'Auschwitz </title>
-                <description>Le temps s'est arrêté et j'étais sans voix devant le camp d'Auschwitz en Pologne. Un lieu et nom à jamais gravés dans l'histoire comme synonyme du manque d'humanité. </description>
-                <pubDate>Tue, 28 Jan 2025 08:28:58 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/27-frieden-commemoration-auschwitz.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/27-frieden-commemoration-auschwitz.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Le ministère de la Culture lance son appel à projets pour la réalisation d'un enregistrement sonore </title>
-                <description>Dans le cadre de son dispositif d'aide visant à promouvoir la création et les initiatives artistiques dans le domaine musical, le ministère de la Culture lance un appel à projets pour soutenir financièrement l'enregistrement sonore en studio ou en ...</description>
-                <pubDate>Mon, 27 Jan 2025 12:08:43 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/27-appel-projets-enregistrement-sonore.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/27-appel-projets-enregistrement-sonore.html</guid>
             </item>
         
     </channel>
