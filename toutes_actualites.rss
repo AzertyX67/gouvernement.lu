@@ -33,8 +33,19 @@
         </skipDays>
         
             
-                <pubDate>Thu, 6 Feb 2025 11:12:00 +0100 </pubDate>
-                <lastBuildDate>Thu, 6 Feb 2025 09:25:07 +0100</lastBuildDate>
+                <pubDate>Fri, 7 Feb 2025 00:00:00 +0100 </pubDate>
+                <lastBuildDate>Fri, 7 Feb 2025 08:24:15 +0100</lastBuildDate>
+            
+            <item>
+                <title>Visite de travail de Xavier Bettel à Vienne </title>
+                <description>Introduction
+Text
+</description>
+                <pubDate>Fri, 7 Feb 2025 08:24:15 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/07-bettel-vienne.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/07-bettel-vienne.html</guid>
+            </item>
+        
             
             <item>
                 <title>Cours d'eau Alzette et Sûre: une pollution a été détectée et endiguée</title>
@@ -190,6 +201,15 @@
                 <pubDate>Mon, 3 Feb 2025 11:58:37 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/03-appel-projets-bornes.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/03-appel-projets-bornes.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>Xavier Bettel et Lex Delles à la réunion informelle du Conseil &quot;Compétitivité&quot; et du Conseil des affaires étrangères – politique commerciale à Varsovie</title>
+                <description>Le ministre des Affaires étrangères et du Commerce extérieur, Xavier Bettel, et le ministre de l'Économie, des PME, de l'Énergie et du Tourisme, Lex Delles, ont participé, les 3 et 4 février 2025, à la réunion informelle du Conseil "Compétitivité" ...</description>
+                <pubDate>Fri, 7 Feb 2025 08:28:30 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/05-bettel-delles-varsovie.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/05-bettel-delles-varsovie.html</guid>
             </item>
         
             
@@ -471,24 +491,6 @@
                 <pubDate>Tue, 28 Jan 2025 17:05:21 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/28-bettel-cag.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/28-bettel-cag.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>LGBTIQ+: une réalité dans notre société, une réalité dans nos écoles</title>
-                <description>La diversité des sexes, des identités du genre et des orientations sexuelles est une réalité dans notre société. Elle est également une réalité dans notre école. </description>
-                <pubDate>Tue, 28 Jan 2025 15:45:11 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/28-lgtiqplus-ecole.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/28-lgtiqplus-ecole.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Georges Mischo reprend l'élan du projet &quot;Impuls&quot; pour la promotion de l'activité physique dans les communes</title>
-                <description>En date du 25 janvier, le ministre des Sports, Georges Mischo, a assisté au "Impuls-Event", l'événement officiel de clôture du projet "Impuls". </description>
-                <pubDate>Tue, 28 Jan 2025 15:37:04 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/28-mischo-impuls.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/28-mischo-impuls.html</guid>
             </item>
         
     </channel>
