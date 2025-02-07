@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 7 Feb 2025 10:42:41 +0100 </pubDate>
-                <lastBuildDate>Fri, 7 Feb 2025 10:45:42 +0100</lastBuildDate>
+                <pubDate>Fri, 7 Feb 2025 17:28:56 +0100 </pubDate>
+                <lastBuildDate>Fri, 7 Feb 2025 17:33:50 +0100</lastBuildDate>
+            
+            <item>
+                <title>Le projet de stratégie d'adaptation aux effets du changement climatique: une approche holistique et participative</title>
+                <description>Le ministre de l'Environnement, du Climat et de la Biodiversité, Serge Wilmes a présenté lors d'une conférence de presse en date du 7 février 2025, le projet de stratégie d'adaptation aux effets du changement climatique.</description>
+                <pubDate>Fri, 7 Feb 2025 17:33:50 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/07-strategie-changement-climatique.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/07-strategie-changement-climatique.html</guid>
+            </item>
+        
             
             <item>
                 <title>Le ministère de la Culture lance son appel à projets pour soutenir la promotion des maisons d’édition</title>
@@ -482,15 +491,6 @@
                 <pubDate>Wed, 29 Jan 2025 18:45:15 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-assermentation-procureur-etat-petry-margue.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-assermentation-procureur-etat-petry-margue.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Statistiques des causes de décès 2023: les tumeurs sont la 1re cause de décès au Luxembourg devant les maladies de l'appareil circulatoire</title>
-                <description>En 2023, le registre des causes de décès de la Direction de la santé a enregistré 4.258 décès sur le territoire du Grand-Duché de Luxembourg, dont 2.054 hommes et 2.204 femmes, soit une diminution de 25 décès par rapport à l'année précédente. </description>
-                <pubDate>Wed, 29 Jan 2025 10:06:19 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-statistiques-causes-deces.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-statistiques-causes-deces.html</guid>
             </item>
         
     </channel>
