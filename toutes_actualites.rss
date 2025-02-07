@@ -46,11 +46,20 @@
         
             
             <item>
-                <title>Visite de travail de Xavier Bettel à Vienne </title>
-                <description>Introduction
-Text
+                <title>Résumé des travaux du 7 février 2025</title>
+                <description>Le Conseil de gouvernement s'est réuni vendredi 7 février 2025 sous la présidence du Premier ministre Luc Frieden.
 </description>
-                <pubDate>Fri, 7 Feb 2025 08:24:15 +0100</pubDate>
+                <pubDate>Fri, 7 Feb 2025 16:01:34 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/07-conseil-gouvernement.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/07-conseil-gouvernement.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>Visite de travail de Xavier Bettel à Vienne </title>
+                <description>Le ministre des Affaires étrangères et du Commerce extérieur, Xavier Bettel, a effectué les 5 et 6 février 2024 une visite de travail à Vienne.
+</description>
+                <pubDate>Fri, 7 Feb 2025 16:00:50 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/07-bettel-vienne.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/07-bettel-vienne.html</guid>
             </item>
@@ -482,15 +491,6 @@ Text
                 <pubDate>Wed, 29 Jan 2025 10:06:19 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-statistiques-causes-deces.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-statistiques-causes-deces.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Nouvelle édition de l'appel à projets: Aide aux nouvelles formes de médiation culturelle – blogs, vlogs et podcasts</title>
-                <description>Le ministère de la Culture annonce le lancement de l'édition 2025 de son appel à projets dédié à l'aide aux nouvelles formes de médiation culturelle – blogs, vlogs et podcasts. </description>
-                <pubDate>Wed, 29 Jan 2025 09:59:43 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-appel-projets.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-appel-projets.html</guid>
             </item>
         
     </channel>
