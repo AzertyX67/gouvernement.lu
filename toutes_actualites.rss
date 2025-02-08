@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 7 Feb 2025 17:28:56 +0100 </pubDate>
-                <lastBuildDate>Fri, 7 Feb 2025 17:33:50 +0100</lastBuildDate>
+                <pubDate>Sat, 8 Feb 2025 09:00:00 +0100 </pubDate>
+                <lastBuildDate>Fri, 7 Feb 2025 17:42:35 +0100</lastBuildDate>
+            
+            <item>
+                <title>L'agence de notation Moody's confirme le &quot;AAA&quot; du Luxembourg avec perspectives stables</title>
+                <description>Le 7 février 2025, l’agence de notation de crédit Moody's a confirmé la notation "AAA" du Luxembourg avec perspectives stables.</description>
+                <pubDate>Fri, 7 Feb 2025 17:42:35 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/08-aaa-moody-luxembourg.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/08-aaa-moody-luxembourg.html</guid>
+            </item>
+        
             
             <item>
                 <title>Le projet de stratégie d'adaptation aux effets du changement climatique: une approche holistique et participative</title>
@@ -481,16 +490,6 @@
                 <pubDate>Wed, 29 Jan 2025 17:54:22 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-mobilite-cooperation-franco-luxembourgeois.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-mobilite-cooperation-franco-luxembourgeois.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Assermentation du nouveau procureur général d'État, John Petry, par la ministre de la Justice, Elisabeth Margue </title>
-                <description>En date du 29 janvier 2025, la ministre de la Justice, Elisabeth Margue, a procédé à l'assermentation du nouveau procureur général d'État, John Petry. 
-</description>
-                <pubDate>Wed, 29 Jan 2025 18:45:15 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-assermentation-procureur-etat-petry-margue.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-assermentation-procureur-etat-petry-margue.html</guid>
             </item>
         
     </channel>
