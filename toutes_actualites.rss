@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Sat, 8 Feb 2025 09:00:00 +0100 </pubDate>
-                <lastBuildDate>Fri, 7 Feb 2025 17:42:35 +0100</lastBuildDate>
+                <pubDate>Sat, 8 Feb 2025 17:06:55 +0100 </pubDate>
+                <lastBuildDate>Sat, 8 Feb 2025 17:28:44 +0100</lastBuildDate>
+            
+            <item>
+                <title>Inauguration des nouveaux locaux de l'Agence pour le développement de l'emploi (ADEM) et de l'Administration des contributions directes à Differdange</title>
+                <description>Le vendredi 7 février, Georges Mischo, ministre du Travail et Gilles Roth, ministre des Finances, ont eu le plaisir d'inaugurer la nouvelle agence de l'ADEM à Differdange ainsi que les nouveaux bureaux de l'Administration des contributions directes.</description>
+                <pubDate>Sat, 8 Feb 2025 17:28:44 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/08-adem-acd-differdange.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/08-adem-acd-differdange.html</guid>
+            </item>
+        
             
             <item>
                 <title>L'agence de notation Moody's confirme le &quot;AAA&quot; du Luxembourg avec perspectives stables</title>
@@ -481,15 +490,6 @@
                 <pubDate>Wed, 29 Jan 2025 11:49:34 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-mischo-campagne-horeca.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-mischo-campagne-horeca.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>La coopération franco-luxembourgeoise au profit d'une meilleure mobilité transfrontalière de demain </title>
-                <description>Lors d'une conférence de presse en date du 29 janvier 2025, les avancées concrètes de la collaboration transfrontalière entre le Grand-Duché du Luxembourg et la Région Grand Est ont été présentées.</description>
-                <pubDate>Wed, 29 Jan 2025 17:54:22 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-mobilite-cooperation-franco-luxembourgeois.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-mobilite-cooperation-franco-luxembourgeois.html</guid>
             </item>
         
     </channel>
