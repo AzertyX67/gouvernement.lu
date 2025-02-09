@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Sat, 8 Feb 2025 17:06:55 +0100 </pubDate>
-                <lastBuildDate>Sat, 8 Feb 2025 17:28:44 +0100</lastBuildDate>
+                <pubDate>Sun, 9 Feb 2025 21:54:01 +0100 </pubDate>
+                <lastBuildDate>Sun, 9 Feb 2025 22:16:14 +0100</lastBuildDate>
+            
+            <item>
+                <title>Martine Hansen visite un repair café dans la commune d’Esch-sur-Sûre</title>
+                <description>La ministre de la Protection des consommateurs visite le tout premier repair café organisé dans la commune d’Esch-sur-Sûre</description>
+                <pubDate>Sun, 9 Feb 2025 22:16:14 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mpc%2Bfr%2Bactualites%2B2025%2B02-fevrier%2Brepair-cafe-esch-sur-sure.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mpc%2Bfr%2Bactualites%2B2025%2B02-fevrier%2Brepair-cafe-esch-sur-sure.html</guid>
+            </item>
+        
             
             <item>
                 <title>Inauguration des nouveaux locaux de l'Agence pour le développement de l'emploi (ADEM) et de l'Administration des contributions directes à Differdange</title>
@@ -481,15 +490,6 @@
                 <pubDate>Wed, 29 Jan 2025 12:09:32 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-fusion-laboratoires.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-fusion-laboratoires.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Lancement du guide et de la campagne de communication pour le secteur Horeca </title>
-                <description>L'Inspection du travail et des mines (ITM), en collaboration avec le ministère du Travail et la fédération de l'Horesca, a présenté aujourd'hui un guide pratique et une campagne de communication innovante pour accompagner les acteurs du secteur Horeca.</description>
-                <pubDate>Wed, 29 Jan 2025 11:49:34 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-mischo-campagne-horeca.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-mischo-campagne-horeca.html</guid>
             </item>
         
     </channel>
