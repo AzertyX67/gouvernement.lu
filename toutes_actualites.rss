@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Sun, 9 Feb 2025 21:54:01 +0100 </pubDate>
-                <lastBuildDate>Sun, 9 Feb 2025 22:16:14 +0100</lastBuildDate>
+                <pubDate>Mon, 10 Feb 2025 10:23:25 +0100 </pubDate>
+                <lastBuildDate>Mon, 10 Feb 2025 10:27:29 +0100</lastBuildDate>
+            
+            <item>
+                <title>Annonce de l'appel à propositions d'acquisition d'œuvres d'art en direction des galeries</title>
+                <description>Dans le cadre de sa politique de soutien à la création, aux créateurs et créatrices ainsi qu'à l'innovation et l'émergence d'un secteur culturel dynamique, le ministère de la Culture acquiert annuellement des œuvres d'art pour le compte de l'État. </description>
+                <pubDate>Mon, 10 Feb 2025 10:27:29 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/10-appel-oeuvres-arts.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/10-appel-oeuvres-arts.html</guid>
+            </item>
+        
             
             <item>
                 <title>Martine Hansen visite un repair café dans la commune d’Esch-sur-Sûre</title>
@@ -481,15 +490,6 @@
                 <pubDate>Wed, 29 Jan 2025 17:19:42 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/discours/2025/01-janvier/29-frieden-discours-conseil-europe.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/discours/2025/01-janvier/29-frieden-discours-conseil-europe.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Fusion des laboratoires: création du Laboratoire vétérinaire et alimentaire (LVA)</title>
-                <description>Lors de la mise en place du gouvernement actuel à la fin de l'année 2023, il avait été décidé de poursuivre la réforme de consolidation entamée par le gouvernement précédent dans le domaine du contrôle de la chaîne alimentaire avec la création ...</description>
-                <pubDate>Wed, 29 Jan 2025 12:09:32 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-fusion-laboratoires.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/29-fusion-laboratoires.html</guid>
             </item>
         
     </channel>
