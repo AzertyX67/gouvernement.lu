@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 11 Feb 2025 10:55:51 +0100 </pubDate>
-                <lastBuildDate>Tue, 11 Feb 2025 10:58:30 +0100</lastBuildDate>
+                <pubDate>Tue, 11 Feb 2025 12:06:07 +0100 </pubDate>
+                <lastBuildDate>Tue, 11 Feb 2025 12:12:58 +0100</lastBuildDate>
+            
+            <item>
+                <title>BEE SECURE Radar 2025: Rapport sur l'utilisation des TIC par les jeunes au Luxembourg </title>
+                <description>La quatrième édition du rapport "BEE SECURE Radar" sur les tendances actuelles de l'utilisation des technologies de l'information et de la communication (TIC) par les jeunes au Luxembourg a été publiée. Ce rapport a été présenté aujourd'hui, ...</description>
+                <pubDate>Tue, 11 Feb 2025 12:12:58 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/11-bee-secure-radar.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/11-bee-secure-radar.html</guid>
+            </item>
+        
             
             <item>
                 <title>Rapport d'analyse 15 de l'Observatoire de l'habitat: Une segmentation géographique des prix des terrains à bâtir en zone résidentielle au Grand-Duché de Luxembourg</title>
@@ -483,15 +492,6 @@
                 <pubDate>Thu, 30 Jan 2025 15:52:35 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B30-impfung-btv-ehd.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B01-janvier%2B30-impfung-btv-ehd.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Assermentation de 22 agents au ministère de la Fonction publique</title>
-                <description>En date du 30 janvier 2025, Serge Wilmes, ministre de la Fonction publique, a procédé à l’assermentation de 22 agents.</description>
-                <pubDate>Thu, 30 Jan 2025 16:36:14 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mfp%2Bfr%2Bactualites%2B2024%2Bassermentation-30janvier2025-22agents.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mfp%2Bfr%2Bactualites%2B2024%2Bassermentation-30janvier2025-22agents.html</guid>
             </item>
         
     </channel>
