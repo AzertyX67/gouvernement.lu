@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 11 Feb 2025 12:06:07 +0100 </pubDate>
-                <lastBuildDate>Tue, 11 Feb 2025 12:12:58 +0100</lastBuildDate>
+                <pubDate>Wed, 12 Feb 2025 10:17:30 +0100 </pubDate>
+                <lastBuildDate>Wed, 12 Feb 2025 10:23:38 +0100</lastBuildDate>
+            
+            <item>
+                <title>Extension de l’interdiction temporaire d’évolutions de drones à l’occasion du projet Griffin </title>
+                <description>Extension de la zone géographique</description>
+                <pubDate>Wed, 12 Feb 2025 10:23:38 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_dac%2Bfr%2Bactualites%2B2025%2Bfevrier2025%2Bextensiongriffin2025.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_dac%2Bfr%2Bactualites%2B2025%2Bfevrier2025%2Bextensiongriffin2025.html</guid>
+            </item>
+        
             
             <item>
                 <title>BEE SECURE Radar 2025: Rapport sur l'utilisation des TIC par les jeunes au Luxembourg </title>
@@ -483,16 +492,6 @@
                 <pubDate>Fri, 31 Jan 2025 07:58:12 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/31-deprez-inauguration-structure-marga.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/31-deprez-inauguration-structure-marga.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Résumé des travaux du 31 janvier 2025</title>
-                <description>Le Conseil de gouvernement s'est réuni vendredi 31 janvier 2025 sous la présidence du Premier ministre Luc Frieden.
-</description>
-                <pubDate>Fri, 31 Jan 2025 18:10:38 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/31-conseil-gouvernement.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/31-conseil-gouvernement.html</guid>
             </item>
         
     </channel>
