@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 12 Feb 2025 10:17:30 +0100 </pubDate>
-                <lastBuildDate>Wed, 12 Feb 2025 10:30:01 +0100</lastBuildDate>
+                <pubDate>Wed, 12 Feb 2025 14:17:24 +0100 </pubDate>
+                <lastBuildDate>Wed, 12 Feb 2025 14:23:21 +0100</lastBuildDate>
+            
+            <item>
+                <title>Entrevue de Yuriko Backes avec Theo Francken, ministre de la Défense, chargé du Commerce extérieur de la Belgique</title>
+                <description>Le 12 février 2025, la ministre de la Défense, Yuriko Backes, a eu une première entrevue avec son homologue, le ministre de la Défense, chargé du Commerce extérieur, Theo Francken.</description>
+                <pubDate>Wed, 12 Feb 2025 14:23:21 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/12-backes-francken.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/12-backes-francken.html</guid>
+            </item>
+        
             
             <item>
                 <title>Extension de l’interdiction temporaire d’évolutions de drones à l’occasion du projet Griffin </title>
@@ -483,15 +492,6 @@
                 <pubDate>Fri, 31 Jan 2025 09:00:22 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/31-gloden-cjai.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/31-gloden-cjai.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Inauguration de la nouvelle structure &quot;MARGA&quot;: Un espace protégé pour les femmes usagères de drogues </title>
-                <description>Aujourd'hui, Martine Deprez, ministre de la Santé et de la Sécurité sociale, et Lydie Polfer, bourgmestre de la Ville de Luxembourg, ont inauguré la structure de jour "MARGA", un espace dédié à la prise en charge des femmes usagères de drogues illicites. </description>
-                <pubDate>Fri, 31 Jan 2025 07:58:12 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/31-deprez-inauguration-structure-marga.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/31-deprez-inauguration-structure-marga.html</guid>
             </item>
         
     </channel>
