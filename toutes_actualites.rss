@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 12 Feb 2025 16:14:00 +0100 </pubDate>
-                <lastBuildDate>Wed, 12 Feb 2025 16:28:03 +0100</lastBuildDate>
+                <pubDate>Wed, 12 Feb 2025 17:59:46 +0100 </pubDate>
+                <lastBuildDate>Wed, 12 Feb 2025 18:02:54 +0100</lastBuildDate>
+            
+            <item>
+                <title>Travaux de rénovation au Lycée Robert Schuman Luxembourg </title>
+                <description>Dans le cadre de travaux de rénovation des installations sanitaires et des salles de classe de l'ancien bâtiment du Lycée Robert Schuman Luxembourg datant de 1926, la nécessité de travaux plus importants a été constatée qui ne permettent ...</description>
+                <pubDate>Wed, 12 Feb 2025 18:02:54 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/12-renovation-schuman.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/12-renovation-schuman.html</guid>
+            </item>
+        
             
             <item>
                 <title>Présentation de la deuxième phase de la consultation sur le système de pension</title>
@@ -483,15 +492,6 @@
                 <pubDate>Fri, 31 Jan 2025 09:50:18 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/31-smc-renita.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/31-smc-renita.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Georges Mischo à la cérémonie commémorative à l'occasion du 80e anniversaire du massacre de Sonnenburg </title>
-                <description>Cette année nous marquons le 80e anniversaire du massacre de Sonnenburg. À cette occasion, Georges Mischo a participé le 30 janvier 2025 à une cérémonie commémorative à Äischen à la mémoire des victimes.</description>
-                <pubDate>Fri, 31 Jan 2025 09:44:19 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/31-mischo-commemoration.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/01-janvier/31-mischo-commemoration.html</guid>
             </item>
         
     </channel>
