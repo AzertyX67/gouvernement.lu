@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 13 Feb 2025 00:00:00 +0100 </pubDate>
-                <lastBuildDate>Thu, 13 Feb 2025 08:23:59 +0100</lastBuildDate>
+                <pubDate>Thu, 13 Feb 2025 12:14:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 13 Feb 2025 12:21:42 +0100</lastBuildDate>
+            
+            <item>
+                <title>Appel à projets pour des logements pour les jeunes: un logement abordable pour plus d'autonomie et de réelles perspectives d'avenir pour les jeunes</title>
+                <description>Lors d'une conférence sur le logement des jeunes (Jugendwunnen) qui s'est tenue le 12 février 2025 au Centre culturel de rencontre Abbaye de Neumünster, le ministère du Logement et de l'Aménagement du territoire et le ministère de l'Éducation nationale...</description>
+                <pubDate>Thu, 13 Feb 2025 12:21:42 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/13-meisch-logements-jeunes.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/13-meisch-logements-jeunes.html</guid>
+            </item>
+        
             
             <item>
                 <title>Visite du commissaire européen au budget, à la lutte anti-fraude et à l'administration publique, Piotr Serafin </title>
@@ -485,15 +494,6 @@
                 <pubDate>Sat, 1 Feb 2025 17:09:35 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B02-fevrier%2B01-mosel-schleuse.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B02-fevrier%2B01-mosel-schleuse.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Veille légale du mois de décembre</title>
-                <description>Rectificatif au règlement d’exécution (UE) 2023/1693 de la Commission du 10 août 2023 modifiant le règlement d’exécution (UE) 2019/773 concernant la spécification technique d’interopérabilité relative au sous-système «Exploitation et gestion du trafic» du système ferroviaire au sein de l’Union européenne...</description>
-                <pubDate>Fri, 31 Jan 2025 15:28:42 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_acf%2Bfr%2Bactualites%2B2025%2B01-janvier%2Bveille-legale-du-mois-de-decembre.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_acf%2Bfr%2Bactualites%2B2025%2B01-janvier%2Bveille-legale-du-mois-de-decembre.html</guid>
             </item>
         
     </channel>
