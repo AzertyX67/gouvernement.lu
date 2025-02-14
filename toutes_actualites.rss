@@ -33,8 +33,26 @@
         </skipDays>
         
             
-                <pubDate>Fri, 14 Feb 2025 10:54:41 +0100 </pubDate>
-                <lastBuildDate>Fri, 14 Feb 2025 11:06:04 +0100</lastBuildDate>
+                <pubDate>Fri, 14 Feb 2025 14:00:00 +0100 </pubDate>
+                <lastBuildDate>Fri, 14 Feb 2025 12:29:21 +0100</lastBuildDate>
+            
+            <item>
+                <title>Briefing presse: travaux du Conseil de gouvernement</title>
+                <description>Le livestreaming débute vers 14h.</description>
+                <pubDate>Fri, 14 Feb 2025 12:29:21 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/video-conference-presse/2025/02-fevrier/14-frieden-briefing-presse.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/video-conference-presse/2025/02-fevrier/14-frieden-briefing-presse.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>Jean-Paul Olinger nommé président du conseil d'administration au Mudam</title>
+                <description>Lors de sa réunion du 14 février 2025, le Conseil de gouvernement a approuvé la proposition du ministre de la Culture, Eric Thill, de soumettre à S.A.R. le Grand-Duc la nomination de Jean-Paul Olinger au poste de président du conseil d'administration ...</description>
+                <pubDate>Fri, 14 Feb 2025 12:53:41 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/14-thill-president-mudam.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/14-thill-president-mudam.html</guid>
+            </item>
+        
             
             <item>
                 <title>Rapport d'analyse 16: Note méthodologique - Calcul des plafonds de revenus pour la loi logement </title>
@@ -477,24 +495,6 @@
                 <pubDate>Tue, 4 Feb 2025 17:49:38 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/04-hansen-aide-alimentaire.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/04-hansen-aide-alimentaire.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Nominations aux postes de directeur et de directeur adjoint du Service de police judiciaire</title>
-                <description>Par arrêté ministériel du 4 février 2025, Léon Gloden, ministre des Affaires intérieures, a nommé Jean-Louis Bordet au poste de directeur et Ralph Jungers au poste de directeur adjoint du Service de police judiciaire.</description>
-                <pubDate>Tue, 4 Feb 2025 14:37:47 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/04-gloden-nominations-police.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/04-gloden-nominations-police.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>L'Observatoire de l'habitat publie deux rapports d'analyse sur le marché locatif au Luxembourg </title>
-                <description>L'Observatoire de l'habitat vient de publier deux rapports portant sur le marché locatif au Luxembourg. Le rapport d'analyse 13 étudie les estimations du taux de rendement d'un investissement au Luxembourg. </description>
-                <pubDate>Tue, 4 Feb 2025 10:57:09 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/04-observatoire-habitat.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/04-observatoire-habitat.html</guid>
             </item>
         
     </channel>
