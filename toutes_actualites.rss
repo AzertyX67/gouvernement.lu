@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 14 Feb 2025 14:00:00 +0100 </pubDate>
-                <lastBuildDate>Fri, 14 Feb 2025 13:44:36 +0100</lastBuildDate>
+                <pubDate>Fri, 14 Feb 2025 15:20:00 +0100 </pubDate>
+                <lastBuildDate>Fri, 14 Feb 2025 15:22:47 +0100</lastBuildDate>
+            
+            <item>
+                <title>Zoll-Diensthund Kobe entdeckt rund 280.000 Euro am Luxemburger Flughafen</title>
+                <description>Im Januar entdeckte der service spécialisé cynotechnique der Zoll- und Verbrauchsteuerverwaltung am Flughafen Luxemburg im Rahmen einer Gepäckkontrolle einen erheblichen nicht deklarierten Bargeldbetrag. </description>
+                <pubDate>Fri, 14 Feb 2025 15:22:47 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B02-fevrier%2B14-zoll-bargeld-fund.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B02-fevrier%2B14-zoll-bargeld-fund.html</guid>
+            </item>
+        
             
             <item>
                 <title>Briefing presse: travaux du Conseil de gouvernement</title>
@@ -486,15 +495,6 @@
                 <pubDate>Wed, 5 Feb 2025 09:47:26 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/05-osaka-pavillon.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/05-osaka-pavillon.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Martine Hansen salue l'engagement des acteurs de l'aide alimentaire dans la lutte contre le gaspillage alimentaire</title>
-                <description>La ministre de l'Agriculture, de l'Alimentation et de la Viticulture, Martine Hansen, a rencontré aujourd'hui les représentants de plusieurs acteurs de l'aide alimentaire.</description>
-                <pubDate>Tue, 4 Feb 2025 17:49:38 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/04-hansen-aide-alimentaire.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/04-hansen-aide-alimentaire.html</guid>
             </item>
         
     </channel>
