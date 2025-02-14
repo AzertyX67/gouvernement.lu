@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 14 Feb 2025 08:24:28 +0100 </pubDate>
-                <lastBuildDate>Fri, 14 Feb 2025 08:28:22 +0100</lastBuildDate>
+                <pubDate>Fri, 14 Feb 2025 08:40:21 +0100 </pubDate>
+                <lastBuildDate>Fri, 14 Feb 2025 08:42:55 +0100</lastBuildDate>
+            
+            <item>
+                <title>&quot;Les gens veulent décider quand arrêter de travailler&quot;</title>
+                <description>Interview avec Martine Deprez dans L'Essentiel</description>
+                <pubDate>Fri, 14 Feb 2025 08:42:55 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/02-fevrier/14-deprez-essentiel.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/02-fevrier/14-deprez-essentiel.html</guid>
+            </item>
+        
             
             <item>
                 <title>Événement de clôture du projet conjoint EU-CdE &quot;All In Plus: Tous·tes ensemble pour une plus grande égalité de genre dans le sport&quot;</title>
@@ -42,6 +51,15 @@
                 <pubDate>Fri, 14 Feb 2025 08:28:22 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/14-mischo-all-in-plus.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/14-mischo-all-in-plus.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>Yuriko Backes à la réunion des ministres de la Défense de l'OTAN et au Ukraine Defense Contact Group </title>
+                <description>Le 13 février 2025, la ministre de la Défense, Yuriko Backes, a participé à la réunion des ministres de la Défense des pays de l'OTAN, sous la présidence du secrétaire général Mark Rutte, à Bruxelles au siège de l'OTAN.</description>
+                <pubDate>Fri, 14 Feb 2025 08:38:27 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/14-backes-otan-ukraine-defense-group.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/14-backes-otan-ukraine-defense-group.html</guid>
             </item>
         
             
@@ -477,24 +495,6 @@
                 <pubDate>Mon, 3 Feb 2025 16:08:50 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/03-gloden-hahn-bilan.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/03-gloden-hahn-bilan.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Remise du prix communal 2024 aux cinq communes lauréates</title>
-                <description>Chaque année, le ministère de l'Égalité des genres et de la Diversité (MEGA) décerne son prix communal à une ou plusieurs communes qui se sont particulièrement investies à la promotion de l'égalité des genres et de la diversité sur leur territoire. </description>
-                <pubDate>Mon, 3 Feb 2025 13:10:59 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/03-backes-prix-communal.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/03-backes-prix-communal.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Lancement d'un nouvel appel à projets visant à soutenir les entreprises pour financer des bornes de charge</title>
-                <description>Un nouvel appel à projets destiné à encourager les entreprises à investir dans des infrastructures de charge pour véhicules électriques vient d'être lancé. </description>
-                <pubDate>Mon, 3 Feb 2025 11:58:37 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/03-appel-projets-bornes.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/03-appel-projets-bornes.html</guid>
             </item>
         
     </channel>
