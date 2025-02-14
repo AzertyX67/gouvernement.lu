@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 14 Feb 2025 08:40:21 +0100 </pubDate>
-                <lastBuildDate>Fri, 14 Feb 2025 08:42:55 +0100</lastBuildDate>
+                <pubDate>Fri, 14 Feb 2025 10:54:41 +0100 </pubDate>
+                <lastBuildDate>Fri, 14 Feb 2025 11:06:04 +0100</lastBuildDate>
+            
+            <item>
+                <title>Rapport d'analyse 16: Note méthodologique - Calcul des plafonds de revenus pour la loi logement </title>
+                <description>Ce rapport a pour objectif de décrire la méthodologie permettant le calcul des seuils servant à la révision des plafonds de revenus des ménages utilisés dans le cadre de la loi logement, et servant notamment à la mise en œuvre des deux législations...</description>
+                <pubDate>Fri, 14 Feb 2025 11:06:04 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/14-rapport-analyse-16.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/14-rapport-analyse-16.html</guid>
+            </item>
+        
             
             <item>
                 <title>&quot;Les gens veulent décider quand arrêter de travailler&quot;</title>
@@ -486,15 +495,6 @@
                 <pubDate>Tue, 4 Feb 2025 10:57:09 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/04-observatoire-habitat.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/04-observatoire-habitat.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Bilan de l'année 2024 en matière d'asile, d'immigration et d'accueil</title>
-                <description>Le 3 février 2025, le ministre des Affaires intérieures, Léon Gloden, a présenté lors d'une conférence de presse le bilan de l'année 2024 en matière d'asile et d'immigration. </description>
-                <pubDate>Mon, 3 Feb 2025 16:08:50 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/03-gloden-hahn-bilan.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/03-gloden-hahn-bilan.html</guid>
             </item>
         
     </channel>
