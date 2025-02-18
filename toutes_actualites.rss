@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 18 Feb 2025 13:59:51 +0100 </pubDate>
-                <lastBuildDate>Tue, 18 Feb 2025 14:02:59 +0100</lastBuildDate>
+                <pubDate>Tue, 18 Feb 2025 15:50:00 +0100 </pubDate>
+                <lastBuildDate>Tue, 18 Feb 2025 15:51:48 +0100</lastBuildDate>
+            
+            <item>
+                <title>Saisie de 197 kilos de Chicha</title>
+                <description>L'Administration des douanes et accises annonce la saisie d'une quantité significative de produits narguilés (tabac à chicha) au cours des récentes opérations de contrôle de bars à chicha menées sur le territoire national. </description>
+                <pubDate>Tue, 18 Feb 2025 15:51:48 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/18-douane-chicha.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/18-douane-chicha.html</guid>
+            </item>
+        
             
             <item>
                 <title>Gilles Roth à l'Eurogroupe et au Conseil Ecofin à Bruxelles: &quot;L'Europe doit envoyer un signal clair de stabilité interne et externe&quot; </title>
@@ -486,16 +495,6 @@
                 <pubDate>Fri, 7 Feb 2025 13:23:15 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/06-cahiers-culture-residences-artistes.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/06-cahiers-culture-residences-artistes.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>&quot;I love my Hausdokter&quot;: le rôle essentiel du médecin généraliste et du pédiatre dans le système de santé luxembourgeois </title>
-                <description>Le ministère de la Santé et de la Sécurité sociale lance la campagne "I love my Hausdokter", une initiative visant à promouvoir le rôle du médecin généraliste au sein du système de santé au Luxembourg. 
-</description>
-                <pubDate>Thu, 6 Feb 2025 13:30:43 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/06-deprez-love-my-hausdokter.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/06-deprez-love-my-hausdokter.html</guid>
             </item>
         
     </channel>
