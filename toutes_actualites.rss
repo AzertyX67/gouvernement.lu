@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 18 Feb 2025 15:50:00 +0100 </pubDate>
-                <lastBuildDate>Tue, 18 Feb 2025 15:51:48 +0100</lastBuildDate>
+                <pubDate>Wed, 19 Feb 2025 00:00:00 +0100 </pubDate>
+                <lastBuildDate>Wed, 19 Feb 2025 07:20:29 +0100</lastBuildDate>
+            
+            <item>
+                <title>Eric Thill en visite à la Berlinale et à son marché du film </title>
+                <description>Dans le cadre de sa rencontre avec les représentants des fonds de soutien francophones et germanophones, le ministre a réaffirmé l'engagement du Luxembourg dans des coopérations cinématographiques stratégiques. </description>
+                <pubDate>Wed, 19 Feb 2025 07:20:29 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/19-thill-berlinale.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/19-thill-berlinale.html</guid>
+            </item>
+        
             
             <item>
                 <title>Saisie de 197 kilos de Chicha</title>
@@ -485,16 +494,6 @@
                 <pubDate>Thu, 6 Feb 2025 10:16:13 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/06-infections-respiratoires.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/06-infections-respiratoires.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Publication du troisième volume de la série des &quot;Cahiers du ministère de la Culture&quot;, dédié aux résidences d'artistes </title>
-                <description>Le ministère de la Culture a le plaisir d'annoncer que le troisième tome de la série "Cahiers du ministère de la Culture" dédié aux résidences d'artistes vient de paraître.
-</description>
-                <pubDate>Fri, 7 Feb 2025 13:23:15 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/06-cahiers-culture-residences-artistes.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/06-cahiers-culture-residences-artistes.html</guid>
             </item>
         
     </channel>
