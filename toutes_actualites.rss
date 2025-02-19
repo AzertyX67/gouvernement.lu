@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 19 Feb 2025 00:00:00 +0100 </pubDate>
-                <lastBuildDate>Wed, 19 Feb 2025 07:20:29 +0100</lastBuildDate>
+                <pubDate>Wed, 19 Feb 2025 08:31:43 +0100 </pubDate>
+                <lastBuildDate>Wed, 19 Feb 2025 08:33:34 +0100</lastBuildDate>
+            
+            <item>
+                <title>Première étape à San Francisco de la visite de travail de Xavier Bettel aux États-Unis</title>
+                <description>Le ministre des Affaires étrangères et du Commerce extérieur, Xavier Bettel, a effectué à San Francisco la première étape de sa visite de travail aux États-Unis.</description>
+                <pubDate>Wed, 19 Feb 2025 08:33:34 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/19-bettel-usa.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/19-bettel-usa.html</guid>
+            </item>
+        
             
             <item>
                 <title>Eric Thill en visite à la Berlinale et à son marché du film </title>
@@ -485,15 +494,6 @@
                 <pubDate>Thu, 6 Feb 2025 14:13:39 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/06-thill-backes-portraits-femmes.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/06-thill-backes-portraits-femmes.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Infections respiratoires: rétrospective de la semaine du 27 janvier au 2 février 2025</title>
-                <description>La Direction de la santé publie sa rétrospective hebdomadaire concernant l'évolution des principales infections respiratoires aiguës, incluant la COVID-19, la grippe et le virus respiratoire syncytial (RSV).</description>
-                <pubDate>Thu, 6 Feb 2025 10:16:13 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/06-infections-respiratoires.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/06-infections-respiratoires.html</guid>
             </item>
         
     </channel>
