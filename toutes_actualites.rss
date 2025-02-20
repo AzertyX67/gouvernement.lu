@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 20 Feb 2025 07:50:00 +0100 </pubDate>
-                <lastBuildDate>Thu, 20 Feb 2025 08:19:49 +0100</lastBuildDate>
+                <pubDate>Thu, 20 Feb 2025 08:59:30 +0100 </pubDate>
+                <lastBuildDate>Thu, 20 Feb 2025 09:02:57 +0100</lastBuildDate>
+            
+            <item>
+                <title>Travaux sur l'autoroute A13</title>
+                <description>Dans le cadre des travaux de préparation relatifs à la construction d'un passage à faune sur l'A13 entre l'échangeur de Sanem et le giratoire Biff, ...</description>
+                <pubDate>Thu, 20 Feb 2025 09:02:57 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/20-travaux-a13.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/20-travaux-a13.html</guid>
+            </item>
+        
             
             <item>
                 <title>Deuxième étape à Austin de la visite de travail de Xavier Bettel aux États-Unis</title>
@@ -483,16 +492,6 @@
                 <pubDate>Fri, 7 Feb 2025 16:01:34 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/07-conseil-gouvernement.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/07-conseil-gouvernement.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Visite de travail de Xavier Bettel à Vienne </title>
-                <description>Le ministre des Affaires étrangères et du Commerce extérieur, Xavier Bettel, a effectué les 5 et 6 février 2024 une visite de travail à Vienne.
-</description>
-                <pubDate>Fri, 7 Feb 2025 16:00:50 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/07-bettel-vienne.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/07-bettel-vienne.html</guid>
             </item>
         
     </channel>
