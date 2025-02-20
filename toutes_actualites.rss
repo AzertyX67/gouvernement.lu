@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 20 Feb 2025 08:59:30 +0100 </pubDate>
-                <lastBuildDate>Thu, 20 Feb 2025 09:02:57 +0100</lastBuildDate>
+                <pubDate>Thu, 20 Feb 2025 11:05:14 +0100 </pubDate>
+                <lastBuildDate>Thu, 20 Feb 2025 11:10:42 +0100</lastBuildDate>
+            
+            <item>
+                <title>Évolution du chômage en janvier 2025</title>
+                <description>Début 2025, le taux de chômage redescend à 5,8% et le nombre de postes déclarés repart à la hausse.</description>
+                <pubDate>Thu, 20 Feb 2025 11:10:42 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/20-chomage-janvier.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/20-chomage-janvier.html</guid>
+            </item>
+        
             
             <item>
                 <title>Travaux sur l'autoroute A13</title>
@@ -482,16 +491,6 @@
                 <pubDate>Fri, 7 Feb 2025 10:45:42 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/07-appel-maisons-edition.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/07-appel-maisons-edition.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Résumé des travaux du 7 février 2025</title>
-                <description>Le Conseil de gouvernement s'est réuni vendredi 7 février 2025 sous la présidence du Premier ministre Luc Frieden.
-</description>
-                <pubDate>Fri, 7 Feb 2025 16:01:34 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/07-conseil-gouvernement.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/07-conseil-gouvernement.html</guid>
             </item>
         
     </channel>
