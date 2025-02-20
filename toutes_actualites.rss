@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 20 Feb 2025 11:05:14 +0100 </pubDate>
-                <lastBuildDate>Thu, 20 Feb 2025 11:10:42 +0100</lastBuildDate>
+                <pubDate>Thu, 20 Feb 2025 11:29:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 20 Feb 2025 11:32:46 +0100</lastBuildDate>
+            
+            <item>
+                <title>Infections respiratoires: rétrospective de la semaine du 10 au 16 février 2025</title>
+                <description>La Direction de la santé publie sa rétrospective hebdomadaire concernant l'évolution des principales infections respiratoires aiguës, incluant la COVID-19, la grippe et le virus respiratoire syncytial (RSV).</description>
+                <pubDate>Thu, 20 Feb 2025 11:32:46 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/20-infections-respiratoires.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/20-infections-respiratoires.html</guid>
+            </item>
+        
             
             <item>
                 <title>Évolution du chômage en janvier 2025</title>
@@ -482,15 +491,6 @@
                 <pubDate>Fri, 7 Feb 2025 17:33:50 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/07-strategie-changement-climatique.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/07-strategie-changement-climatique.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Le ministère de la Culture lance son appel à projets pour soutenir la promotion des maisons d’édition</title>
-                <description>Afin de soutenir le secteur du livre au Luxembourg dans son développement, le ministère de la Culture lance un appel à projets destiné aux maisons d’édition professionnelles ayant une production éditoriale régulière, de qualité et accessible au ...</description>
-                <pubDate>Fri, 7 Feb 2025 10:45:42 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/07-appel-maisons-edition.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/07-appel-maisons-edition.html</guid>
             </item>
         
     </channel>
