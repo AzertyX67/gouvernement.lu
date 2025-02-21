@@ -33,13 +33,22 @@
         </skipDays>
         
             
-                <pubDate>Fri, 21 Feb 2025 08:02:16 +0100 </pubDate>
-                <lastBuildDate>Fri, 21 Feb 2025 08:09:21 +0100</lastBuildDate>
+                <pubDate>Fri, 21 Feb 2025 08:24:14 +0100 </pubDate>
+                <lastBuildDate>Fri, 21 Feb 2025 08:26:25 +0100</lastBuildDate>
+            
+            <item>
+                <title>Gloden veut &quot;intensifier la collaboration&quot; avec la France</title>
+                <description>Interview avec Léon Gloden dans L'essentiel</description>
+                <pubDate>Fri, 21 Feb 2025 08:26:25 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/02-fevrier/21-gloden-lessentiel.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/02-fevrier/21-gloden-lessentiel.html</guid>
+            </item>
+        
             
             <item>
                 <title>Léon Gloden a rencontré le ministre de l’intérieur Bruno Retailleau, à Paris pour discuter de criminalité transfrontalière, procédure de transfert et accord de coopération policière </title>
                 <description>Léon Gloden, ministre des Affaires intérieures, a été reçu par le ministre de l’Intérieur de la République française, Bruno Retailleau, place Beauvau, le 20 février 2025.</description>
-                <pubDate>Fri, 21 Feb 2025 08:09:21 +0100</pubDate>
+                <pubDate>Fri, 21 Feb 2025 08:27:05 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/21-gloden-retailleau.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/21-gloden-retailleau.html</guid>
             </item>
@@ -482,15 +491,6 @@
                 <pubDate>Sat, 8 Feb 2025 17:28:44 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/08-adem-acd-differdange.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/08-adem-acd-differdange.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>L'agence de notation Moody's confirme le &quot;AAA&quot; du Luxembourg avec perspectives stables</title>
-                <description>Le 7 février 2025, l’agence de notation de crédit Moody's a confirmé la notation "AAA" du Luxembourg avec perspectives stables.</description>
-                <pubDate>Fri, 7 Feb 2025 17:42:35 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/08-aaa-moody-luxembourg.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/08-aaa-moody-luxembourg.html</guid>
             </item>
         
     </channel>
