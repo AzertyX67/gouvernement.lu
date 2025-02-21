@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 21 Feb 2025 14:56:04 +0100 </pubDate>
-                <lastBuildDate>Fri, 21 Feb 2025 15:00:40 +0100</lastBuildDate>
+                <pubDate>Fri, 21 Feb 2025 16:56:20 +0100 </pubDate>
+                <lastBuildDate>Fri, 21 Feb 2025 17:00:02 +0100</lastBuildDate>
+            
+            <item>
+                <title>Réunion bilatérale entre Xavier Bettel et Thomas Byrne </title>
+                <description>Le 21 février 2025, le ministre des Affaires étrangères et du Commerce extérieur, Xavier Bettel, a eu une entrevue bilatérale avec Thomas Byrne, ministre d'État aux Affaires européennes et à la Défense de l'Irlande.</description>
+                <pubDate>Fri, 21 Feb 2025 17:00:02 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/21-bettel-byrne.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/21-bettel-byrne.html</guid>
+            </item>
+        
             
             <item>
                 <title>Informationen zum Wildvogelsterben in Cessingen</title>
@@ -482,15 +491,6 @@
                 <pubDate>Mon, 10 Feb 2025 16:44:04 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/10-backes-lahbib.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/10-backes-lahbib.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Martine Hansen visite un repair café dans la commune d’Esch-sur-Sûre</title>
-                <description>La ministre de la Protection des consommateurs visite le tout premier repair café organisé dans la commune d’Esch-sur-Sûre</description>
-                <pubDate>Sun, 9 Feb 2025 22:16:14 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mpc%2Bfr%2Bactualites%2B2025%2B02-fevrier%2Brepair-cafe-esch-sur-sure.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mpc%2Bfr%2Bactualites%2B2025%2B02-fevrier%2Brepair-cafe-esch-sur-sure.html</guid>
             </item>
         
     </channel>
