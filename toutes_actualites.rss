@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 21 Feb 2025 08:24:14 +0100 </pubDate>
-                <lastBuildDate>Fri, 21 Feb 2025 08:26:25 +0100</lastBuildDate>
+                <pubDate>Fri, 21 Feb 2025 14:56:04 +0100 </pubDate>
+                <lastBuildDate>Fri, 21 Feb 2025 15:00:40 +0100</lastBuildDate>
+            
+            <item>
+                <title>Informationen zum Wildvogelsterben in Cessingen</title>
+                <description>Seit dem 5. Februar 2025 wurden in Cessingen mehrere tote Wildvögel [u.a. Saatkrähe (Corvus frugilegus), Rabenkrähe (Corvus corone), Star (Sturnus vulgaris), Türkentaube (Streptopelia decaocto)] aufgefunden. </description>
+                <pubDate>Fri, 21 Feb 2025 15:00:40 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B02-fevrier%2B21-wildvogelsterben-cessingen.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B02-fevrier%2B21-wildvogelsterben-cessingen.html</guid>
+            </item>
+        
             
             <item>
                 <title>Gloden veut &quot;intensifier la collaboration&quot; avec la France</title>
@@ -482,15 +491,6 @@
                 <pubDate>Sun, 9 Feb 2025 22:16:14 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mpc%2Bfr%2Bactualites%2B2025%2B02-fevrier%2Brepair-cafe-esch-sur-sure.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mpc%2Bfr%2Bactualites%2B2025%2B02-fevrier%2Brepair-cafe-esch-sur-sure.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Inauguration des nouveaux locaux de l'Agence pour le développement de l'emploi (ADEM) et de l'Administration des contributions directes à Differdange</title>
-                <description>Le vendredi 7 février, Georges Mischo, ministre du Travail et Gilles Roth, ministre des Finances, ont eu le plaisir d'inaugurer la nouvelle agence de l'ADEM à Differdange ainsi que les nouveaux bureaux de l'Administration des contributions directes.</description>
-                <pubDate>Sat, 8 Feb 2025 17:28:44 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/08-adem-acd-differdange.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/08-adem-acd-differdange.html</guid>
             </item>
         
     </channel>
