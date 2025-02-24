@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 24 Feb 2025 00:00:00 +0100 </pubDate>
-                <lastBuildDate>Mon, 24 Feb 2025 17:00:18 +0100</lastBuildDate>
+                <pubDate>Mon, 24 Feb 2025 17:13:00 +0100 </pubDate>
+                <lastBuildDate>Mon, 24 Feb 2025 17:16:57 +0100</lastBuildDate>
+            
+            <item>
+                <title>Conseil &quot;Agriculture et pêche&quot;: Martine Hansen salue la vision pour l'agriculture et l'alimentation de la Commission européenne </title>
+                <description>Martine Hansen a participé au Conseil "Agriculture et pêche" ce lundi, 24 février 2025 à Bruxelles.</description>
+                <pubDate>Mon, 24 Feb 2025 17:16:57 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/24-hansen-conseil-agriculture.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/24-hansen-conseil-agriculture.html</guid>
+            </item>
+        
             
             <item>
                 <title>Moins d'écrans - plus de mouvement, de découvertes et d'expériences! Pour une Screen-Life-Balance saine des enfants</title>
@@ -481,15 +490,6 @@
                 <pubDate>Mon, 10 Feb 2025 10:27:29 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/10-appel-oeuvres-arts.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/10-appel-oeuvres-arts.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Die &quot;total motivierte&quot; Superministerin</title>
-                <description>Interview mit Yuriko Backes im Lëtzebuerger Journal</description>
-                <pubDate>Mon, 10 Feb 2025 08:15:29 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Binterviews%2B2025%2B02-fevrier%2B10-backes-journal.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Binterviews%2B2025%2B02-fevrier%2B10-backes-journal.html</guid>
             </item>
         
     </channel>
