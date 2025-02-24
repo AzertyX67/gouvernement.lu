@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 24 Feb 2025 17:13:00 +0100 </pubDate>
-                <lastBuildDate>Mon, 24 Feb 2025 17:16:57 +0100</lastBuildDate>
+                <pubDate>Mon, 24 Feb 2025 18:00:00 +0100 </pubDate>
+                <lastBuildDate>Mon, 24 Feb 2025 18:04:04 +0100</lastBuildDate>
+            
+            <item>
+                <title>Xavier Bettel au Conseil &quot;Affaires étrangères&quot;</title>
+                <description>Xavier Bettel a participé à la réunion du Conseil « Affaires étrangères » (CAE) de l'UE, qui s’est tenue le 24 février 2025 à Bruxelles.</description>
+                <pubDate>Mon, 24 Feb 2025 18:04:04 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/24-bettel-cae.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/24-bettel-cae.html</guid>
+            </item>
+        
             
             <item>
                 <title>Conseil &quot;Agriculture et pêche&quot;: Martine Hansen salue la vision pour l'agriculture et l'alimentation de la Commission européenne </title>
@@ -481,15 +490,6 @@
                 <pubDate>Mon, 10 Feb 2025 17:33:03 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/10-bettel-lammy.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/10-bettel-lammy.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Annonce de l'appel à propositions d'acquisition d'œuvres d'art en direction des galeries</title>
-                <description>Dans le cadre de sa politique de soutien à la création, aux créateurs et créatrices ainsi qu'à l'innovation et l'émergence d'un secteur culturel dynamique, le ministère de la Culture acquiert annuellement des œuvres d'art pour le compte de l'État. </description>
-                <pubDate>Mon, 10 Feb 2025 10:27:29 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/10-appel-oeuvres-arts.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/10-appel-oeuvres-arts.html</guid>
             </item>
         
     </channel>
