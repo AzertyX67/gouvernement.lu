@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 25 Feb 2025 08:58:33 +0100 </pubDate>
-                <lastBuildDate>Tue, 25 Feb 2025 09:01:28 +0100</lastBuildDate>
+                <pubDate>Tue, 25 Feb 2025 17:29:00 +0100 </pubDate>
+                <lastBuildDate>Tue, 25 Feb 2025 17:30:35 +0100</lastBuildDate>
+            
+            <item>
+                <title>Martine Hansen au Salon International de l'Agriculture à Paris</title>
+                <description>Martine Hansen, ministre de l'Agriculture, de la Viticulture et du Développement rural, s'est rendue aujourd'hui à Paris pour visiter le Salon International de l'Agriculture.</description>
+                <pubDate>Tue, 25 Feb 2025 17:30:35 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/25-hansen-salon-agriculture.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/25-hansen-salon-agriculture.html</guid>
+            </item>
+        
             
             <item>
                 <title>Répondre au défi du logement est un effort collectif.</title>
@@ -481,15 +490,6 @@
                 <pubDate>Mon, 10 Feb 2025 17:38:33 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/10-backes-tice.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/10-backes-tice.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Sproochmaschinn.lu: Eric Thill présente les applications numériques pour la langue luxembourgeoise</title>
-                <description>En date du 10 février 2025, le ministre de la Culture Eric Thill a présenté une première version du nouveau site sproochmaschinn.lu, développé par le Zenter fir d'Lëtzebuerger Sprooch (ZLS). </description>
-                <pubDate>Mon, 10 Feb 2025 17:48:16 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/10-sproochmaschinn-thill.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/10-sproochmaschinn-thill.html</guid>
             </item>
         
     </channel>
