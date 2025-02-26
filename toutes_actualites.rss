@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 26 Feb 2025 11:04:02 +0100 </pubDate>
-                <lastBuildDate>Wed, 26 Feb 2025 11:16:24 +0100</lastBuildDate>
+                <pubDate>Wed, 26 Feb 2025 15:25:47 +0100 </pubDate>
+                <lastBuildDate>Wed, 26 Feb 2025 15:30:19 +0100</lastBuildDate>
+            
+            <item>
+                <title>Appel à candidatures DAB+ – services de radio sonore</title>
+                <description>Dans le but de promouvoir le développement des services de radio sonore et de renforcer le pluralisme des médias au Luxembourg, le Service des médias, de la connectivité et de la politique numérique (SMC) lance un appel public de candidatures ...</description>
+                <pubDate>Wed, 26 Feb 2025 15:30:19 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/26-appel-candidatures-dab.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/26-appel-candidatures-dab.html</guid>
+            </item>
+        
             
             <item>
                 <title>Rentrée à l'Institut national des langues Luxembourg </title>
@@ -481,15 +490,6 @@
                 <pubDate>Wed, 12 Feb 2025 14:23:21 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/12-backes-francken.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/12-backes-francken.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Extension de l’interdiction temporaire d’évolutions de drones à l’occasion du projet Griffin </title>
-                <description>Extension de la zone géographique</description>
-                <pubDate>Wed, 12 Feb 2025 10:30:01 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_dac%2Bfr%2Bactualites%2B2025%2Bfevrier2025%2Bextensiongriffin2025.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_dac%2Bfr%2Bactualites%2B2025%2Bfevrier2025%2Bextensiongriffin2025.html</guid>
             </item>
         
     </channel>
