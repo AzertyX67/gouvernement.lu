@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 25 Feb 2025 17:41:00 +0100 </pubDate>
-                <lastBuildDate>Tue, 25 Feb 2025 17:43:38 +0100</lastBuildDate>
+                <pubDate>Wed, 26 Feb 2025 10:15:57 +0100 </pubDate>
+                <lastBuildDate>Wed, 26 Feb 2025 10:24:27 +0100</lastBuildDate>
+            
+            <item>
+                <title>Assermentation d'un agent au Ministère de l'Environnement, du Climat et de la Biodiversité</title>
+                <description>En date du 25 février 2025, Serge Wilmes, ministre de l'Environnement, du Climat et de la Biodiversité, a procédé à l'assermentation d'un agent. </description>
+                <pubDate>Wed, 26 Feb 2025 10:24:27 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mecb%2Bfr%2Bactualites%2B2024%2B26-assermentation-mecb.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mecb%2Bfr%2Bactualites%2B2024%2B26-assermentation-mecb.html</guid>
+            </item>
+        
             
             <item>
                 <title>Xavier Bettel au Conseil &quot;Affaires générales&quot; de l'UE</title>
@@ -481,15 +490,6 @@
                 <pubDate>Tue, 11 Feb 2025 11:53:05 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/11-meisch-delles-mischo-astronaut.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/11-meisch-delles-mischo-astronaut.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Luc Frieden et Elisabeth Margue au sommet pour l'action sur l'intelligence artificielle à Paris </title>
-                <description>Le Premier ministre Luc Frieden et la ministre déléguée auprès du Premier ministre, chargée des Médias et des Communications, Elisabeth Margue, participent au sommet pour l'action sur l'intelligence artificielle, qui se tient du 10 au 11 février 2025,</description>
-                <pubDate>Tue, 11 Feb 2025 16:48:54 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/11-frieden-margue-paris.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/11-frieden-margue-paris.html</guid>
             </item>
         
     </channel>
