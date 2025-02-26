@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 26 Feb 2025 10:15:57 +0100 </pubDate>
-                <lastBuildDate>Wed, 26 Feb 2025 10:24:27 +0100</lastBuildDate>
+                <pubDate>Wed, 26 Feb 2025 11:04:02 +0100 </pubDate>
+                <lastBuildDate>Wed, 26 Feb 2025 11:16:24 +0100</lastBuildDate>
+            
+            <item>
+                <title>Rentrée à l'Institut national des langues Luxembourg </title>
+                <description>Le lundi 24 février 2025 a marqué la rentrée pour plus de 7.600 apprenant.e.s avides de découvrir une langue ou de parfaire leurs compétences linguistiques.</description>
+                <pubDate>Wed, 26 Feb 2025 11:16:24 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/26-inl-rentree.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/26-inl-rentree.html</guid>
+            </item>
+        
             
             <item>
                 <title>Assermentation d'un agent au Ministère de l'Environnement, du Climat et de la Biodiversité</title>
@@ -480,16 +489,6 @@
                 <pubDate>Tue, 11 Feb 2025 10:58:30 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/11-observatoire-habitat.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/11-observatoire-habitat.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Lancement de l'édition 2025 du concours &quot;Astronaut for a day&quot;</title>
-                <description>Les ministres Lex Delles, Claude Meisch et Georges Mischo ont annoncé le retour du concours "Astronaut for a day" organisé par la Luxembourg Space Agency (LSA), en collaboration avec le ministère de l'Économie, le ministère de l'Éducation nationale,...
-</description>
-                <pubDate>Tue, 11 Feb 2025 11:53:05 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/11-meisch-delles-mischo-astronaut.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/11-meisch-delles-mischo-astronaut.html</guid>
             </item>
         
     </channel>
