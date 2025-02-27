@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 26 Feb 2025 17:33:11 +0100 </pubDate>
-                <lastBuildDate>Thu, 27 Feb 2025 09:47:40 +0100</lastBuildDate>
+                <pubDate>Thu, 27 Feb 2025 11:07:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 27 Feb 2025 11:11:26 +0100</lastBuildDate>
+            
+            <item>
+                <title>La Direction de la protection des consommateurs et l’Horesca poursuivent leur engagement</title>
+                <description>Martine Hansen, ministre de la Protection des consommateurs, a rencontré les responsables de l’Horesca.</description>
+                <pubDate>Thu, 27 Feb 2025 11:11:26 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mpc%2Bfr%2Bactualites%2B2025%2B02-fevrier%2Bvisite-horesca.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mpc%2Bfr%2Bactualites%2B2025%2B02-fevrier%2Bvisite-horesca.html</guid>
+            </item>
+        
             
             <item>
                 <title>Assermentation de 7 agents au ministère de la Fonction publique</title>
@@ -481,15 +490,6 @@
                 <pubDate>Wed, 12 Feb 2025 18:02:54 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/12-renovation-schuman.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/12-renovation-schuman.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Présentation de la deuxième phase de la consultation sur le système de pension</title>
-                <description>En date du 12 février 2025, la ministre de la Santé et de la Sécurité sociale a présenté la deuxième phase du processus de participation "Schwätz mat! D'Zukunft vun eiser Altersofsécherung".</description>
-                <pubDate>Thu, 13 Feb 2025 11:35:16 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/12-deprez-pensions.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/12-deprez-pensions.html</guid>
             </item>
         
     </channel>
