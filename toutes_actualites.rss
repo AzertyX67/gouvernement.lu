@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 27 Feb 2025 11:19:06 +0100 </pubDate>
-                <lastBuildDate>Thu, 27 Feb 2025 11:25:17 +0100</lastBuildDate>
+                <pubDate>Thu, 27 Feb 2025 13:10:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 27 Feb 2025 13:10:44 +0100</lastBuildDate>
+            
+            <item>
+                <title>Infections respiratoires: rétrospective de la semaine du 17 au 23 février 2025</title>
+                <description>La Direction de la santé publie sa rétrospective hebdomadaire concernant l'évolution des principales infections respiratoires aiguës, incluant la COVID-19, la grippe et le virus respiratoire syncytial (RSV).</description>
+                <pubDate>Thu, 27 Feb 2025 13:10:44 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/27-infections-respiratoires.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/27-infections-respiratoires.html</guid>
+            </item>
+        
             
             <item>
                 <title>Un bond en avant pour la mobilité: deux nouveaux arrêts avec l'arrivée du tram à l'aéroport de Luxembourg </title>
@@ -480,16 +489,6 @@
                 <pubDate>Thu, 13 Feb 2025 08:23:59 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/13-gloden-visite-serafin.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/13-gloden-visite-serafin.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Déclaration de Xavier Bettel sur la politique de coopération au développement à la Chambre des députés </title>
-                <description>En date du 12 février 2025, ministre de la Coopération et de l’Action humanitaire, Xavier Bettel, a prononcé à la Chambre des députés la déclaration annuelle sur la politique de coopération au développement. 
-</description>
-                <pubDate>Thu, 13 Feb 2025 08:20:06 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/13-bettel-declaration-politique-cooperation.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/13-bettel-declaration-politique-cooperation.html</guid>
             </item>
         
     </channel>
