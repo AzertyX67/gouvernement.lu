@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 28 Feb 2025 00:00:00 +0100 </pubDate>
-                <lastBuildDate>Fri, 28 Feb 2025 09:10:31 +0100</lastBuildDate>
+                <pubDate>Fri, 28 Feb 2025 10:03:53 +0100 </pubDate>
+                <lastBuildDate>Fri, 28 Feb 2025 10:09:00 +0100</lastBuildDate>
+            
+            <item>
+                <title>Veille légale du mois de janvier</title>
+                <description>Mise en application de nouvelles normes européennes du domaine non-électrique applicables au Grand-Duché de Luxembourg. Mise en application de nouvelles normes européennes du domaine électrotechnique applicables au Grand-Duché de Luxembourg. Mise en application de nouvelles normes européennes du domaine des...</description>
+                <pubDate>Fri, 28 Feb 2025 10:09:00 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_acf%2Bfr%2Bactualites%2B2025%2B01-janvier1%2Bveille-legale-du-mois-de-janvier.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_acf%2Bfr%2Bactualites%2B2025%2B01-janvier1%2Bveille-legale-du-mois-de-janvier.html</guid>
+            </item>
+        
             
             <item>
                 <title>Entrevue entre Luc Frieden et Xavier Bettel avec Patrick Weiten </title>
@@ -480,15 +489,6 @@
                 <pubDate>Tue, 18 Feb 2025 08:11:32 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/14-conseil-gouvernement1.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/14-conseil-gouvernement1.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Infections respiratoires: rétrospective de la semaine du 3 au 9 février 2025</title>
-                <description>La Direction de la santé publie sa rétrospective hebdomadaire concernant l'évolution des principales infections respiratoires aiguës, incluant la COVID-19, la grippe et le virus respiratoire syncytial (RSV).</description>
-                <pubDate>Thu, 13 Feb 2025 15:16:48 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/13-infections-respiratoires.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/13-infections-respiratoires.html</guid>
             </item>
         
     </channel>
