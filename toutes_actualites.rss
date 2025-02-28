@@ -33,15 +33,24 @@
         </skipDays>
         
             
-                <pubDate>Thu, 27 Feb 2025 18:05:00 +0100 </pubDate>
-                <lastBuildDate>Fri, 28 Feb 2025 08:45:52 +0100</lastBuildDate>
+                <pubDate>Fri, 28 Feb 2025 00:00:00 +0100 </pubDate>
+                <lastBuildDate>Fri, 28 Feb 2025 09:10:31 +0100</lastBuildDate>
+            
+            <item>
+                <title>Entrevue entre Luc Frieden et Xavier Bettel avec Patrick Weiten </title>
+                <description>Le président du Conseil départemental de la Moselle, Patrick Weiten, s'est rendu en visite de travail à Luxembourg le 27 février 2025. Il a été reçu par le Premier ministre, Luc Frieden, et le ministre des Affaires étrangères ...</description>
+                <pubDate>Fri, 28 Feb 2025 09:10:31 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/28-frieden-bettel-weiten.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/28-frieden-bettel-weiten.html</guid>
+            </item>
+        
             
             <item>
                 <title>Georges Mischo a signé les premières chartes dans le cadre de la stratégie &quot;Meng Gemeng lieft Sport&quot; avec 15 communes </title>
                 <description>En date du 27 février 2025, le ministre des Sports, Georges Mischo a invité à une cérémonie de signature officielle des premières chartes dans le cadre de la stratégie "Meng Gemeng lieft Sport". </description>
                 <pubDate>Fri, 28 Feb 2025 08:45:52 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/actualite-galerie.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/actualite-galerie.html</guid>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/27-mischo-charte-gemengen.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/27-mischo-charte-gemengen.html</guid>
             </item>
         
             
@@ -480,15 +489,6 @@
                 <pubDate>Thu, 13 Feb 2025 15:16:48 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/13-infections-respiratoires.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/13-infections-respiratoires.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Entretien entre le ministère de la Mobilité et des Travaux publics et l'OGBL au sujet de l'avenir du syndicat intercommunal TICE</title>
-                <description>Pour donner suite à la réunion du 10 décembre 2024, des représentants du ministère de la Mobilité et des Travaux publics (MMTP) et de l'OGBL se sont récemment réunis pour discuter de l'avenir du syndicat intercommunal TICE.</description>
-                <pubDate>Thu, 13 Feb 2025 12:32:38 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/13-mmtp-ogbl-tice.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/13-mmtp-ogbl-tice.html</guid>
             </item>
         
     </channel>
