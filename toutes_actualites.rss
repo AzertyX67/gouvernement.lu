@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 28 Feb 2025 10:03:53 +0100 </pubDate>
-                <lastBuildDate>Fri, 28 Feb 2025 11:44:31 +0100</lastBuildDate>
+                <pubDate>Fri, 28 Feb 2025 13:54:25 +0100 </pubDate>
+                <lastBuildDate>Fri, 28 Feb 2025 14:06:21 +0100</lastBuildDate>
+            
+            <item>
+                <title>Mars bleu: &quot;Se faire dépister, c'est mettre toutes les chances de son côté&quot;</title>
+                <description>À l'occasion de "Mars bleu", le mois dédié à la prévention et au dépistage du cancer colorectal, le ministère de la Santé et de la Sécurité sociale renouvelle sa campagne.</description>
+                <pubDate>Fri, 28 Feb 2025 14:06:21 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/28-sante-mars-bleu.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/28-sante-mars-bleu.html</guid>
+            </item>
+        
             
             <item>
                 <title>Veille légale du mois de janvier</title>
@@ -479,16 +488,6 @@
                 <pubDate>Fri, 14 Feb 2025 08:38:27 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/14-backes-otan-ukraine-defense-group.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/14-backes-otan-ukraine-defense-group.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Résumé des travaux du 14 février 2025</title>
-                <description>Le Conseil de gouvernement s'est réuni vendredi 14 février 2025 sous la présidence du Premier ministre Luc Frieden.
-</description>
-                <pubDate>Tue, 18 Feb 2025 08:11:32 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/14-conseil-gouvernement1.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/14-conseil-gouvernement1.html</guid>
             </item>
         
     </channel>
