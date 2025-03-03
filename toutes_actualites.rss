@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 3 Mar 2025 16:23:00 +0100 </pubDate>
-                <lastBuildDate>Mon, 3 Mar 2025 16:26:17 +0100</lastBuildDate>
+                <pubDate>Mon, 3 Mar 2025 17:08:26 +0100 </pubDate>
+                <lastBuildDate>Mon, 3 Mar 2025 17:11:17 +0100</lastBuildDate>
+            
+            <item>
+                <title>Deuxième réunion de la taskforce peste porcine africaine (PPA) depuis l'apparition récente du virus en Allemagne: Le Luxembourg est préparé</title>
+                <description>Suite à la présence de la peste porcine africaine en Allemagne, notamment en Hesse, la Taskforce PPA, convoquée par Martine Hansen et Serge Wilmes, a mis en place un protocole en cas d'éventuelle apparition de la PPA sur notre territoire.</description>
+                <pubDate>Mon, 3 Mar 2025 17:11:17 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/03-peste-porcine.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/03-peste-porcine.html</guid>
+            </item>
+        
             
             <item>
                 <title>Revue du système de finances publiques du Luxembourg</title>
@@ -481,15 +490,6 @@
                 <pubDate>Tue, 18 Feb 2025 14:19:12 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_obs%2Bfr%2Bactualites%2B2025%2Bopportunites-recherche-doctorale-phd.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_obs%2Bfr%2Bactualites%2B2025%2Bopportunites-recherche-doctorale-phd.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Laura Könner nommée directrice de la Direction de l'aviation civile (DAC)</title>
-                <description>Sur proposition de la ministre de la Mobilité et des Travaux publics, Yuriko Backes, les ministres réunis en conseil ont approuvé la nomination de Laura Könner en tant que directrice de la DAC.</description>
-                <pubDate>Tue, 18 Feb 2025 10:19:49 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/18-dac-directrice.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/18-dac-directrice.html</guid>
             </item>
         
     </channel>
