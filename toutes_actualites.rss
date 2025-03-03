@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 3 Mar 2025 00:00:00 +0100 </pubDate>
-                <lastBuildDate>Mon, 3 Mar 2025 11:01:56 +0100</lastBuildDate>
+                <pubDate>Mon, 3 Mar 2025 16:23:00 +0100 </pubDate>
+                <lastBuildDate>Mon, 3 Mar 2025 16:26:17 +0100</lastBuildDate>
+            
+            <item>
+                <title>Revue du système de finances publiques du Luxembourg</title>
+                <description>L'accord de coalition 2023-2028 du Gouvernement du Grand-Duché de Luxembourg témoigne d'une volonté politique de moderniser les pratiques budgétaires luxembourgeoises. </description>
+                <pubDate>Mon, 3 Mar 2025 16:26:17 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mfin%2Bfr%2Bactualites%2B2024%2B03-revue-systeme-finances-publiques.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mfin%2Bfr%2Bactualites%2B2024%2B03-revue-systeme-finances-publiques.html</guid>
+            </item>
+        
             
             <item>
                 <title>508 Kilogramm Kokain - Spektakulärer Drogenfund vom Zoll im Cargo Center des Luxemburger Flughafen </title>
@@ -481,16 +490,6 @@
                 <pubDate>Tue, 18 Feb 2025 10:19:49 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/18-dac-directrice.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/18-dac-directrice.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Yuriko Backes à la Munich Security Conference et à la réunion informelle du Conseil des affaires étrangères de l'UE</title>
-                <description> Du 14 au 16 février 2025, la ministre de la Défense, Yuriko Backes, a participé à la Munich Security Conference (MSC). 
-</description>
-                <pubDate>Mon, 17 Feb 2025 09:16:48 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/16-backes-munich.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/16-backes-munich.html</guid>
             </item>
         
     </channel>
