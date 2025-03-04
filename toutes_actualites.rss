@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 3 Mar 2025 17:08:26 +0100 </pubDate>
-                <lastBuildDate>Mon, 3 Mar 2025 17:11:17 +0100</lastBuildDate>
+                <pubDate>Tue, 4 Mar 2025 00:00:00 +0100 </pubDate>
+                <lastBuildDate>Tue, 4 Mar 2025 17:11:21 +0100</lastBuildDate>
+            
+            <item>
+                <title>Léon Gloden participera au Conseil ''Justice et affaires intérieures'' de l'Union européenne à Bruxelles </title>
+                <description>Le ministre des Affaires intérieures, Léon Gloden, participera à la réunion du Conseil ''Justice et affaires intérieures'' (JAI) de l'Union européenne qui se tiendra à Bruxelles le 5 mars 2025.</description>
+                <pubDate>Tue, 4 Mar 2025 17:11:21 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/04-gloden-conseil.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/04-gloden-conseil.html</guid>
+            </item>
+        
             
             <item>
                 <title>Deuxième réunion de la taskforce peste porcine africaine (PPA) depuis l'apparition récente du virus en Allemagne: Le Luxembourg est préparé</title>
@@ -481,15 +490,6 @@
                 <pubDate>Wed, 19 Feb 2025 07:20:29 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/19-thill-berlinale.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/19-thill-berlinale.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Saisie de 197 kilos de Chicha</title>
-                <description>L'Administration des douanes et accises annonce la saisie d'une quantité significative de produits narguilés (tabac à chicha) au cours des récentes opérations de contrôle de bars à chicha menées sur le territoire national. </description>
-                <pubDate>Tue, 18 Feb 2025 15:51:48 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/18-douane-chicha.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/18-douane-chicha.html</guid>
             </item>
         
     </channel>
