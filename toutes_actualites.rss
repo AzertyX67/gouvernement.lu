@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 5 Mar 2025 16:22:51 +0100 </pubDate>
-                <lastBuildDate>Wed, 5 Mar 2025 17:20:44 +0100</lastBuildDate>
+                <pubDate>Wed, 5 Mar 2025 18:13:39 +0100 </pubDate>
+                <lastBuildDate>Wed, 5 Mar 2025 18:24:58 +0100</lastBuildDate>
+            
+            <item>
+                <title>Martine Hansen a visité le projet TABA, un projet alliant économie circulaire, consommation responsable et solidarité</title>
+                <description>La ministre de la Protection des consommateurs a visité les installations du projet TABA, un projet du « Comité national de défense sociale », qui œuvre à la collecte, à la réparation et à la redistribution de jouets et de livres pour enfants.</description>
+                <pubDate>Wed, 5 Mar 2025 18:24:58 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mpc%2Bfr%2Bactualites%2B2025%2B03-mars%2Btaba.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mpc%2Bfr%2Bactualites%2B2025%2B03-mars%2Btaba.html</guid>
+            </item>
+        
             
             <item>
                 <title>Visite de travail de Lex Delles à Berlin, au Salon international du tourisme (ITB)</title>
@@ -42,6 +51,16 @@
                 <pubDate>Wed, 5 Mar 2025 17:20:44 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/05-delles-itb.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/05-delles-itb.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>Gilles Roth: &quot;La sécurité européenne ne peut être garantie que par la coopération et la solidarité&quot;</title>
+                <description>Le ministre des Finances, Gilles Roth, s'est rendu en Lituanie, en Estonie et en Lettonie du 3 au 5 mars 2025. Cette mission, placée sous le signe de la sécurité européenne, a permis de renforcer aussi les relations bilatérales et de promouvoir ...
+</description>
+                <pubDate>Wed, 5 Mar 2025 18:09:54 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/05-roth-pays-baltes.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/05-roth-pays-baltes.html</guid>
             </item>
         
             
@@ -474,24 +493,6 @@
                 <pubDate>Fri, 21 Feb 2025 17:00:02 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/21-bettel-byrne.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/21-bettel-byrne.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Informationen zum Wildvogelsterben in Cessingen</title>
-                <description>Seit dem 5. Februar 2025 wurden in Cessingen mehrere tote Wildvögel [u.a. Saatkrähe (Corvus frugilegus), Rabenkrähe (Corvus corone), Star (Sturnus vulgaris), Türkentaube (Streptopelia decaocto)] aufgefunden. </description>
-                <pubDate>Fri, 21 Feb 2025 15:00:40 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B02-fevrier%2B21-wildvogelsterben-cessingen.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B02-fevrier%2B21-wildvogelsterben-cessingen.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Gloden veut &quot;intensifier la collaboration&quot; avec la France</title>
-                <description>Interview avec Léon Gloden dans L'essentiel</description>
-                <pubDate>Fri, 21 Feb 2025 08:26:25 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/02-fevrier/21-gloden-lessentiel.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/02-fevrier/21-gloden-lessentiel.html</guid>
             </item>
         
     </channel>
