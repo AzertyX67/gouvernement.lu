@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 4 Mar 2025 10:21:40 +0100 </pubDate>
-                <lastBuildDate>Tue, 4 Mar 2025 10:26:32 +0100</lastBuildDate>
+                <pubDate>Wed, 5 Mar 2025 09:07:13 +0100 </pubDate>
+                <lastBuildDate>Wed, 5 Mar 2025 09:13:14 +0100</lastBuildDate>
+            
+            <item>
+                <title>Statistiques concernant la protection internationale et la protection temporaire - mois de janvier 2025</title>
+                <description>Veuillez trouver ci-dessous deux fichiers contenant les statistiques concernant la protection internationale et la protection temporaire au Grand-Duché de Luxembourg du mois de janvier 2025.</description>
+                <pubDate>Wed, 5 Mar 2025 09:13:14 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/05-maint-protection-internationale.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/05-maint-protection-internationale.html</guid>
+            </item>
+        
             
             <item>
                 <title>3 Fragen an Lex Delles</title>
@@ -481,15 +490,6 @@
                 <pubDate>Thu, 20 Feb 2025 09:02:57 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/20-travaux-a13.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/20-travaux-a13.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Deuxième étape à Austin de la visite de travail de Xavier Bettel aux États-Unis</title>
-                <description>Le ministre des Affaires étrangères et du Commerce extérieur, Xavier Bettel, a effectué à Austin la deuxième étape de sa visite de travail aux États-Unis.</description>
-                <pubDate>Thu, 20 Feb 2025 08:19:49 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/20-bettel-usa.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/20-bettel-usa.html</guid>
             </item>
         
     </channel>
