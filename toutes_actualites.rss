@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 4 Mar 2025 00:00:00 +0100 </pubDate>
-                <lastBuildDate>Tue, 4 Mar 2025 18:56:04 +0100</lastBuildDate>
+                <pubDate>Tue, 4 Mar 2025 10:21:40 +0100 </pubDate>
+                <lastBuildDate>Tue, 4 Mar 2025 10:26:32 +0100</lastBuildDate>
+            
+            <item>
+                <title>3 Fragen an Lex Delles</title>
+                <description>Interview mit Lex Delles im Tageblatt</description>
+                <pubDate>Tue, 4 Mar 2025 10:26:32 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Binterviews%2B2025%2B03-mars%2B04-delles-tageblatt.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Binterviews%2B2025%2B03-mars%2B04-delles-tageblatt.html</guid>
+            </item>
+        
             
             <item>
                 <title>Visite de travail de Yuriko Backes à Bruxelles </title>
@@ -481,15 +490,6 @@
                 <pubDate>Thu, 20 Feb 2025 08:19:49 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/20-bettel-usa.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/20-bettel-usa.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Première étape à San Francisco de la visite de travail de Xavier Bettel aux États-Unis</title>
-                <description>Le ministre des Affaires étrangères et du Commerce extérieur, Xavier Bettel, a effectué à San Francisco la première étape de sa visite de travail aux États-Unis.</description>
-                <pubDate>Wed, 19 Feb 2025 08:33:34 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/19-bettel-usa.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/19-bettel-usa.html</guid>
             </item>
         
     </channel>
