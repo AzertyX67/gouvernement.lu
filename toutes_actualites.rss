@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 5 Mar 2025 09:07:13 +0100 </pubDate>
-                <lastBuildDate>Wed, 5 Mar 2025 09:13:14 +0100</lastBuildDate>
+                <pubDate>Wed, 5 Mar 2025 16:22:51 +0100 </pubDate>
+                <lastBuildDate>Wed, 5 Mar 2025 16:31:16 +0100</lastBuildDate>
+            
+            <item>
+                <title>Visite de travail de Lex Delles à Berlin, au Salon international du tourisme (ITB)</title>
+                <description>Le ministre de l'Économie, des PME, de l'Énergie et du Tourisme, Lex Delles, était en visite à Berlin du 4 au 5 mars 2025. Il a participé au Salon international du tourisme (ITB) et effectué plusieurs visites en sa qualité de ministre de l'Énergie.</description>
+                <pubDate>Wed, 5 Mar 2025 16:31:16 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/05-delles-itb.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/05-delles-itb.html</guid>
+            </item>
+        
             
             <item>
                 <title>Statistiques concernant la protection internationale et la protection temporaire - mois de janvier 2025</title>
@@ -42,6 +51,15 @@
                 <pubDate>Wed, 5 Mar 2025 09:13:14 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/05-maint-protection-internationale.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/05-maint-protection-internationale.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>Le ministère de la Culture lance une nouvelle aide à la préparation de dossier pour les appels à projets Europe créative </title>
+                <description>Afin d'encourager les acteurs culturels établis au Luxembourg de créer et de soumettre des projets dans le cadre du programme Europe créative, le ministère de la Culture se propose de soutenir leurs démarches relatives à la préparation de projet(s).</description>
+                <pubDate>Wed, 5 Mar 2025 16:37:24 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/05-ministere-culture-europe-creative.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/05-ministere-culture-europe-creative.html</guid>
             </item>
         
             
@@ -66,7 +84,7 @@
             <item>
                 <title>Déclaration du Premier ministre au nom du Gouvernement sur l'Ukraine et la sécurité européenne</title>
                 <description>Déclaration du Premier ministre au nom du Gouvernement sur l'Ukraine et la sécurité européenne</description>
-                <pubDate>Wed, 5 Mar 2025 15:14:11 +0100</pubDate>
+                <pubDate>Wed, 5 Mar 2025 16:43:19 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/discours/2025/03-mars/04-frieden-declaration-chambre.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/discours/2025/03-mars/04-frieden-declaration-chambre.html</guid>
             </item>
@@ -472,24 +490,6 @@
                 <pubDate>Thu, 20 Feb 2025 11:32:46 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/20-infections-respiratoires.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/20-infections-respiratoires.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Évolution du chômage en janvier 2025</title>
-                <description>Début 2025, le taux de chômage redescend à 5,8% et le nombre de postes déclarés repart à la hausse.</description>
-                <pubDate>Thu, 20 Feb 2025 11:10:42 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/20-chomage-janvier.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/20-chomage-janvier.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Travaux sur l'autoroute A13</title>
-                <description>Dans le cadre des travaux de préparation relatifs à la construction d'un passage à faune sur l'A13 entre l'échangeur de Sanem et le giratoire Biff, ...</description>
-                <pubDate>Thu, 20 Feb 2025 09:02:57 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/20-travaux-a13.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/20-travaux-a13.html</guid>
             </item>
         
     </channel>
