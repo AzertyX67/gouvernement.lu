@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 5 Mar 2025 18:13:39 +0100 </pubDate>
-                <lastBuildDate>Thu, 6 Mar 2025 10:26:25 +0100</lastBuildDate>
+                <pubDate>Thu, 6 Mar 2025 11:17:03 +0100 </pubDate>
+                <lastBuildDate>Thu, 6 Mar 2025 11:22:37 +0100</lastBuildDate>
+            
+            <item>
+                <title>État des lieux des efforts de réduction de la consommation de gaz naturel au Luxembourg en février 2025</title>
+                <description>En février 2025, la consommation de gaz naturel a diminué de -13,8% par rapport à la période de référence des années 2017 à 2022.</description>
+                <pubDate>Thu, 6 Mar 2025 11:22:37 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/articles/2025/03-mars/06-reduction-consommation-gaz.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/articles/2025/03-mars/06-reduction-consommation-gaz.html</guid>
+            </item>
+        
             
             <item>
                 <title>Martine Hansen a visité le projet TABA, un projet alliant économie circulaire, consommation responsable et solidarité</title>
@@ -484,15 +493,6 @@
                 <pubDate>Mon, 24 Feb 2025 17:16:57 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/24-hansen-conseil-agriculture.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/24-hansen-conseil-agriculture.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Moins d'écrans - plus de mouvement, de découvertes et d'expériences! Pour une Screen-Life-Balance saine des enfants</title>
-                <description>Les effets négatifs des écrans et des médias sociaux sur le développement et le bien-être des enfants et des jeunes ne cessent de s'amplifier. Les études scientifiques le montrent clairement: la consommation digitale excessive ...</description>
-                <pubDate>Mon, 24 Feb 2025 17:00:18 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/24-meisch-screen-life-balance.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/24-meisch-screen-life-balance.html</guid>
             </item>
         
     </channel>
