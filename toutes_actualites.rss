@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 6 Mar 2025 11:17:03 +0100 </pubDate>
-                <lastBuildDate>Thu, 6 Mar 2025 11:22:37 +0100</lastBuildDate>
+                <pubDate>Thu, 6 Mar 2025 11:29:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 6 Mar 2025 13:20:28 +0100</lastBuildDate>
+            
+            <item>
+                <title>Infections respiratoires: rétrospective de la semaine du 24 février au 2 mars 2025</title>
+                <description>La Direction de la santé publie sa rétrospective hebdomadaire concernant l’évolution des principales infections respiratoires aiguës, incluant la COVID-19, la grippe et le virus respiratoire syncytial (RSV).</description>
+                <pubDate>Thu, 6 Mar 2025 13:20:28 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/06-infections-respiratoires.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/06-infections-respiratoires.html</guid>
+            </item>
+        
             
             <item>
                 <title>État des lieux des efforts de réduction de la consommation de gaz naturel au Luxembourg en février 2025</title>
@@ -484,15 +493,6 @@
                 <pubDate>Tue, 25 Feb 2025 10:30:35 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/24-bettel-cae.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/24-bettel-cae.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Conseil &quot;Agriculture et pêche&quot;: Martine Hansen salue la vision pour l'agriculture et l'alimentation de la Commission européenne </title>
-                <description>Martine Hansen a participé au Conseil "Agriculture et pêche" ce lundi, 24 février 2025 à Bruxelles.</description>
-                <pubDate>Mon, 24 Feb 2025 17:16:57 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/24-hansen-conseil-agriculture.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/24-hansen-conseil-agriculture.html</guid>
             </item>
         
     </channel>
