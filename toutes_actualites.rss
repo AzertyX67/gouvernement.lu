@@ -33,8 +33,18 @@
         </skipDays>
         
             
-                <pubDate>Thu, 6 Mar 2025 17:21:59 +0100 </pubDate>
-                <lastBuildDate>Thu, 6 Mar 2025 17:26:44 +0100</lastBuildDate>
+                <pubDate>Fri, 7 Mar 2025 00:00:00 +0100 </pubDate>
+                <lastBuildDate>Fri, 7 Mar 2025 08:44:26 +0100</lastBuildDate>
+            
+            <item>
+                <title>Exercice de cyberdéfense &quot;Cyber Fortress&quot; 2025</title>
+                <description>"Cyber Fortress" est le plus grand exercice national de cyberdéfense au Luxembourg, permettant aux participant·es de différentes nations – Belgique, Lettonie, Luxembourg, Malte ainsi que l'équipe European Union Cyber Rapid Response Teams ...
+</description>
+                <pubDate>Fri, 7 Mar 2025 08:44:26 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/07-armee-cyber-fortress.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/07-armee-cyber-fortress.html</guid>
+            </item>
+        
             
             <item>
                 <title>Stéphanie Obertin a reçu Dumitru Alaiba, Vice-Premier ministre et ministre du Développement économique et de la Numérisation de la République de Moldavie </title>
@@ -486,15 +496,6 @@
                 <pubDate>Mon, 3 Mar 2025 17:53:17 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/03-comite-filmfund.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/03-comite-filmfund.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Répondre au défi du logement est un effort collectif.</title>
-                <description>Interview avec Claude Meisch dans d'Handwierk </description>
-                <pubDate>Tue, 25 Feb 2025 09:01:28 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/02-fevrier/25-meisch-handwierk.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/interviews/2025/02-fevrier/25-meisch-handwierk.html</guid>
             </item>
         
     </channel>
