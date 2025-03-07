@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 7 Mar 2025 00:00:00 +0100 </pubDate>
-                <lastBuildDate>Fri, 7 Mar 2025 12:57:50 +0100</lastBuildDate>
+                <pubDate>Fri, 7 Mar 2025 08:52:23 +0100 </pubDate>
+                <lastBuildDate>Fri, 7 Mar 2025 15:45:32 +0100</lastBuildDate>
+            
+            <item>
+                <title>&quot;Bot4Lib&quot;: sélection de deux candidats pour la phase POC</title>
+                <description>Deux candidats ont été sélectionnés pour participer à la phase du proof of concept (POC) de l'appel à solutions "Bot4Lib" du GovTech Lab.</description>
+                <pubDate>Fri, 7 Mar 2025 15:45:32 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mindigital%2Bfr%2Bactualites%2Barticle%2B2025%2Bbot4lib-poc.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mindigital%2Bfr%2Bactualites%2Barticle%2B2025%2Bbot4lib-poc.html</guid>
+            </item>
+        
             
             <item>
                 <title>Fermeture de la rue des Scillas et de la rue Rangwee jusqu'au croisement boulevard de Kyiv/rue du 9 Mai 1944 et des tunnels Rangwee </title>
@@ -489,15 +498,6 @@
                 <pubDate>Wed, 26 Feb 2025 14:47:26 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/26-assermentation-contern.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/26-assermentation-contern.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Xavier Bettel au Conseil &quot;Affaires générales&quot; de l'UE</title>
-                <description>Le ministre des Affaires étrangères et du Commerce extérieur, Xavier Bettel, a participé à la réunion du Conseil "Affaires générales" de l'UE (CAG), qui s'est tenue le 25 février 2025 à Bruxelles.</description>
-                <pubDate>Tue, 25 Feb 2025 17:43:38 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/25-bettel-cag.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/25-bettel-cag.html</guid>
             </item>
         
     </channel>
