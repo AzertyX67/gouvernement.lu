@@ -33,8 +33,18 @@
         </skipDays>
         
             
-                <pubDate>Fri, 7 Mar 2025 17:07:27 +0100 </pubDate>
-                <lastBuildDate>Fri, 7 Mar 2025 20:06:36 +0100</lastBuildDate>
+                <pubDate>Sat, 8 Mar 2025 00:00:00 +0100 </pubDate>
+                <lastBuildDate>Fri, 7 Mar 2025 20:02:09 +0100</lastBuildDate>
+            
+            <item>
+                <title>Message du Premier ministre à l'occasion de la Journée internationale des femmes 2025 </title>
+                <description>Message du Premier ministre à l’occasion de la Journée internationale des femmes 2025 
+"Pour toutes les femmes et les filles: droits, égalité et autonomsation"</description>
+                <pubDate>Fri, 7 Mar 2025 20:02:09 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/08-frieden-journee-femmes.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/08-frieden-journee-femmes.html</guid>
+            </item>
+        
             
             <item>
                 <title>Présentation du plan d'action national &quot;Femmes, paix et sécurité&quot; 2025-2030</title>
@@ -490,15 +500,6 @@
                 <pubDate>Wed, 5 Mar 2025 10:19:13 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Ben%2Bactualites%2Btoutes_actualites%2Binterviews%2B2025%2B02-fevrier%2B27-backes-paperjam.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Ben%2Bactualites%2Btoutes_actualites%2Binterviews%2B2025%2B02-fevrier%2B27-backes-paperjam.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Assermentation de 7 agents au ministère de la Fonction publique</title>
-                <description>En date du 26 février 2025, le ministre de la Fonction publique, Serge Wilmes, a procédé à l'assermentation de 7 agents.</description>
-                <pubDate>Thu, 27 Feb 2025 09:47:40 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mfp%2Bfr%2Bactualites%2B2024%2Bassermentation-260225.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mfp%2Bfr%2Bactualites%2B2024%2Bassermentation-260225.html</guid>
             </item>
         
     </channel>
