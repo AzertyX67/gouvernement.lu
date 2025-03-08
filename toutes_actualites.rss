@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Sat, 8 Mar 2025 00:00:00 +0100 </pubDate>
-                <lastBuildDate>Fri, 7 Mar 2025 20:02:09 +0100</lastBuildDate>
+                <pubDate>Sat, 8 Mar 2025 15:13:29 +0100 </pubDate>
+                <lastBuildDate>Sat, 8 Mar 2025 15:16:49 +0100</lastBuildDate>
+            
+            <item>
+                <title>Vers une participation active des femmes dans les métiers d'avenir grâce aux compétences numériques </title>
+                <description>À l'occasion de la Journée internationale des droits des femmes le 8 mars 2025, le gouvernement luxembourgeois réaffirme son engagement en faveur de l'égalité des genres dans les domaines des STEM (Science, Technology, Engineering, and Mathematics) et ...</description>
+                <pubDate>Sat, 8 Mar 2025 15:16:49 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/08-femmes-metiers-avenir.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/08-femmes-metiers-avenir.html</guid>
+            </item>
+        
             
             <item>
                 <title>Message du Premier ministre à l'occasion de la Journée internationale des femmes 2025 </title>
@@ -491,15 +500,6 @@
                 <pubDate>Thu, 27 Feb 2025 11:11:26 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mpc%2Bfr%2Bactualites%2B2025%2B02-fevrier%2Bvisite-horesca.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mpc%2Bfr%2Bactualites%2B2025%2B02-fevrier%2Bvisite-horesca.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>&quot;Diversity is an asset for our country&quot;</title>
-                <description>Interview with Yuriko Backes in Paperjam</description>
-                <pubDate>Wed, 5 Mar 2025 10:19:13 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Ben%2Bactualites%2Btoutes_actualites%2Binterviews%2B2025%2B02-fevrier%2B27-backes-paperjam.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Ben%2Bactualites%2Btoutes_actualites%2Binterviews%2B2025%2B02-fevrier%2B27-backes-paperjam.html</guid>
             </item>
         
     </channel>
