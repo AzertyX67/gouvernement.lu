@@ -33,8 +33,18 @@
         </skipDays>
         
             
-                <pubDate>Sat, 8 Mar 2025 15:13:29 +0100 </pubDate>
-                <lastBuildDate>Sat, 8 Mar 2025 15:16:49 +0100</lastBuildDate>
+                <pubDate>Sun, 9 Mar 2025 11:12:00 +0100 </pubDate>
+                <lastBuildDate>Sun, 9 Mar 2025 16:45:35 +0100</lastBuildDate>
+            
+            <item>
+                <title>Une semaine sous le signe des droits des femmes et filles: le programme ambitieux de Yuriko Backes pour célébrer la journée internationale des femmes </title>
+                <description>La semaine précédant la Journée internationale de la femme, le 8 mars, ainsi que le jour même, Yuriko Backes, ministre de l'Égalité des genres et de la Diversité, a pris part à de nombreux événements, conférences et manifestations.
+</description>
+                <pubDate>Sun, 9 Mar 2025 16:45:35 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/08-backes-journee-femme.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/08-backes-journee-femme.html</guid>
+            </item>
+        
             
             <item>
                 <title>Vers une participation active des femmes dans les métiers d'avenir grâce aux compétences numériques </title>
@@ -491,15 +501,6 @@
                 <pubDate>Thu, 27 Feb 2025 11:20:24 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/27-meisch-lycee-emile-metz.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/27-meisch-lycee-emile-metz.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>La Direction de la protection des consommateurs et l’Horesca poursuivent leur engagement</title>
-                <description>Martine Hansen, ministre de la Protection des consommateurs, a rencontré les responsables de l’Horesca.</description>
-                <pubDate>Thu, 27 Feb 2025 11:11:26 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mpc%2Bfr%2Bactualites%2B2025%2B02-fevrier%2Bvisite-horesca.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mpc%2Bfr%2Bactualites%2B2025%2B02-fevrier%2Bvisite-horesca.html</guid>
             </item>
         
     </channel>
