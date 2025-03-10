@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 10 Mar 2025 13:27:44 +0100 </pubDate>
-                <lastBuildDate>Mon, 10 Mar 2025 13:38:11 +0100</lastBuildDate>
+                <pubDate>Mon, 10 Mar 2025 13:55:13 +0100 </pubDate>
+                <lastBuildDate>Mon, 10 Mar 2025 13:59:07 +0100</lastBuildDate>
+            
+            <item>
+                <title>Annulation de vols et droits des passagers aériens </title>
+                <description>En raison de la grève de 24 heures sur 11 aéroports allemands, un certain nombre de vols au départ de l'aéroport de Luxembourg à destination de l'Allemagne ont dû être annulés. </description>
+                <pubDate>Mon, 10 Mar 2025 13:59:07 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/10-annulation-vols-passagers.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/10-annulation-vols-passagers.html</guid>
+            </item>
+        
             
             <item>
                 <title>Veille légale du mois de février</title>
@@ -490,15 +499,6 @@
                 <pubDate>Thu, 27 Feb 2025 13:10:44 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/27-infections-respiratoires.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/27-infections-respiratoires.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Un bond en avant pour la mobilité: deux nouveaux arrêts avec l'arrivée du tram à l'aéroport de Luxembourg </title>
-                <description>Le réseau de transports publics luxembourgeois franchit une nouvelle étape avec la finalisation de la première ligne du tram et son arrivée à l'aéroport de Luxembourg à partir du 2 mars 2025. </description>
-                <pubDate>Thu, 27 Feb 2025 11:25:17 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/27-arrets-tram-aeroport.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/27-arrets-tram-aeroport.html</guid>
             </item>
         
     </channel>
