@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 10 Mar 2025 00:00:00 +0100 </pubDate>
-                <lastBuildDate>Mon, 10 Mar 2025 10:43:01 +0100</lastBuildDate>
+                <pubDate>Mon, 10 Mar 2025 13:27:44 +0100 </pubDate>
+                <lastBuildDate>Mon, 10 Mar 2025 13:38:11 +0100</lastBuildDate>
+            
+            <item>
+                <title>Veille légale du mois de février</title>
+                <description>Mise en application de nouvelles normes européennes du domaine non-électrique applicables au Grand-Duché de Luxembourg. Mise en application de nouvelles normes européennes du domaine électrotechnique applicables au Grand-Duché de Luxembourg. Mise en application de nouvelles normes européennes du domaine des...</description>
+                <pubDate>Mon, 10 Mar 2025 13:38:11 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_acf%2Bfr%2Bactualites%2B2025%2B03-mars%2Bveille-legale-du-mois-de-fevrier.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_acf%2Bfr%2Bactualites%2B2025%2B03-mars%2Bveille-legale-du-mois-de-fevrier.html</guid>
+            </item>
+        
             
             <item>
                 <title>Le nouveau SpeedUP du GovTech Lab &quot;eMail4GOV&quot;</title>
@@ -490,16 +499,6 @@
                 <pubDate>Thu, 27 Feb 2025 11:25:17 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/27-arrets-tram-aeroport.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/27-arrets-tram-aeroport.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Elisabeth Margue plaide pour une application effective de la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales à travers l'exécution des arrêts de la Cour strasbourgeoise </title>
-                <description>Dans le cadre de la présidence du Comité des ministres au Conseil de l'Europe par le Grand-Duché de Luxembourg, de novembre 2024 à mai 2025, Elisabeth Margue, ministre de la Justice, s'est rendue à Strasbourg, les 26 et 27 février 2025.
-</description>
-                <pubDate>Thu, 27 Feb 2025 16:30:27 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/27-margue-convention-europeenne.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/27-margue-convention-europeenne.html</guid>
             </item>
         
     </channel>
