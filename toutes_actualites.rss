@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Sun, 9 Mar 2025 11:12:00 +0100 </pubDate>
-                <lastBuildDate>Sun, 9 Mar 2025 16:45:35 +0100</lastBuildDate>
+                <pubDate>Mon, 10 Mar 2025 00:00:00 +0100 </pubDate>
+                <lastBuildDate>Mon, 10 Mar 2025 10:43:01 +0100</lastBuildDate>
+            
+            <item>
+                <title>Le nouveau SpeedUP du GovTech Lab &quot;eMail4GOV&quot;</title>
+                <description>Le GovTech Lab vient de lancer un nouveau SpeedUP intitulé "eMail4GOV", ouvert à candidatures du 10 mars au 10 avril 2025.</description>
+                <pubDate>Mon, 10 Mar 2025 10:43:01 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mindigital%2Bfr%2Bactualites%2Barticle%2B2025%2Bspeedup-email4gov.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mindigital%2Bfr%2Bactualites%2Barticle%2B2025%2Bspeedup-email4gov.html</guid>
+            </item>
+        
             
             <item>
                 <title>Une semaine sous le signe des droits des femmes et filles: le programme ambitieux de Yuriko Backes pour célébrer la journée internationale des femmes </title>
@@ -491,16 +500,6 @@
                 <pubDate>Thu, 27 Feb 2025 16:30:27 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/27-margue-convention-europeenne.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/27-margue-convention-europeenne.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Inauguration officielle du nouveau bâtiment du Lycée privé Emile Metz à Differdange (Phase 2)</title>
-                <description>Le 26 février 2025, le nouveau bâtiment du Lycée privé Emile Metz (LPEM) à Differdange a été officiellement inauguré en présence du ministre de l'Éducation nationale, de l'Enfance et de la Jeunesse, Claude Meisch, du bourgmestre de la Ville de ...
-</description>
-                <pubDate>Thu, 27 Feb 2025 11:20:24 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/27-meisch-lycee-emile-metz.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/27-meisch-lycee-emile-metz.html</guid>
             </item>
         
     </channel>
