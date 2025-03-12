@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 11 Mar 2025 18:32:59 +0100 </pubDate>
-                <lastBuildDate>Tue, 11 Mar 2025 18:36:43 +0100</lastBuildDate>
+                <pubDate>Wed, 12 Mar 2025 00:00:00 +0100 </pubDate>
+                <lastBuildDate>Wed, 12 Mar 2025 09:42:01 +0100</lastBuildDate>
+            
+            <item>
+                <title>Gala des lauréats des conservatoires avec le concours de l'Orchestre philharmonique du Luxembourg </title>
+                <description>Les meilleurs élèves lauréats de l'examen pour l'obtention du diplôme supérieur de l'année scolaire 2023/2024 seront mis en valeur à l'occasion du gala des lauréats qui permettra au grand public d'apprécier et de découvrir le fruit de leur travail.</description>
+                <pubDate>Wed, 12 Mar 2025 09:42:01 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/12-gala-laureats.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/12-gala-laureats.html</guid>
+            </item>
+        
             
             <item>
                 <title>Gilles Roth à l'Eurogroupe et au Conseil ECOFIN à Bruxelles: &quot;L'Europe doit envoyer un signal fort d'unité et de solidarité&quot;  	</title>
@@ -61,7 +70,7 @@
             <item>
                 <title>Déplacement de Xavier Bettel en Israël et en Palestine</title>
                 <description>Le ministre des Affaires étrangères et du Commerce extérieur, ministre de la Coopération et de l'Action humanitaire, Xavier Bettel, a effectué du 9 au 11 mars 2025 une visite de travail en Israël et en Palestine. </description>
-                <pubDate>Tue, 11 Mar 2025 18:46:42 +0100</pubDate>
+                <pubDate>Wed, 12 Mar 2025 09:51:10 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/11-bettel-israel-palestine.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/11-bettel-israel-palestine.html</guid>
             </item>
@@ -494,15 +503,6 @@
                 <pubDate>Fri, 28 Feb 2025 14:48:41 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/28-hansen-gaspillage-alimentaire.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/28-hansen-gaspillage-alimentaire.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Mars bleu: &quot;Se faire dépister, c'est mettre toutes les chances de son côté&quot;</title>
-                <description>À l'occasion de "Mars bleu", le mois dédié à la prévention et au dépistage du cancer colorectal, le ministère de la Santé et de la Sécurité sociale renouvelle sa campagne.</description>
-                <pubDate>Fri, 28 Feb 2025 14:50:00 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/28-sante-mars-bleu.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/02-fevrier/28-sante-mars-bleu.html</guid>
             </item>
         
     </channel>
