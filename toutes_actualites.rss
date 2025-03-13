@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 13 Mar 2025 00:00:00 +0100 </pubDate>
-                <lastBuildDate>Thu, 13 Mar 2025 08:09:10 +0100</lastBuildDate>
+                <pubDate>Thu, 13 Mar 2025 11:25:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 13 Mar 2025 11:28:57 +0100</lastBuildDate>
+            
+            <item>
+                <title>Infections respiratoires: rétrospective de la semaine du 3 au 9 mars 2025</title>
+                <description>La Direction de la sant&amp;eacute; publie sa r&amp;eacute;trospective hebdomadaire concernant l&amp;rsquo;&amp;eacute;volution des principales infections respiratoires aigu&amp;euml;s, incluant la COVID-19, la grippe et le virus respiratoire syncytial (RSV).</description>
+                <pubDate>Thu, 13 Mar 2025 11:28:57 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/13-infections-respiratoires.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/13-infections-respiratoires.html</guid>
+            </item>
+        
             
             <item>
                 <title>Entrevue de Xavier Bettel avec Filippo Grandi, Haut-Commissaire des Nations unies pour les réfugiés </title>
@@ -42,6 +51,16 @@
                 <pubDate>Thu, 13 Mar 2025 08:09:10 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/13-bettel-visite-grandi.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/13-bettel-visite-grandi.html</guid>
+            </item>
+        
+            
+            <item>
+                <title>Modernisation du dépôt en ligne des brevets d'invention </title>
+                <description>L&#39;Office de la propri&amp;eacute;t&amp;eacute; intellectuelle du minist&amp;egrave;re de l&#39;&amp;Eacute;conomie annonce que la plateforme du d&amp;eacute;p&amp;ocirc;t &amp;eacute;lectronique en ligne, existant depuis le 1er avril 2021, est remplac&amp;eacute;e &amp;agrave; partir du 13 mars 2025 par la plateforme de d&amp;eacute;p&amp;ocirc;t s&amp;eacute;curis&amp;eacute;e en ligne &amp;quot;eFiling&amp;quot;
+</description>
+                <pubDate>Thu, 13 Mar 2025 11:26:51 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/13-modernisation-depot-en-ligne-brevets.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/13-modernisation-depot-en-ligne-brevets.html</guid>
             </item>
         
             
@@ -483,26 +502,6 @@
                 <pubDate>Mon, 3 Mar 2025 11:01:56 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B02-fevrier%2B03-drogendfund-cargocenter.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Bcommuniques%2B2025%2B02-fevrier%2B03-drogendfund-cargocenter.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Lex Delles a présenté le &quot;Retail Report 2025&quot;, la 3e édition de l'outil d'observation et d'analyse du commerce de détail au Luxembourg </title>
-                <description>Le 3 mars 2025, le ministre de l&#39;&amp;Eacute;conomie, des PME, de l&#39;&amp;Eacute;nergie et du Tourisme, Lex Delles, le directeur g&amp;eacute;n&amp;eacute;ral de la Chambre de commerce, Carlo Thelen, et le pr&amp;eacute;sident du GIE Observatoire national des PME et CEO de Luxembourg Confederation, ...
-</description>
-                <pubDate>Mon, 3 Mar 2025 12:19:01 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/03-delles-retail-report.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/03-delles-retail-report.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Test du système d'alerte et d'information à la population &quot;LU-Alert&quot; </title>
-                <description>Le gouvernement poursuivra le lundi 3 mars 2025 la mise en &amp;oelig;uvre de sa strat&amp;eacute;gie de test du syst&amp;egrave;me d&#39;alerte et d&#39;information &amp;agrave; la population &amp;quot;LU-Alert&amp;quot; en proc&amp;eacute;dant au test mensuel.
-</description>
-                <pubDate>Mon, 3 Mar 2025 07:53:41 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/03-test-lualert.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/03-test-lualert.html</guid>
             </item>
         
     </channel>
