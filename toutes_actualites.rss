@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 14 Mar 2025 00:00:00 +0100 </pubDate>
-                <lastBuildDate>Fri, 14 Mar 2025 15:25:11 +0100</lastBuildDate>
+                <pubDate>Fri, 14 Mar 2025 15:47:26 +0100 </pubDate>
+                <lastBuildDate>Fri, 14 Mar 2025 15:52:00 +0100</lastBuildDate>
+            
+            <item>
+                <title>Rencontre entre Georges Mischo et le commissaire européen Glenn Micallef à Luxembourg</title>
+                <description>&amp;Agrave; l&#39;occasion d&#39;une r&amp;eacute;union de travail &amp;agrave; Luxembourg ce vendredi 14 mars, le ministre des Sports Georges Mischo a rencontr&amp;eacute; le commissaire en charge du sport &amp;agrave; la Commission europ&amp;eacute;enne, Glenn Micallef.</description>
+                <pubDate>Fri, 14 Mar 2025 15:52:00 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/14-mischo-micallef.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/14-mischo-micallef.html</guid>
+            </item>
+        
             
             <item>
                 <title>Culture et Europe: Entrevue entre le commissaire Glenn Micallef et le ministre Eric Thill</title>
@@ -493,15 +502,6 @@
                 <pubDate>Tue, 4 Mar 2025 18:56:04 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/04-backes-bruxelles.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/04-backes-bruxelles.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Déclaration du Premier ministre au nom du Gouvernement sur l'Ukraine et la sécurité européenne</title>
-                <description>D&amp;eacute;claration du Premier ministre au nom du Gouvernement sur l&#39;Ukraine et la s&amp;eacute;curit&amp;eacute; europ&amp;eacute;enne</description>
-                <pubDate>Wed, 5 Mar 2025 16:54:37 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/discours/2025/03-mars/04-frieden-declaration-chambre.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/discours/2025/03-mars/04-frieden-declaration-chambre.html</guid>
             </item>
         
     </channel>
