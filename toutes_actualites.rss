@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 18 Mar 2025 00:00:00 +0100 </pubDate>
-                <lastBuildDate>Tue, 18 Mar 2025 09:21:38 +0100</lastBuildDate>
+                <pubDate>Tue, 18 Mar 2025 09:31:43 +0100 </pubDate>
+                <lastBuildDate>Tue, 18 Mar 2025 09:56:28 +0100</lastBuildDate>
+            
+            <item>
+                <title>Interdiction d’évolutions de drones en date du 27 et 28 mars 2025</title>
+                <description>Les &amp;eacute;volutions de drones sont interdites le 27 et 28 mars 2025 de 8.30 heures &amp;agrave; 21.30 heures dans la zone g&amp;eacute;ographique &amp;laquo; EL-UAS-TEVT-2025-01 &amp;raquo;</description>
+                <pubDate>Tue, 18 Mar 2025 09:56:28 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_dac%2Bfr%2Bactualites%2B2025%2Bmars2025%2Binterdiction-de-vol-27-28-mars.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_dac%2Bfr%2Bactualites%2B2025%2Bmars2025%2Binterdiction-de-vol-27-28-mars.html</guid>
+            </item>
+        
             
             <item>
                 <title>Evacuation de patients blessés en Macédoine du Nord avec le soutien du Luxembourg </title>
@@ -495,16 +504,6 @@
                 <pubDate>Thu, 6 Mar 2025 18:01:22 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/06-filmfund-immersive-days.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/06-filmfund-immersive-days.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Luc Frieden à la réunion extraordinaire du Conseil européen à Bruxelles </title>
-                <description>Le Premier ministre Luc Frieden est en d&amp;eacute;placement &amp;agrave; Bruxelles en date du 6 mars pour participer &amp;agrave; la r&amp;eacute;union extraordinaire du Conseil europ&amp;eacute;en.
-</description>
-                <pubDate>Thu, 6 Mar 2025 17:06:47 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/articles/2025/03-mars/06-frieden-bruxelles.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/articles/2025/03-mars/06-frieden-bruxelles.html</guid>
             </item>
         
     </channel>
