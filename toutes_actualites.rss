@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Mon, 17 Mar 2025 16:52:54 +0100 </pubDate>
-                <lastBuildDate>Mon, 17 Mar 2025 16:56:41 +0100</lastBuildDate>
+                <pubDate>Tue, 18 Mar 2025 00:00:00 +0100 </pubDate>
+                <lastBuildDate>Tue, 18 Mar 2025 09:21:38 +0100</lastBuildDate>
+            
+            <item>
+                <title>Evacuation de patients blessés en Macédoine du Nord avec le soutien du Luxembourg </title>
+                <description>&amp;Agrave; la suite de l&#39;incendie tragique survenu dans une discoth&amp;egrave;que le 16 mars 2025, ayant fait de nombreuses victimes, le Luxembourg a contribu&amp;eacute; aux efforts internationaux en facilitant le transfert de quatre patients vers des &amp;eacute;tablissements de sant&amp;eacute; adapt&amp;eacute;s.</description>
+                <pubDate>Tue, 18 Mar 2025 09:21:38 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/18-evacuation-patients.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/18-evacuation-patients.html</guid>
+            </item>
+        
             
             <item>
                 <title>Évaluation scientifique du dispositif expérimental d'accès légal au cannabis à des fins non-médicales</title>
@@ -496,15 +505,6 @@
                 <pubDate>Thu, 6 Mar 2025 17:06:47 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/articles/2025/03-mars/06-frieden-bruxelles.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/articles/2025/03-mars/06-frieden-bruxelles.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Martine Hansen a visité le projet TABA, un projet alliant économie circulaire, consommation responsable et solidarité</title>
-                <description>La ministre de la Protection des consommateurs a visit&amp;eacute; les installations du projet TABA, un projet du &amp;laquo; Comit&amp;eacute; national de d&amp;eacute;fense sociale &amp;raquo;, qui &amp;oelig;uvre &amp;agrave; la collecte, &amp;agrave; la r&amp;eacute;paration et &amp;agrave; la redistribution de jouets et de livres pour enfants.</description>
-                <pubDate>Thu, 6 Mar 2025 10:26:25 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mpc%2Bfr%2Bactualites%2B2025%2B03-mars%2Btaba.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mpc%2Bfr%2Bactualites%2B2025%2B03-mars%2Btaba.html</guid>
             </item>
         
     </channel>
