@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 19 Mar 2025 12:08:17 +0100 </pubDate>
-                <lastBuildDate>Wed, 19 Mar 2025 12:14:00 +0100</lastBuildDate>
+                <pubDate>Wed, 19 Mar 2025 15:30:00 +0100 </pubDate>
+                <lastBuildDate>Wed, 19 Mar 2025 13:51:45 +0100</lastBuildDate>
+            
+            <item>
+                <title>Livestream de la conférence de presse avec le Premier ministre Luc Frieden et le Premier ministre du royaume de Suède Ulf Kristersson</title>
+                <description>Le livestream commence vers 15:30.</description>
+                <pubDate>Wed, 19 Mar 2025 13:51:45 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/video-conference-presse/2025/03-mars/19-livestream-frieden-kristersson.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/video-conference-presse/2025/03-mars/19-livestream-frieden-kristersson.html</guid>
+            </item>
+        
             
             <item>
                 <title>Assermentations de deux agents au ministère de l'Environnement, du Climat et de la Biodiversité</title>
@@ -494,15 +503,6 @@
                 <pubDate>Fri, 7 Mar 2025 15:45:32 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mindigital%2Bfr%2Bactualites%2Barticle%2B2025%2Bbot4lib-poc.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mindigital%2Bfr%2Bactualites%2Barticle%2B2025%2Bbot4lib-poc.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Lancement de l'appel à projets visant le soutien à la publication pour galeries d'art professionnelles </title>
-                <description>Dans le but d&#39;encourager le d&amp;eacute;veloppement du secteur des arts visuels au Luxembourg et de soutenir le travail des galeries dans la promotion des artistes qu&#39;elles repr&amp;eacute;sentent, le minist&amp;egrave;re de la Culture lance un appel &amp;agrave; projets.</description>
-                <pubDate>Fri, 7 Mar 2025 15:52:56 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/07-appel-projets-culture.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/07-appel-projets-culture.html</guid>
             </item>
         
     </channel>
