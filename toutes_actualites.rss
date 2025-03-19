@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 19 Mar 2025 10:27:01 +0100 </pubDate>
-                <lastBuildDate>Wed, 19 Mar 2025 10:33:18 +0100</lastBuildDate>
+                <pubDate>Wed, 19 Mar 2025 12:08:17 +0100 </pubDate>
+                <lastBuildDate>Wed, 19 Mar 2025 12:14:00 +0100</lastBuildDate>
+            
+            <item>
+                <title>Assermentations de deux agents au ministère de l'Environnement, du Climat et de la Biodiversité</title>
+                <description>En date du 19 mars 2025, Serge Wilmes, ministre de l&#39;Environnement, du Climat et de la Biodiversit&amp;eacute;, a proc&amp;eacute;d&amp;eacute; &amp;agrave; l&#39;assermentation de deux agents. </description>
+                <pubDate>Wed, 19 Mar 2025 12:14:00 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mecb%2Bfr%2Bactualites%2B2024%2B19-wilmes-assermentations.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mecb%2Bfr%2Bactualites%2B2024%2B19-wilmes-assermentations.html</guid>
+            </item>
+        
             
             <item>
                 <title>Deux Zones fonctionnelles transfrontalières (ZFT) Luxembourg - Wallonie pour renforcer la coopération transfrontalière</title>
@@ -494,16 +503,6 @@
                 <pubDate>Fri, 7 Mar 2025 15:52:56 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/07-appel-projets-culture.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/07-appel-projets-culture.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Exercice de cyberdéfense &quot;Cyber Fortress&quot; 2025</title>
-                <description>&amp;quot;Cyber Fortress&amp;quot; est le plus grand exercice national de cyberd&amp;eacute;fense au Luxembourg, permettant aux participant&amp;middot;es de diff&amp;eacute;rentes nations &amp;ndash; Belgique, Lettonie, Luxembourg, Malte ainsi que l&#39;&amp;eacute;quipe European Union Cyber Rapid Response Teams ...
-</description>
-                <pubDate>Fri, 7 Mar 2025 08:44:26 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/07-armee-cyber-fortress.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/07-armee-cyber-fortress.html</guid>
             </item>
         
     </channel>
