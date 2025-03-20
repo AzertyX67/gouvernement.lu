@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 20 Mar 2025 11:12:00 +0100 </pubDate>
-                <lastBuildDate>Thu, 20 Mar 2025 11:28:09 +0100</lastBuildDate>
+                <pubDate>Thu, 20 Mar 2025 13:30:12 +0100 </pubDate>
+                <lastBuildDate>Thu, 20 Mar 2025 13:33:35 +0100</lastBuildDate>
+            
+            <item>
+                <title>Le nouveau &quot;EDI-Infomagazin fir Elteren&quot; vient de paraître</title>
+                <description>La quinzi&amp;egrave;me &amp;eacute;dition d&#39;EDI-Infomagazin fir Elteren consacre son dossier &amp;agrave; la Screen-Life-Balance, c&#39;est-&amp;agrave;-dire l&#39;&amp;eacute;quilibre entre le monde num&amp;eacute;rique et le monde r&amp;eacute;el pour les enfants et les jeunes. EDI se penche plus particuli&amp;egrave;rement sur les nouvelles ...</description>
+                <pubDate>Thu, 20 Mar 2025 13:33:35 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/20-edi-infomagazin-elteren.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/20-edi-infomagazin-elteren.html</guid>
+            </item>
+        
             
             <item>
                 <title>Visite de travail du Premier ministre du royaume de Suède, Ulf Kristersson, et de la ministre des Affaires européennes, Jessica Rosencrantz </title>
@@ -492,15 +501,6 @@
                 <pubDate>Sun, 9 Mar 2025 16:45:35 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/08-backes-journee-femme.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/08-backes-journee-femme.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Vers une participation active des femmes dans les métiers d'avenir grâce aux compétences numériques </title>
-                <description>&amp;Agrave; l&#39;occasion de la Journ&amp;eacute;e internationale des droits des femmes le 8 mars 2025, le gouvernement luxembourgeois r&amp;eacute;affirme son engagement en faveur de l&#39;&amp;eacute;galit&amp;eacute; des genres dans les domaines des STEM (Science, Technology, Engineering, and Mathematics) et ...</description>
-                <pubDate>Sat, 8 Mar 2025 15:16:49 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/08-femmes-metiers-avenir.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/08-femmes-metiers-avenir.html</guid>
             </item>
         
     </channel>
