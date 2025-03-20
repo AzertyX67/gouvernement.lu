@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 20 Mar 2025 16:50:23 +0100 </pubDate>
-                <lastBuildDate>Thu, 20 Mar 2025 16:56:04 +0100</lastBuildDate>
+                <pubDate>Thu, 20 Mar 2025 17:32:48 +0100 </pubDate>
+                <lastBuildDate>Thu, 20 Mar 2025 17:36:54 +0100</lastBuildDate>
+            
+            <item>
+                <title>Adoption de la loi sur les réseaux de transport d'hydrogène: une étape décisive vers la décarbonation de l'économie luxembourgeoise </title>
+                <description>Le 20 mars 2025, la Chambre des d&amp;eacute;put&amp;eacute;s a adopt&amp;eacute; le projet de loi 8298 relatif &amp;agrave; l&#39;&amp;eacute;tablissement de r&amp;eacute;seaux de transport d&#39;hydrog&amp;egrave;ne. </description>
+                <pubDate>Thu, 20 Mar 2025 17:36:54 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/20-delles-transport-hydrogene.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/20-delles-transport-hydrogene.html</guid>
+            </item>
+        
             
             <item>
                 <title>Entrevue entre Xavier Bettel et João Cravinho, représentant spécial de l'Union européenne pour le Sahel </title>
@@ -491,15 +500,6 @@
                 <pubDate>Mon, 10 Mar 2025 15:13:24 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/10-annulation-vols-passagers.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/10-annulation-vols-passagers.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Veille légale du mois de février</title>
-                <description>Mise en application de nouvelles normes europ&amp;eacute;ennes du domaine non-&amp;eacute;lectrique applicables au Grand-Duch&amp;eacute; de Luxembourg. Mise en application de nouvelles normes europ&amp;eacute;ennes du domaine &amp;eacute;lectrotechnique applicables au Grand-Duch&amp;eacute; de Luxembourg. Mise en application de nouvelles normes europ&amp;eacute;ennes du domaine des...</description>
-                <pubDate>Mon, 10 Mar 2025 13:38:11 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_acf%2Bfr%2Bactualites%2B2025%2B03-mars%2Bveille-legale-du-mois-de-fevrier.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_acf%2Bfr%2Bactualites%2B2025%2B03-mars%2Bveille-legale-du-mois-de-fevrier.html</guid>
             </item>
         
     </channel>
