@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 20 Mar 2025 14:58:00 +0100 </pubDate>
-                <lastBuildDate>Thu, 20 Mar 2025 15:01:53 +0100</lastBuildDate>
+                <pubDate>Thu, 20 Mar 2025 16:50:23 +0100 </pubDate>
+                <lastBuildDate>Thu, 20 Mar 2025 16:56:04 +0100</lastBuildDate>
+            
+            <item>
+                <title>Entrevue entre Xavier Bettel et João Cravinho, représentant spécial de l'Union européenne pour le Sahel </title>
+                <description>Le 20 mars 2025, le ministre des Affaires &amp;eacute;trang&amp;egrave;res et du Commerce ext&amp;eacute;rieur, ministre de la Coop&amp;eacute;ration et de l&#39;Action humanitaire, Xavier Bettel, a re&amp;ccedil;u Jo&amp;atilde;o Cravinho, repr&amp;eacute;sentant sp&amp;eacute;cial de l&#39;Union europ&amp;eacute;enne pour la r&amp;eacute;gion du Sahel.</description>
+                <pubDate>Thu, 20 Mar 2025 16:56:04 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/20-bettel-cravinho.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/20-bettel-cravinho.html</guid>
+            </item>
+        
             
             <item>
                 <title>Infections respiratoires: rétrospective de la semaine du 10 au 16 mars 2025</title>
@@ -491,15 +500,6 @@
                 <pubDate>Mon, 10 Mar 2025 13:38:11 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_acf%2Bfr%2Bactualites%2B2025%2B03-mars%2Bveille-legale-du-mois-de-fevrier.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_acf%2Bfr%2Bactualites%2B2025%2B03-mars%2Bveille-legale-du-mois-de-fevrier.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Le nouveau SpeedUP du GovTech Lab &quot;eMail4GOV&quot;</title>
-                <description>Le GovTech Lab vient de lancer un nouveau SpeedUP intitul&amp;eacute; &amp;quot;eMail4GOV&amp;quot;, ouvert &amp;agrave; candidatures du 10 mars au 10 avril 2025.</description>
-                <pubDate>Mon, 10 Mar 2025 10:43:01 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mindigital%2Bfr%2Bactualites%2Barticle%2B2025%2Bspeedup-email4gov.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mindigital%2Bfr%2Bactualites%2Barticle%2B2025%2Bspeedup-email4gov.html</guid>
             </item>
         
     </channel>
