@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Thu, 20 Mar 2025 13:30:12 +0100 </pubDate>
-                <lastBuildDate>Thu, 20 Mar 2025 13:33:35 +0100</lastBuildDate>
+                <pubDate>Thu, 20 Mar 2025 14:58:00 +0100 </pubDate>
+                <lastBuildDate>Thu, 20 Mar 2025 15:01:53 +0100</lastBuildDate>
+            
+            <item>
+                <title>Infections respiratoires: rétrospective de la semaine du 10 au 16 mars 2025</title>
+                <description>La Direction de la sant&amp;eacute; publie sa r&amp;eacute;trospective hebdomadaire concernant l&#39;&amp;eacute;volution des principales infections respiratoires aigu&amp;euml;s, incluant la COVID-19, la grippe et le virus respiratoire syncytial (RSV).</description>
+                <pubDate>Thu, 20 Mar 2025 15:01:53 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/20-infections-respiratoires.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/20-infections-respiratoires.html</guid>
+            </item>
+        
             
             <item>
                 <title>Le nouveau &quot;EDI-Infomagazin fir Elteren&quot; vient de paraître</title>
@@ -491,16 +500,6 @@
                 <pubDate>Mon, 10 Mar 2025 10:43:01 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mindigital%2Bfr%2Bactualites%2Barticle%2B2025%2Bspeedup-email4gov.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mindigital%2Bfr%2Bactualites%2Barticle%2B2025%2Bspeedup-email4gov.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Une semaine sous le signe des droits des femmes et filles: le programme ambitieux de Yuriko Backes pour célébrer la journée internationale des femmes </title>
-                <description>La semaine pr&amp;eacute;c&amp;eacute;dant la Journ&amp;eacute;e internationale de la femme, le 8 mars, ainsi que le jour m&amp;ecirc;me, Yuriko Backes, ministre de l&#39;&amp;Eacute;galit&amp;eacute; des genres et de la Diversit&amp;eacute;, a pris part &amp;agrave; de nombreux &amp;eacute;v&amp;eacute;nements, conf&amp;eacute;rences et manifestations.
-</description>
-                <pubDate>Sun, 9 Mar 2025 16:45:35 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/08-backes-journee-femme.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/08-backes-journee-femme.html</guid>
             </item>
         
     </channel>
