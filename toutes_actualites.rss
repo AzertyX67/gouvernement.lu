@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate> </pubDate>
-                <lastBuildDate></lastBuildDate>
+                <pubDate>Fri, 21 Mar 2025 18:11:00 +0100 </pubDate>
+                <lastBuildDate>Fri, 21 Mar 2025 18:17:37 +0100</lastBuildDate>
+            
+            <item>
+                <title>GoodFoodLoop: rassembler les jeunes autour du bien-être, de l'alimentation saine et du mouvement</title>
+                <description>Dans le cadre de la campagne Screen-Life Balance du minist&amp;egrave;re de l&#39;&amp;Eacute;ducation nationale, de l&#39;Enfance et de la Jeunesse, le Service national de la jeunesse (SNJ) a mis en place l&#39;initiative GoodFoodLoop.</description>
+                <pubDate>Fri, 21 Mar 2025 18:17:37 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/21-meisch-goodfoodloop.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/21-meisch-goodfoodloop.html</guid>
+            </item>
+        
             
             <item>
                 <title></title>
@@ -487,15 +496,6 @@
                 <pubDate>Fri, 14 Mar 2025 08:29:53 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/13-gloden-lahaye.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/13-gloden-lahaye.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>&quot;Das Geld liegt auf dem Boden, aber es wird nicht aufgehoben&quot;</title>
-                <description>Interview mit Georges Mischo im Tageblatt</description>
-                <pubDate>Thu, 13 Mar 2025 08:40:09 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Binterviews%2B2025%2B03-mars%2B12-mischo-tageblatt.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouvernement2024%2Bde%2Bactualites%2Btoutes_actualites%2Binterviews%2B2025%2B03-mars%2B12-mischo-tageblatt.html</guid>
             </item>
         
     </channel>
