@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Tue, 25 Mar 2025 18:05:53 +0100 </pubDate>
-                <lastBuildDate>Tue, 25 Mar 2025 18:11:21 +0100</lastBuildDate>
+                <pubDate>Wed, 26 Mar 2025 00:00:00 +0100 </pubDate>
+                <lastBuildDate>Wed, 26 Mar 2025 10:22:58 +0100</lastBuildDate>
+            
+            <item>
+                <title>Le ''Logement en Chiffres'' n°17, en collaboration avec le Statec </title>
+                <description>Depuis 2014, l&#39;Observatoire de l&#39;habitat et le Statec diffusent conjointement une publication consacr&amp;eacute;e au march&amp;eacute; de l&#39;immobilier r&amp;eacute;sidentiel. </description>
+                <pubDate>Wed, 26 Mar 2025 10:22:58 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/26-logement-chiffres.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/26-logement-chiffres.html</guid>
+            </item>
+        
             
             <item>
                 <title>Présentation du nouveau Service d'information et de médiation dans le domaine des services pour les personnes âgées (SIMPA)</title>
@@ -259,7 +268,7 @@
                 <title>Ouverture du premier tronçon de l'autoroute A3 à 2x3 voies avec une voie dédiée au covoiturage/bus</title>
                 <description>Dans le cadre du projet d&#39;&amp;eacute;largissement de l&#39;autoroute A3, une &amp;eacute;tape majeure sera franchie avec l&#39;ouverture du premier tron&amp;ccedil;on &amp;agrave; 2x3 voies reliant la croix de Gasperich &amp;agrave; l&#39;aire de Berchem en date du 23 mars 2025. 
 </description>
-                <pubDate>Fri, 21 Mar 2025 11:50:27 +0100</pubDate>
+                <pubDate>Wed, 26 Mar 2025 10:17:24 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/21-backes-autoroute-a3.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/21-backes-autoroute-a3.html</guid>
             </item>
@@ -482,15 +491,6 @@
                 <pubDate>Mon, 17 Mar 2025 15:04:27 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_meco%2Bfr%2Bactualites%2Bmes-actualites%2B2025%2B17-european-entreprise-promotion-awards.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_meco%2Bfr%2Bactualites%2Bmes-actualites%2B2025%2B17-european-entreprise-promotion-awards.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Assermentation de Madame Juliana Carvalho da Costa et de Monsieur Michaël Schweicher auprès de l'Institut national pour le patrimoine architectural</title>
-                <description>Le ministre de la Culture, Eric Thill, a proc&amp;eacute;d&amp;eacute; en date du 17 mars 2025 &amp;agrave; l&#39;assermentation de Monsieur Micha&amp;euml;l Schweicher, nomm&amp;eacute; r&amp;eacute;dacteur aupr&amp;egrave;s de l&amp;rsquo;Institut national pour le patrimoine architectural avec effet &amp;agrave; partir du 1er avril 2025 et...</description>
-                <pubDate>Mon, 17 Mar 2025 13:28:01 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mcult%2Bfr%2Bactualites%2Bmes-actualites%2B2025%2Bmars%2Bassermentation-inpa.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites.gouv2024_mcult%2Bfr%2Bactualites%2Bmes-actualites%2B2025%2Bmars%2Bassermentation-inpa.html</guid>
             </item>
         
     </channel>
