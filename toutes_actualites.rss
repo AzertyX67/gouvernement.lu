@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 28 Mar 2025 13:03:30 +0100 </pubDate>
-                <lastBuildDate>Fri, 28 Mar 2025 13:11:46 +0100</lastBuildDate>
+                <pubDate>Fri, 28 Mar 2025 15:28:24 +0100 </pubDate>
+                <lastBuildDate>Fri, 28 Mar 2025 15:33:40 +0100</lastBuildDate>
+            
+            <item>
+                <title>Le Luxembourg partenaire clé des festivités du Guide Michelin 2025 à Metz </title>
+                <description>Du 29 au 31 mars 2025, Metz accueillera les festivit&amp;eacute;s gastronomiques autour de la pr&amp;eacute;sentation du Guide Michelin France 2025. </description>
+                <pubDate>Fri, 28 Mar 2025 15:33:40 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/28-delles-hansen-michelin-metz.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/28-delles-hansen-michelin-metz.html</guid>
+            </item>
+        
             
             <item>
                 <title>Organisation interne du ministère d'État </title>
@@ -478,15 +487,6 @@
                 <pubDate>Thu, 20 Mar 2025 11:56:47 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/20-backes-kyiv.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/20-backes-kyiv.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Le nombre de postes déclarés continue à augmenter en février 2025</title>
-                <description>Le nombre de demandeurs d&#39;emploi r&amp;eacute;sidents disponibles inscrits &amp;agrave; l&#39;ADEM s&#39;&amp;eacute;l&amp;egrave;ve &amp;agrave; 19.460 au 28 f&amp;eacute;vrier 2025, en hausse de 1.294 personnes (soit 7,1%) par rapport au mois de f&amp;eacute;vrier 2024.</description>
-                <pubDate>Thu, 20 Mar 2025 11:12:47 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/20-adem-chomage.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/20-adem-chomage.html</guid>
             </item>
         
     </channel>
