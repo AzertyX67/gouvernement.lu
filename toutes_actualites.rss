@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 28 Mar 2025 11:01:56 +0100 </pubDate>
-                <lastBuildDate>Fri, 28 Mar 2025 11:04:52 +0100</lastBuildDate>
+                <pubDate>Fri, 28 Mar 2025 13:03:30 +0100 </pubDate>
+                <lastBuildDate>Fri, 28 Mar 2025 13:11:46 +0100</lastBuildDate>
+            
+            <item>
+                <title>Organisation interne du ministère d'État </title>
+                <description>Sur d&amp;eacute;cision du Premier ministre, le minist&amp;egrave;re d&#39;&amp;Eacute;tat proc&amp;eacute;dera &amp;agrave; une r&amp;eacute;organisation interne afin de cr&amp;eacute;er davantage de synergies th&amp;eacute;matiques.</description>
+                <pubDate>Fri, 28 Mar 2025 13:11:46 +0100</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/28-organisation-interne-etat.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/28-organisation-interne-etat.html</guid>
+            </item>
+        
             
             <item>
                 <title>Consumer Conditions Scoreboard 2025: Rapport sur les tendances récentes en matière d'expérience et de comportement des consommateurs </title>
@@ -478,15 +487,6 @@
                 <pubDate>Thu, 20 Mar 2025 11:12:47 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/20-adem-chomage.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/20-adem-chomage.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Succès de la 3e Journée du réseau bibnet.lu à la Bibliothèque nationale du Luxembourg </title>
-                <description>Plus d&#39;une centaine de professionnels et biblioth&amp;eacute;caires se sont r&amp;eacute;unis &amp;agrave; la Biblioth&amp;egrave;que nationale du Luxembourg pour la 3&amp;#7497; Journ&amp;eacute;e du r&amp;eacute;seau bibnet.lu.</description>
-                <pubDate>Thu, 20 Mar 2025 08:54:25 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/20-thill-reseau-bibnet.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/20-thill-reseau-bibnet.html</guid>
             </item>
         
     </channel>
