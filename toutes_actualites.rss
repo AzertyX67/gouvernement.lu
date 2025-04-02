@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Wed, 2 Apr 2025 03:00:00 +0200 </pubDate>
-                <lastBuildDate>Tue, 1 Apr 2025 11:00:52 +0200</lastBuildDate>
+                <pubDate>Wed, 2 Apr 2025 08:42:15 +0200 </pubDate>
+                <lastBuildDate>Wed, 2 Apr 2025 08:57:16 +0200</lastBuildDate>
+            
+            <item>
+                <title>Publication du rapport d'activité 2024 de l'Observatoire national de la santé </title>
+                <description>Le 2 avril 2025, l&#39;Observatoire national de la sant&amp;eacute; (ObSant&amp;eacute;) a publi&amp;eacute; son rapport d&#39;activit&amp;eacute; pour l&#39;ann&amp;eacute;e 2024. </description>
+                <pubDate>Wed, 2 Apr 2025 08:57:16 +0200</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/04-avril/02-deprez-rapport-obs-sante.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/04-avril/02-deprez-rapport-obs-sante.html</guid>
+            </item>
+        
             
             <item>
                 <title>L’AEC de l’assurance dépendance communique à l’occasion de la Journée mondiale de la sensibilisation à l’autisme</title>
@@ -480,15 +489,6 @@
                 <pubDate>Tue, 25 Mar 2025 10:54:31 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/24-commandes-composition.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/24-commandes-composition.html</guid>
-            </item>
-        
-            
-            <item>
-                <title>Entrevue entre Xavier Bettel et Austelino Correia, Président de l'Assemblée nationale du Cabo Verde </title>
-                <description>Les interlocuteurs se sont f&amp;eacute;licit&amp;eacute;s de l&#39;excellence des relations bilat&amp;eacute;rales entre le Luxembourg et le Cabo Verde et ont &amp;eacute;voqu&amp;eacute; leur &amp;eacute;volution au fil des ann&amp;eacute;es. </description>
-                <pubDate>Tue, 25 Mar 2025 07:39:27 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/25-bettel-correia.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/25-bettel-correia.html</guid>
             </item>
         
     </channel>
