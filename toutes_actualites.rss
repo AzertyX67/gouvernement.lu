@@ -33,8 +33,17 @@
         </skipDays>
         
             
-                <pubDate>Fri, 4 Apr 2025 16:00:00 +0200 </pubDate>
-                <lastBuildDate>Fri, 4 Apr 2025 14:50:12 +0200</lastBuildDate>
+                <pubDate>Fri, 4 Apr 2025 16:06:47 +0200 </pubDate>
+                <lastBuildDate>Fri, 4 Apr 2025 16:13:12 +0200</lastBuildDate>
+            
+            <item>
+                <title>La loi relative au logement abordable: optimisations ciblées pour une mise en œuvre renforcée </title>
+                <description>Lors de la conf&amp;eacute;rence de presse, Claude Meisch, ministre du Logement et de l&#39;Am&amp;eacute;nagement du territoire, a expliqu&amp;eacute; les mesures principales du projet de loi visant &amp;agrave; optimiser l&#39;application de la loi modifi&amp;eacute;e du 7 ao&amp;ucirc;t 2023 relative au logement abordable.</description>
+                <pubDate>Fri, 4 Apr 2025 16:13:12 +0200</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/04-avril/04-meisch-loi-logement-abordable.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/04-avril/04-meisch-loi-logement-abordable.html</guid>
+            </item>
+        
             
             <item>
                 <title>Résumé des travaux du 4 avril 2025</title>
@@ -481,15 +490,6 @@
                 <pubDate>Wed, 26 Mar 2025 10:22:58 +0100</pubDate>
                 <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/26-logement-chiffres.html</link>
                 <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/26-logement-chiffres.html</guid>
-            </item>
-        
-            
-            <item>
-                <title></title>
-                <description>Sur invitation de LL.AA.RR. le Grand-Duc et la Grande-Duchesse, le pr&amp;eacute;sident de la r&amp;eacute;publique de Singapour, Tharman Shanmugaratnam, et son &amp;eacute;pouse Jane Ittogi Shanmugaratnam effectueront une visite d&#39;&amp;Eacute;tat au Luxembourg du 27 au 28 mars 2025.</description>
-                <pubDate></pubDate>
-                <link></link>
-                <guid isPermaLink="true"></guid>
             </item>
         
     </channel>
