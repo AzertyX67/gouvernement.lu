@@ -33,8 +33,18 @@
         </skipDays>
         
             
-                <pubDate>Fri, 4 Apr 2025 14:05:00 +0200 </pubDate>
-                <lastBuildDate>Fri, 4 Apr 2025 14:08:30 +0200</lastBuildDate>
+                <pubDate>Fri, 4 Apr 2025 16:00:00 +0200 </pubDate>
+                <lastBuildDate>Fri, 4 Apr 2025 14:50:12 +0200</lastBuildDate>
+            
+            <item>
+                <title>Résumé des travaux du 4 avril 2025</title>
+                <description>Le Conseil de gouvernement s&#39;est r&amp;eacute;uni vendredi 4 avril 2025 sous la pr&amp;eacute;sidence du Premier ministre Luc Frieden.
+</description>
+                <pubDate>Fri, 4 Apr 2025 14:50:12 +0200</pubDate>
+                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/04-avril/04-conseil-gouvernement.html</link>
+                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/04-avril/04-conseil-gouvernement.html</guid>
+            </item>
+        
             
             <item>
                 <title>Xavier Bettel à la réunion des ministres des Affaires étrangères de l'OTAN</title>
@@ -480,15 +490,6 @@
                 <pubDate></pubDate>
                 <link></link>
                 <guid isPermaLink="true"></guid>
-            </item>
-        
-            
-            <item>
-                <title>Barrage du tunnel ''Mersch'' sur l'autoroute A7 </title>
-                <description>Dans le cadre du remplacement d&#39;un &amp;eacute;quipement technique dans le tunnel &amp;quot;Mersch&amp;quot;, le tunnel est barr&amp;eacute; dans les deux sens le dimanche 30.03.2025 de 6 h 30 &amp;agrave; 20 heures.</description>
-                <pubDate>Wed, 26 Mar 2025 16:30:10 +0100</pubDate>
-                <link>//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/26-barrage-tunnel-mersch.html</link>
-                <guid isPermaLink="true">//gouvernement.lu/fr/actualites/toutes_actualites/communiques/2025/03-mars/26-barrage-tunnel-mersch.html</guid>
             </item>
         
     </channel>
